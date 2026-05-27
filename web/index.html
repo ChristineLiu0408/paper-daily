@@ -1,0 +1,128 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Paper Daily</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div>
+        <h1>Paper Daily</h1>
+        <p id="updatedAt">正在读取数据</p>
+      </div>
+      <div class="top-actions">
+        <a class="icon-link" href="https://github.com/Futuresxy/paper-daily/issues" target="_blank" rel="noreferrer" title="配置研究方向">⚙</a>
+        <a class="icon-link" href="https://github.com/Futuresxy/paper-daily/actions" target="_blank" rel="noreferrer" title="查看更新任务">↻</a>
+      </div>
+    </header>
+
+    <main class="layout">
+      <aside class="sidebar">
+        <section class="panel">
+          <label class="field">
+            <span>搜索</span>
+            <input id="searchInput" type="search" placeholder="标题、作者、关键词" />
+          </label>
+
+          <label class="field">
+            <span>研究方向</span>
+            <select id="topicFilter"></select>
+          </label>
+
+          <label class="field">
+            <span>匹配度</span>
+            <select id="levelFilter">
+              <option value="all">全部</option>
+              <option value="high">High</option>
+              <option value="medium">Medium</option>
+              <option value="low">Low</option>
+            </select>
+          </label>
+
+          <label class="field">
+            <span>时间</span>
+            <select id="dateFilter">
+              <option value="all">全部</option>
+              <option value="1">今天</option>
+              <option value="3">近 3 天</option>
+              <option value="7">近 7 天</option>
+            </select>
+          </label>
+        </section>
+
+        <section class="panel stats">
+          <div>
+            <span class="stat-number" id="paperCount">0</span>
+            <span class="stat-label">论文</span>
+          </div>
+          <div>
+            <span class="stat-number" id="topicCount">0</span>
+            <span class="stat-label">方向</span>
+          </div>
+          <div>
+            <span class="stat-number" id="llmStatus">-</span>
+            <span class="stat-label">总结</span>
+          </div>
+        </section>
+      </aside>
+
+      <section class="content">
+        <div class="content-head">
+          <h2>最新论文</h2>
+          <span id="resultCount">0 篇</span>
+        </div>
+        <div id="paperList" class="paper-list"></div>
+      </section>
+    </main>
+
+    <template id="paperTemplate">
+      <article class="paper-card">
+        <div class="paper-meta">
+          <span class="match-badge"></span>
+          <span class="paper-date"></span>
+          <span class="paper-source"></span>
+        </div>
+        <h3 class="paper-title"></h3>
+        <p class="paper-authors"></p>
+        <div class="paper-tags"></div>
+        <dl class="summary-grid">
+          <div>
+            <dt>问题</dt>
+            <dd class="summary-problem"></dd>
+          </div>
+          <div>
+            <dt>方法</dt>
+            <dd class="summary-method"></dd>
+          </div>
+          <div>
+            <dt>创新</dt>
+            <dd class="summary-innovation"></dd>
+          </div>
+          <div>
+            <dt>依据</dt>
+            <dd class="summary-evidence"></dd>
+          </div>
+          <div>
+            <dt>局限</dt>
+            <dd class="summary-limitations"></dd>
+          </div>
+          <div>
+            <dt>匹配</dt>
+            <dd class="summary-relevant"></dd>
+          </div>
+        </dl>
+        <div class="paper-footer">
+          <span class="match-reason"></span>
+          <div class="paper-links">
+            <a class="paper-link abs-link" target="_blank" rel="noreferrer">原文</a>
+            <a class="paper-link pdf-link" target="_blank" rel="noreferrer">PDF</a>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <script src="./app.js"></script>
+  </body>
+</html>
