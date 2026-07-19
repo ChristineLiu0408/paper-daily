@@ -2,14 +2,14 @@
   "watch_id": "monthly-top-psychology-journal-watch",
   "part_name": "Monthly Top Psychology Journal Watch",
   "frequency": "monthly",
-  "generated_at": "2026-07-19T13:26:05.214388+00:00",
+  "generated_at": "2026-07-19T14:00:09.983381+00:00",
   "since_days": 31,
   "source_count": 18,
   "successful_source_count": 18,
   "failed_source_count": 0,
   "skipped_source_count": 0,
-  "raw_entry_count": 162,
-  "candidate_count": 6,
+  "raw_entry_count": 125,
+  "candidate_count": 5,
   "source_results": [
     {
       "source": "Journal of Personality and Social Psychology",
@@ -30,7 +30,7 @@
     {
       "source": "Journal of Experimental Social Psychology",
       "source_type": "journal",
-      "raw_count": 27,
+      "raw_count": 0,
       "failed": false,
       "skipped": false,
       "failure_count": 0
@@ -102,7 +102,7 @@
     {
       "source": "Current Opinion in Psychology",
       "source_type": "journal",
-      "raw_count": 13,
+      "raw_count": 3,
       "failed": false,
       "skipped": false,
       "failure_count": 0
@@ -546,6 +546,53 @@
     },
     {
       "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "The notions of fathering and mothering at the heart of parenting in contemporary society: A practical theological foundation",
+      "source": "Pharos Journal of Theology",
+      "link": "https://doi.org/10.46222/pharosjot.107.4031",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The Measure of Youth-Hope, Efficacy, Resilience and Optimism at School (MY-HERO@School): Development and Validation of an Instrument for Evaluating Psychological Capital (PsyCap) in an Australian High School Context",
+      "source": "Journal of Happiness Studies",
+      "link": "https://doi.org/10.1007/s10902-026-01066-8",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Non-Linear Optimization and Discrete Convolutional Operators in Deep Learning Neural Architectures",
+      "source": "International Journal of Creative and Open Research in Engineering and Management",
+      "link": "https://doi.org/10.55041/ijcope.v2i7.159",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "organization_work",
+      "title": "EMPLOYEE WELL-BEING IN HEALTHCARE ORGANIZATIONS AND ITS IMPACT ON ORGANIZATIONAL PERFORMANCE: AN EMPIRICAL STUDY",
+      "source": "International Journal of Drug Delivery Technology",
+      "link": "https://doi.org/10.25258/ijddt.16.66s.2",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "well-being"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "EEG Alpha Modulation During Museum Storytelling in Older Dyads: An Occupational Engagement Study",
+      "source": "Research Square",
+      "link": "https://doi.org/10.21203/rs.3.rs-10300580/v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
       "topic_label": "other",
       "title": "Does Self-Projection Have a Dominant Temporal Direction? In Nine Countries, People Feel More Similar to Their Future Than Past Selves",
       "source": "Personality and Social Psychology Bulletin",
@@ -555,21 +602,19 @@
     },
     {
       "relevance_label": "reject",
-      "topic_label": "emotional_social",
-      "title": "The influence of college students’ “Wan Geng” motivation on emotion regulation self-efficacy",
-      "source": "Frontiers in Psychology",
-      "link": "https://doi.org/10.3389/fpsyg.2026.1802652",
+      "topic_label": "consumer_marketing",
+      "title": "Customer satisfaction: A multi-level framework",
+      "source": "Journal of the Academy of Marketing Science",
+      "link": "https://doi.org/10.1007/s11747-026-01175-z",
       "matched_ai_terms": [],
-      "matched_social_terms": [
-        "emotion"
-      ]
+      "matched_social_terms": []
     },
     {
       "relevance_label": "reject",
-      "topic_label": "consumer_marketing",
-      "title": "The Political Economy of Embedded Marketing in the Television Quiz Show Family 100: A Qualitative Study",
-      "source": "Glosains Jurnal Sains Global Indonesia",
-      "link": "https://doi.org/10.59784/glosains.v7i3.795",
+      "topic_label": "health_mental_health",
+      "title": "Assessing the gap between perceived and expected healthcare needs of older adults in Bangladesh using the Kano Model",
+      "source": "Discover Public Health",
+      "link": "https://doi.org/10.1186/s12982-026-02089-5",
       "matched_ai_terms": [],
       "matched_social_terms": []
     },
@@ -587,58 +632,18 @@
     {
       "relevance_label": "reject",
       "topic_label": "other",
-      "title": "Rethink beauty, change how you feel: Mediating role of effort invested",
-      "source": "Acta Psychologica",
-      "link": "https://doi.org/10.1016/j.actpsy.2026.107459",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "On the role of verbal semantics in question embedding: the case of to know",
-      "source": "Linguistics and Philosophy",
-      "link": "https://doi.org/10.1007/s10988-026-09464-0",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "AI",
-      "topic_label": "other",
-      "title": "Machiavellianism, Bullying, and Manipulation Fears in the AI Work Environment",
-      "source": "Journal of Leadership Accountability and Ethics",
-      "link": "https://doi.org/10.33423/m996x860",
-      "matched_ai_terms": [
-        "AI"
-      ],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Family Dynamics And Pro-Social Competence Of College Students In Osun State, Nigeria",
-      "source": "F1000Research",
-      "link": "https://doi.org/10.12688/f1000research.183020.1",
-      "matched_ai_terms": [],
-      "matched_social_terms": [
-        "social"
-      ]
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Analytical Study on Unsolved Question and Mysteries of the Universe and Wisdom from Holly Book",
-      "source": "Transactions on Engineering and Computing Sciences",
-      "link": "https://doi.org/10.14738/tecs.1404.11991",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
       "title": "Moved by the Lightest Touch of Meaning: Even Minimal Significance Matters for Motivation From Childhood",
       "source": "Psychological Science",
       "link": "https://journals.sagepub.com/doi/abs/10.1177/09567976261462874?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Mobile eye-tracking in art museums: From visitor research to museum practice",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26000989?dgcid=rss_sd_all",
       "matched_ai_terms": [],
       "matched_social_terms": []
     },
@@ -677,6 +682,15 @@
       "title": "Replication of “Procrastination, Deadlines, and Performance: Self-Control by Precommitment”",
       "source": "Psychological Science",
       "link": "https://journals.sagepub.com/doi/abs/10.1177/09567976261460772?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Aesthetic Insights from Infant Looking.",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26000977?dgcid=rss_sd_all",
       "matched_ai_terms": [],
       "matched_social_terms": []
     },
@@ -1006,6 +1020,15 @@
       "title": "A Field Experiment Testing Whether Accountability Reduces Racial Gaps in Performance Evaluations",
       "source": "Psychological Science",
       "link": "https://journals.sagepub.com/doi/abs/10.1177/09567976261458988?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Racialized Psychotherapy: Understudied Risks and the Case for Empirical Scrutiny",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26000941?dgcid=rss_sd_all",
       "matched_ai_terms": [],
       "matched_social_terms": []
     },
@@ -1356,380 +1379,6 @@
       "link": "https://psycnet.apa.org/record/2027-87672-001",
       "matched_ai_terms": [],
       "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "“Friend or foe?” the ironic effect of speaking the minority's language in intergroup conflicts: Palestinian reactions to Jewish-Israelis using Arabic",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126000739?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": [
-        "friend"
-      ]
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "When it is important to be more virtuous: Cultural tightness exacerbates moral superiority",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126000971?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Visual liking as sensory valuation",
-      "source": "Current Opinion in Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26000928?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Visual art and flourishing: Current evidence and emerging directions",
-      "source": "Current Opinion in Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26000904?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "gender_equality",
-      "title": "Underestimating sexism: Is gender categorization key?",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126001034?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": [
-        "gender"
-      ]
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "The sweet spot of seeing: A categorization-based account of visual aesthetic pleasure",
-      "source": "Current Opinion in Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26000898?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "The psychology of negotiation alternatives: Power, pathways, and performance",
-      "source": "Current Opinion in Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26000953?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Testing the psychological distinctiveness of proscriptive and prescriptive moral norms: A replication and extension of Janoff-Bulman et al. (2009)",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126000776?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Stimulus-category confounds reduce, but do not explain, different roles of intent across moral domains: Valid statistical inference helps explain ‘inconsistent’ findings",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126001022?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "education_learning",
-      "title": "Selective traits and general rewards: Differentiating learning effects on social impression and choice",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126000983?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": [
-        "social"
-      ]
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Selective ignorance? The role of the information target in allocation decisions",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126000892?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "consumer_marketing",
-      "title": "Seeing oneself in the feed: Racialized targeting in food marketing and its impact on adolescents' visual interest and unhealthy food preferences",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126000934?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Replication and extension of Carlson and Zaki (2018): Do lay theories of altruism apply equally to all actors?",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126000995?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Racialized Psychotherapy: Understudied Risks and the Case for Empirical Scrutiny",
-      "source": "Current Opinion in Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26000941?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Post-negotiation behavior and attitudes: We have a deal, now what?",
-      "source": "Current Opinion in Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26000965?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Politics in psychiatry and psychotherapis in Japan with personal reflection; Is cognitive behavior therapy non-political?",
-      "source": "Current Opinion in Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26000874?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Persuasion via intermediaries: The pull of extremity",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126000910?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "People underestimate how receptive other people are to different political opinions",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126000727?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "emotional_social",
-      "title": "People feel but don't tell: Dispositional honesty and emotional responses to others' (mis)fortunes",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S002210312600096X?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": [
-        "emotional"
-      ]
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Mobile eye-tracking in art museums: From visitor research to museum practice",
-      "source": "Current Opinion in Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26000989?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Is it my fault? How attributing exclusion to norm violations triggers self-directed emotions",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126000909?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Is comedy funnier when it is easier to process? The interplay of fluency and coherence in humor appreciation",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126001009?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Hypocrisy either way: Judgments of moral actors who choose between conflicting commitments",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126000752?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "gender_equality",
-      "title": "How and why the omission bias affects victims' and third parties' responses to interpersonal transgressions",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126001010?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": [
-        "interpersonal"
-      ]
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Giving women credit where credit is due: The role of amplifying, attributing, and appropriating others' ideas",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126000740?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "From collective guilt to moral implication in collective memory studies",
-      "source": "Current Opinion in Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X2600093X?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "emotional_social",
-      "title": "Fairness matters: The impact of leaders' emotional expressions on subordinates' behavior",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126000879?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": [
-        "emotional"
-      ]
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Expectations of middle school children's academic performance in STEM and the Humanities: The effects of genetic and environmental frameworks",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126000764?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Editorial Board",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126001083?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Does behavioral parent training benefit from cultural adaptations? A critical analysis",
-      "source": "Current Opinion in Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26000862?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Does attending to the nose vs. eyes reduce the cross-race recognition deficit? A systematic test",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126000880?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Do people think I'm late in life? An intersubjective approach to culture and the optimal timing of life",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126001137?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Diversity, equity, and inclusion regression: Perceptions of organizations that fail to persevere in their stated commitments",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126000946?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "governance_society",
-      "title": "Corrigendum to “A trust inoculation to protect public support of governmentally mandated actions to mitigate climate change” [Journal of Experimental Social Psychology 115 (2024) 104656]",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126000442?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": [
-        "social"
-      ]
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Contemporary antisemitism: Implications for cognitive behavioral therapy",
-      "source": "Current Opinion in Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26000825?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Collective streaks motivate prosocial behavior",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126000715?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Cognitive conflict in willful ignorance: A mouse-tracking study",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126000922?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Between law and conscience: Act legality shapes moral evaluation",
-      "source": "Journal of Experimental Social Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126001149?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "health_mental_health",
-      "title": "Antisemitism in professional clinical psychology training",
-      "source": "Current Opinion in Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26000850?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
-    },
-    {
-      "relevance_label": "reject",
-      "topic_label": "other",
-      "title": "Aesthetic Insights from Infant Looking.",
-      "source": "Current Opinion in Psychology",
-      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26000977?dgcid=rss_sd_all",
-      "matched_ai_terms": [],
-      "matched_social_terms": []
     }
   ],
   "candidates": [
@@ -1770,17 +1419,6 @@
       "matched_social_terms": [
         "social"
       ]
-    },
-    {
-      "relevance_label": "AI",
-      "topic_label": "other",
-      "title": "Machiavellianism, Bullying, and Manipulation Fears in the AI Work Environment",
-      "source": "Journal of Leadership Accountability and Ethics",
-      "link": "https://doi.org/10.33423/m996x860",
-      "matched_ai_terms": [
-        "AI"
-      ],
-      "matched_social_terms": []
     },
     {
       "relevance_label": "high",
