@@ -1,0 +1,474 @@
+{
+  "version": 1,
+  "strict_keywords": [
+    "human-AI interaction",
+    "human-AI relationship",
+    "AI emotional support",
+    "AI interpersonal relationship",
+    "AI companion",
+    "AI companionship",
+    "AI disclosure",
+    "AI self-disclosure",
+    "AI intimacy",
+    "AI social support",
+    "AI loneliness",
+    "AI friendship",
+    "AI romantic relationship",
+    "AI-mediated relationship",
+    "AI-mediated social support",
+    "AI-mediated intimacy",
+    "chatbot emotional support",
+    "chatbot self-disclosure",
+    "chatbot companionship",
+    "conversational agent emotional support",
+    "conversational agent self-disclosure",
+    "conversational agent companionship",
+    "virtual companion loneliness",
+    "virtual companion intimacy",
+    "social robot companionship",
+    "social robot emotional support",
+    "Replika companionship",
+    "LLM emotional support",
+    "LLM companionship",
+    "LLM self-disclosure"
+  ],
+  "broad_ai_keywords": [
+    "artificial intelligence",
+    "AI",
+    "large language model",
+    "large language models",
+    "LLM",
+    "chatbot",
+    "ChatGPT",
+    "conversational agent",
+    "algorithm",
+    "algorithmic",
+    "automation",
+    "human-AI",
+    "human-computer interaction",
+    "human-robot",
+    "social robot",
+    "virtual agent"
+  ],
+  "high_relevance_markers": [
+    "relationship",
+    "interpersonal",
+    "emotional support",
+    "social support",
+    "self-disclosure",
+    "disclosure",
+    "loneliness",
+    "intimacy",
+    "belonging",
+    "friendship",
+    "romantic",
+    "empathy",
+    "meaning in life",
+    "well-being",
+    "social connection"
+  ],
+  "watches": [
+    {
+      "id": "weekly-applied-ai-journal-watch",
+      "part_name": "Weekly Applied AI Journal Watch",
+      "frequency": "weekly",
+      "date_format": "%Y-%m-%d",
+      "purpose": "Track high-output AI / HCI / consumer / technology journals, plus selected general high-impact journals.",
+      "relevance_mode": "layered_ai_social",
+      "source_policy": "rss_first_api_fallback",
+      "api_fallbacks": [
+        "openalex",
+        "crossref"
+      ],
+      "sources": [
+        {
+          "name": "Computers in Human Behavior",
+          "source_type": "journal",
+          "rss_url": "https://rss.sciencedirect.com/publication/science/07475632"
+        },
+        {
+          "name": "International Journal of Human-Computer Studies",
+          "source_type": "journal",
+          "rss_url": "https://rss.sciencedirect.com/publication/science/10715819"
+        },
+        {
+          "name": "International Journal of Human-Computer Interaction",
+          "source_type": "journal",
+          "rss_url": "https://www.tandfonline.com/feed/rss/hihc20"
+        },
+        {
+          "name": "Journal of Consumer Research",
+          "source_type": "journal",
+          "rss_url": "https://academic.oup.com/rss/site_5397/advanceAccess_3258.xml"
+        },
+        {
+          "name": "Journal of Marketing",
+          "source_type": "journal",
+          "rss_url": "https://journals.sagepub.com/action/showFeed?type=etoc&feed=rss&jc=jmx"
+        },
+        {
+          "name": "Psychology & Marketing",
+          "source_type": "journal",
+          "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=15206793&type=etoc&feed=rss"
+        },
+        {
+          "name": "Journal of Consumer Behaviour",
+          "source_type": "journal",
+          "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=14791838&type=etoc&feed=rss"
+        },
+        {
+          "name": "Technological Forecasting and Social Change",
+          "source_type": "journal",
+          "rss_url": "https://rss.sciencedirect.com/publication/science/00401625"
+        },
+        {
+          "name": "Technology in Society",
+          "source_type": "journal",
+          "rss_url": "https://rss.sciencedirect.com/publication/science/0160791X"
+        },
+        {
+          "name": "Management Science",
+          "source_type": "journal",
+          "rss_url": "https://pubsonline.informs.org/action/showFeed?type=etoc&feed=rss&jc=mnsc"
+        },
+        {
+          "name": "Journal of Applied Psychology",
+          "source_type": "journal",
+          "rss_url": "https://psycnet.apa.org/journals/apl-ofp.rss"
+        },
+        {
+          "name": "Nature Human Behaviour",
+          "source_type": "journal",
+          "rss_url": "https://www.nature.com/nathumbehav.rss"
+        },
+        {
+          "name": "PNAS",
+          "source_type": "journal",
+          "rss_url": "https://www.pnas.org/action/showFeed?type=etoc&feed=rss&jc=pnas"
+        },
+        {
+          "name": "Nature Communications",
+          "source_type": "journal",
+          "rss_url": "https://www.nature.com/ncomms.rss"
+        }
+      ],
+      "ai_object_terms_ref": "ai_object_terms",
+      "relationship_markers_ref": "relationship_social_markers",
+      "high_precision_phrases_ref": "high_precision_phrases"
+    },
+    {
+      "id": "monthly-top-psychology-journal-watch",
+      "part_name": "Monthly Top Psychology Journal Watch",
+      "frequency": "monthly",
+      "date_format": "%Y-%m",
+      "purpose": "Track whether core psychology journals publish important AI-related papers.",
+      "relevance_mode": "layered_ai_social",
+      "ai_object_terms_ref": "ai_object_terms",
+      "relationship_markers_ref": "relationship_social_markers",
+      "source_policy": "rss_first_api_fallback",
+      "api_fallbacks": [
+        "openalex",
+        "crossref"
+      ],
+      "sources": [
+        {
+          "name": "Journal of Personality and Social Psychology",
+          "source_type": "journal",
+          "rss_url": "https://psycnet.apa.org/journals/psp-ofp.rss"
+        },
+        {
+          "name": "Personality and Social Psychology Bulletin",
+          "source_type": "journal",
+          "rss_url": "https://journals.sagepub.com/action/showFeed?type=etoc&feed=rss&jc=psp"
+        },
+        {
+          "name": "Journal of Experimental Social Psychology",
+          "source_type": "journal",
+          "rss_url": "https://rss.sciencedirect.com/publication/science/00221031"
+        },
+        {
+          "name": "Journal of Experimental Psychology: General",
+          "source_type": "journal",
+          "rss_url": "https://content.apa.org/journals/xge-ofp.rss"
+        },
+        {
+          "name": "Journal of Experimental Psychology: Applied",
+          "source_type": "journal",
+          "rss_url": "http://content.apa.org/journals/xap-ofp.rss"
+        },
+        {
+          "name": "Psychological Science",
+          "source_type": "journal",
+          "rss_url": "https://journals.sagepub.com/action/showFeed?type=etoc&feed=rss&jc=pss"
+        },
+        {
+          "name": "Psychological Review",
+          "source_type": "journal",
+          "rss_url": "https://psycnet.apa.org/journals/rev-ofp.rss"
+        },
+        {
+          "name": "Psychological Bulletin",
+          "source_type": "journal",
+          "rss_url": "https://psycnet.apa.org/journals/bul-ofp.rss"
+        },
+        {
+          "name": "American Psychologist",
+          "source_type": "journal",
+          "rss_url": "https://psycnet.apa.org/journals/amp-ofp.rss"
+        },
+        {
+          "name": "Perspectives on Psychological Science",
+          "source_type": "journal",
+          "rss_url": "https://journals.sagepub.com/action/showFeed?type=etoc&feed=rss&jc=pps"
+        },
+        {
+          "name": "Current Directions in Psychological Science",
+          "source_type": "journal",
+          "rss_url": "https://journals.sagepub.com/action/showFeed?type=etoc&feed=rss&jc=cdp"
+        },
+        {
+          "name": "Current Opinion in Psychology",
+          "source_type": "journal",
+          "rss_url": "https://rss.sciencedirect.com/publication/science/2352250X"
+        },
+        {
+          "name": "Social Psychological and Personality Science",
+          "source_type": "journal",
+          "rss_url": "https://journals.sagepub.com/action/showFeed?type=etoc&feed=rss&jc=spp"
+        },
+        {
+          "name": "European Journal of Social Psychology",
+          "source_type": "journal",
+          "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=10990992&type=etoc&feed=rss"
+        },
+        {
+          "name": "British Journal of Social Psychology",
+          "source_type": "journal",
+          "rss_url": "https://onlinelibrary.wiley.com/action/showFeed?jc=20448309&type=etoc&feed=rss"
+        },
+        {
+          "name": "Journal of Social and Personal Relationships",
+          "source_type": "journal",
+          "rss_url": "https://journals.sagepub.com/action/showFeed?type=etoc&feed=rss&jc=spr"
+        },
+        {
+          "name": "The Journal of Positive Psychology",
+          "source_type": "journal",
+          "rss_url": "https://www.tandfonline.com/action/showFeed?type=etoc&feed=rss&jc=rpos20"
+        },
+        {
+          "name": "Journal of Happiness Studies",
+          "source_type": "journal",
+          "rss_url": "https://link.springer.com/search.rss?facet-journal-id=10902"
+        }
+      ]
+    },
+    {
+      "id": "weekly-conference-preprint-watch",
+      "part_name": "Weekly Conference & Preprint Watch",
+      "frequency": "weekly",
+      "date_format": "%Y-%m-%d",
+      "purpose": "Track HCI, NLP, HRI conference papers and preprints.",
+      "conference_frequency": "monthly",
+      "relevance_mode": "layered_ai_social",
+      "ai_object_terms_ref": "ai_object_terms",
+      "relationship_markers_ref": "relationship_social_markers",
+      "source_policy": "conference_preprint_api",
+      "sources": [
+        {
+          "name": "CHI",
+          "source_type": "conference",
+          "api": "dblp",
+          "group": "hci",
+          "publication_scope": "main_conference",
+          "dblp_toc_patterns": ["db/conf/chi/chi{year}.bht"],
+          "years": [2026]
+        },
+        {
+          "name": "CSCW",
+          "source_type": "rolling_journal",
+          "api": "dblp",
+          "collection_mode": "rolling_pacmhci",
+          "enabled": false,
+          "disabled_reason": "Requires a verified PACM HCI metadata endpoint; CSCW Rolling is not an annual proceedings TOC."
+        },
+        {
+          "name": "HRI",
+          "source_type": "conference",
+          "api": "dblp",
+          "group": "hri",
+          "publication_scope": "main_conference",
+          "dblp_toc_patterns": ["db/conf/hri/hri{year}.bht"],
+          "years": [2026]
+        },
+        {
+          "name": "ACL",
+          "source_type": "conference",
+          "api": "dblp_index",
+          "group": "nlp",
+          "publication_scope": "main_conference",
+          "dblp_index_url": "https://dblp.org/db/conf/acl/index.html",
+          "dblp_index_href_regex": "/db/conf/acl/acl{year}-\\d+\\.html$",
+          "include_toc_title_terms": ["Long Papers", "Short Papers"],
+          "exclude_toc_title_terms": ["Findings", "Workshop", "Tutorial", "Demo", "Industry"],
+          "years": [2026]
+        },
+        {
+          "name": "EMNLP",
+          "source_type": "conference",
+          "api": "dblp",
+          "group": "nlp",
+          "publication_scope": "main_conference",
+          "dblp_toc_patterns": ["db/conf/emnlp/emnlp{year}.bht"],
+          "years": [2026]
+        },
+        {
+          "name": "NAACL",
+          "source_type": "conference",
+          "api": "dblp_index",
+          "group": "nlp",
+          "publication_scope": "main_conference",
+          "dblp_index_url": "https://dblp.org/db/conf/naacl/index.html",
+          "dblp_index_href_regex": "/db/conf/naacl/naacl{year}-\\d+\\.html$",
+          "include_toc_title_terms": ["Long Papers", "Short Papers"],
+          "exclude_toc_title_terms": ["Findings", "Workshop", "Tutorial", "Demo", "Industry"],
+          "years": [2027]
+        },
+        {
+          "name": "arXiv cs.HC",
+          "source_type": "preprint",
+          "api": "arxiv",
+          "arxiv_category": "cs.HC",
+          "max_results": 250
+        },
+        {
+          "name": "arXiv cs.CY",
+          "source_type": "preprint",
+          "api": "arxiv",
+          "arxiv_category": "cs.CY",
+          "max_results": 250
+        },
+        {
+          "name": "OpenAlex",
+          "source_type": "api",
+          "api": "openalex",
+          "query_terms_ref": "part3_supplemental_query_terms"
+        },
+        {
+          "name": "Crossref",
+          "source_type": "api",
+          "api": "crossref",
+          "query_terms_ref": "part3_supplemental_query_terms"
+        }
+      ]
+    }
+  ],
+  "part3_supplemental_query_terms": [
+    "Human-AI",
+    "human-AI",
+    "chatbot",
+    "AI companion",
+    "generative AI",
+    "LLM",
+    "large language model"
+  ],
+  "ai_object_terms": [
+    "artificial intelligence",
+    "AI",
+    "generative AI",
+    "GenAI",
+    "AIGC",
+    "large language model",
+    "large language models",
+    "LLM",
+    "LLMs",
+    "ChatGPT",
+    "chatbot",
+    "chatbots",
+    "conversational AI",
+    "conversational agent",
+    "conversational agents",
+    "AI agent",
+    "AI agents",
+    "virtual agent",
+    "virtual agents",
+    "digital agent",
+    "digital agents",
+    "voice assistant",
+    "voice assistants",
+    "virtual assistant",
+    "virtual assistants",
+    "AI assistant",
+    "AI assistants",
+    "social robot",
+    "social robots",
+    "robot",
+    "robots",
+    "human-AI",
+    "Human-AI",
+    "human–AI",
+    "Human–AI",
+    "human—AI",
+    "Human—AI",
+    "human-machine",
+    "human–machine",
+    "human—machine",
+    "human-computer",
+    "human–computer",
+    "human—computer",
+    "human-robot",
+    "human–robot",
+    "human—robot",
+    "algorithmic",
+    "automation",
+    "automated",
+    "autonomous",
+    "machine-generated",
+    "AI-generated",
+    "AI-powered",
+    "AI-augmented",
+    "AI-driven"
+  ],
+  "relationship_social_markers": [
+    "social",
+    "socially",
+    "relationship",
+    "relationships",
+    "relational",
+    "interpersonal",
+    "self-disclosure",
+    "self disclosure",
+    "disclosure",
+    "intimacy",
+    "intimate",
+    "companionship",
+    "companion",
+    "companions",
+    "friendship",
+    "friend",
+    "loneliness",
+    "lonely",
+    "emotion",
+    "emotional",
+    "affect",
+    "empathy",
+    "empathetic",
+    "social support",
+    "emotional support",
+    "attachment",
+    "closeness",
+    "reciprocity",
+    "gender",
+    "equality",
+    "inequality",
+    "inequal",
+    "equal",
+    "belonging",
+    "well-being",
+    "wellbeing",
+    "mental health",
+    "meaning in life",
+    "psychological richness"
+  ],
+  "high_precision_phrases": []
+}

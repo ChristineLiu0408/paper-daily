@@ -1,0 +1,55 @@
+{
+  "label_counts": {
+    "reject": 415,
+    "AI": 107,
+    "high": 36
+  },
+  "high_topic_counts": {
+    "emotional_social": 22,
+    "health_mental_health": 2,
+    "gender_equality": 4,
+    "other": 5,
+    "consumer_marketing": 1,
+    "organization_work": 1,
+    "transport_automation": 1
+  },
+  "high_topic_representatives": {
+    "emotional_social": "Measuring Consumer Aversion Toward AI in Marketing Communication and Assessing Its Relationship to Brand Perceptions and Purchase Intention",
+    "health_mental_health": "Therapeutic Twins for Creative Digital Mental Health: A Review Through a Trust-in-Automation Lens",
+    "gender_equality": "Differentiated or Degrading? Exploring Users’ Perceptions and Potential Implications of Gender Bias in Chatbot Interactions",
+    "other": "How Social Chatbot Characteristics Shape Multidimensional Trust in Older Adults: Evidence from PLS-SEM and fsQCA",
+    "consumer_marketing": "The impact of AI social responsibility on service loyalty: a mixed-method approach",
+    "organization_work": "Humanizing artificial intelligence: How employee appropriation of technology can improve well-being",
+    "transport_automation": "From social trust to AI technology acceptance: A panel study of AI-Powered autonomous vehicle adoption in Singapore"
+  },
+  "old_high_no_longer_high_examples": [
+    "Differential Effects of Process- and Purpose-Based Algorithmic Transparency on Trust Formation and Maintenance in Financial Decision-Making",
+    "Too Much is as Bad as Too Little: The Nonlinear Impact of AI Risk Perception on Trust in AI",
+    "Not warm or cold, but appropriate: How outcome severity shifts moral-mind inferences and trust in AI chatbots",
+    "Providing feedback without verification: A hidden risk of trust in generative AI",
+    "Algorithmic management practices, trust, and gig-worker continuance: A mixed-methods study of platform work",
+    "Decoding Consumer–AI Interaction Through Perceived Cognitive Capability and Anthropomorphism: Evidence From Unstructured Big Data",
+    "Does greater dominance lead to greater trust? A study on the impact of robot personality on user trust",
+    "Perceived algorithmic attraction in GenAI-generated pedagogical agents: Dimensions and effects on learner trust and motivation",
+    "Effects of In-Vehicle Voice Assistant Language Style on Trust and Usage Intention: The Moderating Role of Extraversion in Perceptual Pathways",
+    "Toward Safer Human–AI Teaming: Phase-Specific Recognition and Interpretation of Automation Trust in Air Traffic Control"
+  ],
+  "old_high_trust_no_longer_high_examples": [
+    "Does greater dominance lead to greater trust? A study on the impact of robot personality on user trust",
+    "Not warm or cold, but appropriate: How outcome severity shifts moral-mind inferences and trust in AI chatbots",
+    "Perceived algorithmic attraction in GenAI-generated pedagogical agents: Dimensions and effects on learner trust and motivation",
+    "Differential Effects of Process- and Purpose-Based Algorithmic Transparency on Trust Formation and Maintenance in Financial Decision-Making",
+    "Effects of In-Vehicle Voice Assistant Language Style on Trust and Usage Intention: The Moderating Role of Extraversion in Perceptual Pathways",
+    "Too Much is as Bad as Too Little: The Nonlinear Impact of AI Risk Perception on Trust in AI",
+    "Toward Safer Human–AI Teaming: Phase-Specific Recognition and Interpretation of Automation Trust in Air Traffic Control",
+    "Algorithmic management practices, trust, and gig-worker continuance: A mixed-methods study of platform work",
+    "Providing feedback without verification: A hidden risk of trust in generative AI"
+  ],
+  "outputs": {
+    "report_md": "web/reports/weekly-applied-ai-journal-watch/2026-07-06.md",
+    "report_json": "web/reports/weekly-applied-ai-journal-watch/2026-07-06.json",
+    "all_md": "web/reports/weekly-applied-ai-journal-watch/2026-07-06_all.md",
+    "all_xlsx": "web/reports/weekly-applied-ai-journal-watch/2026-07-06_all.xlsx",
+    "title_only_labeled_xlsx": "web/reports/weekly-applied-ai-journal-watch/2026-07-06_title_only_labeled.xlsx"
+  }
+}
