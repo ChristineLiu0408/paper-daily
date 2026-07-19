@@ -28,6 +28,8 @@ const nodes = {
   listTitle: document.querySelector("#listTitle"),
   scopeLabel: document.querySelector("#scopeLabel"),
   paperList: document.querySelector("#paperList"),
+  reportList: document.querySelector("#reportList"),
+  reportsStatus: document.querySelector("#reportsStatus"),
   topicFilter: document.querySelector("#topicFilter"),
   levelFilter: document.querySelector("#levelFilter"),
   dateFilter: document.querySelector("#dateFilter"),
@@ -371,6 +373,63 @@ async function loadOptionalData(path) {
   return response.json();
 }
 
+async function loadReportIndex() {
+  try {
+    const response = await fetch("./reports/index.json", { cache: "no-store" });
+    if (!response.ok) return { reports: [] };
+    return response.json();
+  } catch {
+    return { reports: [] };
+  }
+}
+
+function reportScopeLabel(scope) {
+  if (scope === "preprints") return "预印本";
+  if (scope === "conferences") return "主会论文";
+  return "完整报告";
+}
+
+function addReportLink(container, label, path) {
+  if (!path) return;
+  const link = document.createElement("a");
+  link.className = "report-link";
+  link.href = `./reports/${path}`;
+  link.textContent = label;
+  container.appendChild(link);
+}
+
+function renderReportIndex(index) {
+  const reports = Array.isArray(index?.reports) ? index.reports : [];
+  nodes.reportList.textContent = "";
+  nodes.reportsStatus.textContent = reports.length ? `${reports.length} 份最新报告` : "暂无报告";
+
+  for (const report of reports) {
+    const item = document.createElement("article");
+    item.className = "report-item";
+
+    const title = document.createElement("h3");
+    title.textContent = report.part_name || report.watch_id || "Research Watch";
+    const meta = document.createElement("p");
+    const label = report.scope && report.scope !== "default" ? ` · ${reportScopeLabel(report.scope)}` : "";
+    meta.textContent = `${report.period || ""}${label} · ${report.candidate_count || 0} 篇候选`;
+    const links = document.createElement("div");
+    links.className = "report-links";
+    addReportLink(links, "Markdown", report.markdown);
+    addReportLink(links, "JSON", report.json);
+    addReportLink(links, "Excel", report.xlsx);
+
+    item.append(title, meta, links);
+    nodes.reportList.appendChild(item);
+  }
+
+  if (!reports.length) {
+    const empty = document.createElement("p");
+    empty.className = "report-empty";
+    empty.textContent = "首份报告生成后会显示在这里。";
+    nodes.reportList.appendChild(empty);
+  }
+}
+
 function updateUpdatedAt(message = "") {
   if (message) {
     nodes.updatedAt.textContent = message;
@@ -404,6 +463,8 @@ async function main() {
     };
     updateUpdatedAt(`数据读取失败：${error.message}`);
   }
+
+  renderReportIndex(await loadReportIndex());
 
   updateUpdatedAt();
   hydrateTopicFilter();

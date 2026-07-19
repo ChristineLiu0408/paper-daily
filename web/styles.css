@@ -436,6 +436,74 @@ select:focus,
   font-size: 13px;
 }
 
+.reports-panel {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel-bg);
+  box-shadow: var(--shadow);
+  padding: 18px;
+}
+
+.reports-panel .content-head {
+  margin: 0 0 14px;
+}
+
+.section-kicker {
+  color: var(--gold) !important;
+  font-size: 12px !important;
+  font-weight: 800;
+  letter-spacing: 0;
+  text-transform: uppercase;
+}
+
+.report-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 12px;
+}
+
+.report-item {
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--card-bg);
+  padding: 15px;
+}
+
+.report-item h3 {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.35;
+}
+
+.report-item p,
+.report-empty {
+  margin: 7px 0 0;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.report-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 14px;
+}
+
+.report-link {
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  background: var(--button-bg);
+  color: var(--text);
+  padding: 7px 10px;
+  font-size: 13px;
+  text-decoration: none;
+}
+
+.report-link:hover {
+  border-color: var(--teal);
+  color: var(--teal);
+}
+
 .paper-list {
   display: grid;
   gap: 14px;
