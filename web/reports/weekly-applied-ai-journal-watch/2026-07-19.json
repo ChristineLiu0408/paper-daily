@@ -1,0 +1,4028 @@
+{
+  "watch_id": "weekly-applied-ai-journal-watch",
+  "part_name": "Weekly Applied AI Journal Watch",
+  "frequency": "weekly",
+  "generated_at": "2026-07-19T12:44:37.730996+00:00",
+  "since_days": 7,
+  "source_count": 14,
+  "successful_source_count": 14,
+  "failed_source_count": 0,
+  "skipped_source_count": 0,
+  "raw_entry_count": 287,
+  "candidate_count": 79,
+  "source_results": [
+    {
+      "source": "Computers in Human Behavior",
+      "source_type": "journal",
+      "raw_count": 35,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "International Journal of Human-Computer Studies",
+      "source_type": "journal",
+      "raw_count": 41,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "International Journal of Human-Computer Interaction",
+      "source_type": "journal",
+      "raw_count": 25,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 2
+    },
+    {
+      "source": "Journal of Consumer Research",
+      "source_type": "journal",
+      "raw_count": 1,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Journal of Marketing",
+      "source_type": "journal",
+      "raw_count": 0,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Psychology & Marketing",
+      "source_type": "journal",
+      "raw_count": 7,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Journal of Consumer Behaviour",
+      "source_type": "journal",
+      "raw_count": 4,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Technological Forecasting and Social Change",
+      "source_type": "journal",
+      "raw_count": 33,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Technology in Society",
+      "source_type": "journal",
+      "raw_count": 100,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Management Science",
+      "source_type": "journal",
+      "raw_count": 13,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Journal of Applied Psychology",
+      "source_type": "journal",
+      "raw_count": 0,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Nature Human Behaviour",
+      "source_type": "journal",
+      "raw_count": 25,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 2
+    },
+    {
+      "source": "PNAS",
+      "source_type": "journal",
+      "raw_count": 1,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Nature Communications",
+      "source_type": "journal",
+      "raw_count": 8,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    }
+  ],
+  "raw_records": [
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "The stabilizing work of public actors. A study of the deployment of the Respect Module in French prisons",
+      "source": "Cairn.info",
+      "link": "https://openalex.org/W7162820765",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "The evolving regulation of religious behavior in the public sector: the case of the reserve obligation in a senegalese military corps",
+      "source": "Cairn.info",
+      "link": "https://openalex.org/W7137737438",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "The Role of Social Media Influencers in Promoting Therapeutic Compliance: Implications for Public Health Policy",
+      "source": "Cairn.info",
+      "link": "https://openalex.org/W7137590217",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "The Role of Collective Bricolage in Creating University Governance Structures: The Example of the Galileo Observatory",
+      "source": "Cairn.info",
+      "link": "https://openalex.org/W7137681926",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Teachers’ involvement in the management of schools: example of France and French-speaking Belgium",
+      "source": "Cairn.info",
+      "link": "https://openalex.org/W7137708326",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Management of healthcare risk waste and non-hazardous healthcare waste: the case of a public hospital in western France",
+      "source": "Cairn.info",
+      "link": "https://openalex.org/W7137578291",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Genesis of Organizational Innovation in Healthcare",
+      "source": "Cairn.info",
+      "link": "https://openalex.org/W7155574751",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Specialeafhandling: Scaling AI in Organisations: An Empirical Study of Organisational Conditions Differentiating Enterprise Adoption from the Pilot Trap",
+      "source": "RUCforsk (Roskilde University)",
+      "link": "https://openalex.org/W7165701127",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "Assessing the Role of Digital Transformation in Strengthening Customer Engagement: A Case Study of bKash",
+      "source": "RUCforsk (Roskilde University)",
+      "link": "https://openalex.org/W7165079981",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Une étude a posteriori de la construction de l’intention entrepreneuriale chez les entrepreneurs agricoles d’Afrique subsaharienne",
+      "source": "Cairn.info",
+      "link": "https://openalex.org/W7137759281",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The Enlightenment of an Entrepreneur: A Multidisciplinary Exploration of Management, Psychology and Economic Theology",
+      "source": "Cairn.info",
+      "link": "https://openalex.org/W7137519157",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Intention entrepreneuriale : profils et vision stratégique. Étude de cas des étudiants algériens",
+      "source": "Cairn.info",
+      "link": "https://openalex.org/W7137767042",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Exploring the Entrepreneurial Intentions of Academic Inventors in an Emerging Context: The Case of Morocco",
+      "source": "Cairn.info",
+      "link": "https://openalex.org/W7137390646",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Des villes en pixels aux cités réelles : influence des jeux vidéo sur l’architecture urbaine contemporaine",
+      "source": "Cairn.info",
+      "link": "https://openalex.org/W7137693611",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "On the Analysis of Potential Games: From Constraints, Price of Anarchy and Reinforcement Learning to Contrastive Learning",
+      "source": "eScholarship (California Digital Library)",
+      "link": "https://openalex.org/W7112546092",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Association Between Anxiety and RRBs in Autistic Youth: Role of Ethnicity",
+      "source": "The Scholars Repository - LLU (Loma Linda University)",
+      "link": "https://openalex.org/W7167182114",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Exploring the Relationships Between Emotional Intelligence, Perceived Organizational Support, Job Satisfaction, and Intent to Stay Among Minnesota School Nurses",
+      "source": "RED - a Repository of Digital Collections (Minnesota State University Moorhead)",
+      "link": "https://openalex.org/W7165284361",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "relationships",
+        "emotional"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Parasympathetic Activity and Inhibitory Control as Predictors of Health Behaviors",
+      "source": "CU Scholar (University of Colorado Boulder)",
+      "link": "https://openalex.org/W7159747169",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "The Ethical and Legal Complexities of Regulating Companion AI Chatbots",
+      "source": "Lund University Publications (Lund University)",
+      "link": "https://openalex.org/W7143585285",
+      "matched_ai_terms": [
+        "AI",
+        "chatbots"
+      ],
+      "matched_social_terms": [
+        "companion"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Réflexions et recommandations sur la conception, la mise en œuvre des activités d'apprentissage et l'évaluation des compétences visées dans les contextes de la robotique pédagogique",
+      "source": "ORBi (University of Liège)",
+      "link": "https://openalex.org/W7166912478",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Refusing expectation? Class, masculinity and selfhood in a longitudinal analysis of young men’s educational transitions/ trajectories, age 10-22",
+      "source": "UCL Discovery (University College London)",
+      "link": "https://openalex.org/W7125092985",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "Organisational Crime:Nature, Dynamics and Regulation",
+      "source": "Research Explorer (The University of Manchester)",
+      "link": "https://openalex.org/W7167982823",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Motivations intrinsèque et extrinsèque comme déterminants de l’intention d’adoption des objets connectés en santé mobile",
+      "source": "Cairn.info",
+      "link": "https://openalex.org/W7154669314",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Linkages between Technological Capability and Export Competitiveness: Evidence from Technical Efficiency of Indian Manufacturing Firms",
+      "source": "Cairn.info",
+      "link": "https://openalex.org/W7140353431",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Learning Misconduct in Organisations:A Realist Account of Social Learning Perspectives",
+      "source": "Research Explorer (The University of Manchester)",
+      "link": "https://openalex.org/W7167990727",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Le rôle des influenceurs des médias sociaux dans la promotion de l’observance thérapeutique : enjeux et perspectives pour la santé publique",
+      "source": "Cairn.info",
+      "link": "https://openalex.org/W7137612268",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "English",
+      "source": "RUCforsk (Roskilde University)",
+      "link": "https://openalex.org/W7165701504",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Contested urbanisms: The politics of heritage and housing in Jakarta’s kampungs",
+      "source": "BIROn (Birkbeck, University of London)",
+      "link": "https://doi.org/10.18743/pub.00056687",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Combining Foresight Narratives and Serious Games to Codevelop Adaptive Water Management Pathways",
+      "source": "Cairn.info",
+      "link": "https://openalex.org/W7155586310",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Business Model Innovation among Startups and Its Future Research Trends: A Systematic Review and Bibliometric Analysis of Relevant Literature",
+      "source": "Cairn.info",
+      "link": "https://openalex.org/W7137489039",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Belarus 2020: Massive Mobilisation Fails to Produce Regime Change?",
+      "source": "RUCforsk (Roskilde University)",
+      "link": "https://openalex.org/W7165700301",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Affordances for Graphical Shape Thinking through Vivid Informal Classroom Talk",
+      "source": "Open Research Online (The Open University)",
+      "link": "https://openalex.org/W7111556971",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "The Role of Generative Artificial Intelligence in Korean Language Learning: Applications, Challenges, and Instructional Strategies",
+      "source": "Open MIND",
+      "link": "https://doi.org/10.17613/g7mbr-1s626",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "From Embedded Finance to Embedded Obligation: A Law-and-Economics Theory of Consumer Protection in Platform-Mediated Financial Services",
+      "source": "Open MIND",
+      "link": "https://doi.org/10.17613/sb76m-v2e23",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "technical_hci",
+      "title": "Exposure with response prevention in virtual reality for obsessive-compulsive disorder: A randomized controlled trial",
+      "source": "MPG.PuRe (Max Planck Society)",
+      "link": "https://openalex.org/W7128146848",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Technology-Enhanced Writing Pedagogy for EFL Learners: A Multi-Study Dissertation on Practice, Effectiveness, and Teacher Perceptions",
+      "source": "eScholarship (California Digital Library)",
+      "link": "https://openalex.org/W7117395041",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "Security- as- a- service: enhancing cloud security through managed security solutions",
+      "source": "The International Islamic University Malaysia Repository (The International Islamic University Malaysia)",
+      "link": "https://openalex.org/W7125625562",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Dark personality traits in project management : A bibliometric analysis and agenda for future research",
+      "source": "Strathprints: The University of Strathclyde institutional repository (University of Strathclyde)",
+      "link": "https://openalex.org/W7127549815",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Serious games and decision support tools: Supporting farmer decision making for land use net zero.",
+      "source": "Research Repository (University of Gloucestershire)",
+      "link": "https://openalex.org/W7111757091",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Evidence synthesis methods for overcoming data scarcity in child health research: a focus on antiemetic medications for preventing chemotherapy-induced nausea and vomiting in children",
+      "source": "White Rose eTheses Online (University of Leeds, The University of Sheffield, University of York)",
+      "link": "https://openalex.org/W7160804438",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "PENGARUH PROGRAM MOTOR COGNITIVE COORDINATION TERHADAP PENINGKATAN KONSENTRASI: studi eksperimen pada siswa SD berbasis gelombang otak)",
+      "source": "Repository at Universitas Pendidikan Indonesia (Universitas Pendidikan Indonesia)",
+      "link": "https://openalex.org/W7112865687",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Universal Audio Generation",
+      "source": "HAL (Le Centre pour la Communication Scientifique Directe)",
+      "link": "https://openalex.org/W4414932055",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Comparing the GP-CORE and WEMWBS Scores as predictors of future mental health service utilisation and help-seeking behaviour among UK students in higher education",
+      "source": "White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",
+      "link": "https://openalex.org/W7162227374",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "mental health"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Reliance on AI Advice for Privacy and Security Settings: From Deference to Verification",
+      "source": "Journal of the Association for Information Systems",
+      "link": "https://openalex.org/W7166253425",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Wavelength-encoded neuromorphic inference enabled by microcavity MoS 2 photodetector arrays",
+      "source": "Nature Communications",
+      "link": "https://www.nature.com/articles/s41467-026-75808-w",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "technical_hci",
+      "title": "Scale-bridging interface design enables high-performance sustainable thermoelectrics",
+      "source": "Nature Communications",
+      "link": "https://www.nature.com/articles/s41467-026-75865-1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Refractory inclusions in Bennu samples indicative of outer Solar System accretion",
+      "source": "Nature Communications",
+      "link": "https://www.nature.com/articles/s41467-026-73868-6",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Raphia hookeri seed-inspired weakly anisotropic nanocomposites",
+      "source": "Nature Communications",
+      "link": "https://www.nature.com/articles/s41467-026-75719-w",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Process-integrated engineered resting cells for biocatalytic production of rare natural sugars from sole methanol molecules",
+      "source": "Nature Communications",
+      "link": "https://www.nature.com/articles/s41467-026-75664-8",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Learning ordinality-aware multimodal representations for composite materials design",
+      "source": "Nature Communications",
+      "link": "https://www.nature.com/articles/s41467-026-75615-3",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Coordination electrochemistry taming reversible hypervalent bromine redox for energetic six-electron-transfer lithium-bromine battery",
+      "source": "Nature Communications",
+      "link": "https://www.nature.com/articles/s41467-026-75860-6",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Convergent genomic trajectories shape adaptation to life on land across animal lineages",
+      "source": "Nature Communications",
+      "link": "https://www.nature.com/articles/s41467-026-75551-2",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The Impact of the Cold‐Colored Ambience on Nudging Healthy Food Preferences",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70214?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "consumer_marketing",
+      "title": "The Contextual Autonomy Principle: When and Why Social Service Robots Are Perceived as Ethical",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70222?af=R",
+      "matched_ai_terms": [
+        "robots"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "gender_equality",
+      "title": "Left-Digit Bias, Quality Choice, and Channel Coordination",
+      "source": "Management Science",
+      "link": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2025.00771?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Learning to Cover: Online Learning and Optimization with Irreversible Decisions",
+      "source": "Management Science",
+      "link": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2025.01729?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The Effect of University Science on Corporate Innovation",
+      "source": "Management Science",
+      "link": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.05723?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Nonstationary Experimental Design Under Structured Trends",
+      "source": "Management Science",
+      "link": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.03329?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "transport_automation",
+      "title": "Driving Fan Engagement: The Role of Orientation, Value Creation, and Community Dynamics in Sports Fan Pages",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70215?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Scalable Bundle Recommendations: A Large-Scale Field Experiment",
+      "source": "Management Science",
+      "link": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.01864?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Loneliness and the Customer Journey: Toward a Framework for Customer Experience Management",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70220?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "loneliness"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Invisible Rankings: When Do Consumers Assume Best-to-Worst Ordinality When Choosing from an Unnumbered List?",
+      "source": "Journal of Consumer Research",
+      "link": "https://academic.oup.com/jcr/advance-article/doi/10.1093/jcr/ucag023/8735554?rss=1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "How Nouns and Verbs Shape Brand Perceptions Across Generational Cohorts: The Brand Linguistic Action Framework",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70209?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Creativity Drives Long‐Term Planning: The Impact of Engaging in Creative Activities on Consumers' Planning Horizons",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70203?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "A Consumption Value–Behavioural Model for Explaining Mobile Money Continuance Usage Intentions: Evidence From Ghana",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70210?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "The Tasty Side of Numbers: How Vowel Type Influences Taste Perceptions for Numerical Brand Names",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70219?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Is It Always “the Faster, the Better?” The Role of a Nudging-Based Function in the Relationship Between Product Delivery and Online Sales",
+      "source": "Management Science",
+      "link": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.01572?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "relationship"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "In This Issue",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/iti2826123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "In Short Supply: Efficiency Implications of Rational Attention Allocation",
+      "source": "Management Science",
+      "link": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.07233?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "How and Under What Conditions Self‐Conscious Emotions Influence Word of Mouth and Decisions to Buy",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70211?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Embracing Simplicity in New Beginnings: Life‐Role Transitions Promote Preferences for Visually Simple Aesthetics",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70218?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Dynamic Pricing with Infrequent Inventory Replenishments",
+      "source": "Management Science",
+      "link": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.00129?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Discrete Pricing in Multiobject Auctions with Unit Demand and Wealth Effects",
+      "source": "Management Science",
+      "link": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.06324?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Cross-Border Investments in Private Firms: The Benefits of Comparability for Foreign Investors",
+      "source": "Management Science",
+      "link": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.08765?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Convex Surrogate Loss Functions for Contextual Pricing with Transaction Data",
+      "source": "Management Science",
+      "link": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2023.00122?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Chronic Loneliness Reduces Choice Likelihood of Products With Prosocial Attributes",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70214?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "loneliness"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Executive Tweets",
+      "source": "Management Science",
+      "link": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2024.05510?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Data Evaluation: Mechanisms and Implications",
+      "source": "Management Science",
+      "link": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2025.01256?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "ZOMA: Integrating Gen-AI in hybrid crafts to promote cultural heritage transmission",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S107158192600131X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Young people evaluating online information credibility. Special issue synthesis",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226001834?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "With AI through the energy crisis? Citizens’ legitimacy perceptions of human and AI-supported hybrid decisions in an energy policy decision-making process",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001168?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Why do people resist mobile health applications? Understanding public resistance intention through extended innovation resistance theory",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S004016252600257X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Who do you think you are? An experimental comparison of online and offline identities using NLP techniques",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001497?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "When digital servitization pays off for manufacturing SMEs: A configurational approach",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002581?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "When digital aid meets reality: A socio-technical analysis of feasibility requirements in cash-based interventions",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002842?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "gender_equality",
+      "title": "When Social Media Memes Become Mean to Peers: Discrimination Recognition and Group Norms in Adolescent Bullying",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002232?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "What motivates generation Z in Vietnam to continue using e-bikes? A comprehensive multi-method investigation",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002150?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "What makes government subsidies for green innovation more effective? The moderating effect of digital transformation and executive incentives",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600182X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "What is Digital Identity? A Transdisciplinary Meta-synthesis",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S107158192600176X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Watch before you play: The effect of connection to streamers in gaming videos on viewers’ subsequent game-playing satisfaction",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002190?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "Virtual proxemics “in the wild”: a cross-cultural comparison between Japanese and Italian adults recruited at public fairs",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S074756322600186X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Unlocking AI robotics adoption in innovative firms: Make, buy or ally?",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002702?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Understanding the loneliness paradox of the digital age: Offline social support mediates the relationship between addictive social media use and loneliness – A gender comparison in the German general population",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226001895?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social",
+        "relationship",
+        "loneliness",
+        "social support",
+        "gender"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "transport_automation",
+      "title": "Understanding Social-Cognitive-Norm Mechanisms Driving Disinformation Verification among Indonesian Young Adults on Social Media",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002128?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Uncanny valley: Reinforcement sensitivity theory and vulnerability to influence by artificial intelligence-generated images online",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002062?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "technical_hci",
+      "title": "Twinkle trace: A customizable haptic interface for sensory engagement in children with ASD",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001357?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Trust erodes, fatigue builds: How prompt uncertainty traps users in recrafting loops",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226001949?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Trust by Design: Human Factors and Trust Calibration in ML-based Educational Systems",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001680?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Transparency, neutrality, voice, and respect: How procedural fairness considerations affect AI acceptability in algorithmic societies",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001879?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "algorithmic"
+      ],
+      "matched_social_terms": [
+        "affect"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "organization_work",
+      "title": "Transparency in the datafied workplace: Law, workers, and job applicant perspectives",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001764?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Train like you’re there: Use of immersive visualizations while training to operate a satellite improves outcomes in operations",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001709?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Tracing moral value drift across large language model generations and their societal implications",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002204?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "large language model"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Toward context-aware and personalized sit-stand desk interventions: Insights from a field observational study",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001382?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "other",
+      "title": "Too tired to be judged by humans: Social jetlag increases preference for AI through social anxiety",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226001792?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "To hack or not to hack, that is the question: Ethical orientation in hacking",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001776?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "TikTok influencers and followers’ engagement: the role of authentic leadership, immersion and inspiration",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002034?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The “Gold Rush” in AI and robotics patenting activity. Do innovation systems have a role?",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002829?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The work-related consequences of employees’ media-based political information consumption: A nine-wave weekly study during the 2024 U.S. presidential primary season",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002153?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The trade-off between security and privacy: An empirical investigation using Pakistani survey data",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002071?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The speculative future of conversational AI for neurocognitive disorder screening: a multi-stakeholder perspective",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001679?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "conversational AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "The power of seeing less: Diminished reality for supporting consumer choice",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001552?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "transport_automation",
+      "title": "The perfect storm: Evaluating the spillovers in the new energy vehicle industrial chain under multiple uncertainties",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002083?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "The moderating effect of national culture on the relationships between antecedents and attitude and intention for AI adoption: A meta-analysis",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002805?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "relationships"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "The labor-saving paradox in transition: An empirical study on the inverted U-shaped relationship between industrial robot application and overtime work in Chinese firms",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002933?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "robot"
+      ],
+      "matched_social_terms": [
+        "relationship"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The impact of digital innovation, geopolitical risk, and oil prices on food production sustainability",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002526?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "The impact of affordances for emotional human–chatbot interaction on users’ willingness to self-disclose",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002086?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "chatbot"
+      ],
+      "matched_social_terms": [
+        "emotional"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "consumer_marketing",
+      "title": "The impact of AI social responsibility on service loyalty: a mixed-method approach",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001648?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "The human factor in AI governance: Dispositional predictors of public concern and regulatory support",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001788?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The evolving role of government institutions in entrepreneurial ecosystems",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600151X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The double-edged sword effect of ecosystem embeddedness on disruptive innovation: The perspective of environmental uncertainty",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001557?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The creative tax of videoconferencing: How ideological diversity mitigates creativity losses in virtual teams",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002220?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The confounding role of gaming behavior calls for a re-evaluation of neurobiological models of gaming disorder",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002050?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "The chat dilemma: Usefulness, risk, ethics, and student intentions to use generative AI in higher education",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002162?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "The acceptance of virtual healthcare assistants in the DACH region: A structural equation modeling approach",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001211?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The Motivations for Micro-Transactions Use Scale (MMUS): Development and validation",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002046?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "organization_work",
+      "title": "The Digital Mindfulness Scale: Development and longitudinal validation in the workplace",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002219?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "other",
+      "title": "Textual cues, cognitive load, and social fatigue: Unveiling the reasons behind user discontinuance in conversational AI",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001217?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "conversational AI"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "transport_automation",
+      "title": "Technology readiness levels for policy making: Lessons from the autonomous vehicle hype cycle",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S004016252600260X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "autonomous"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Team hierarchy outweighs emotions in influencing user perceptions: The influence of emotions and leadership on trust and task performance in HRI",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001321?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "Targeting failures and digital solutions: The role of rural digital governance platforms in poverty alleviation",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002113?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "gender_equality",
+      "title": "Substratism: Conceptualizing and measuring moral bias against AI",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002177?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Structural re-examination and cross-cultural validation of the Attitudes Towards Older Adults Using Technology (ATOAUT) scale",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001880?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Strategic foresight meets digital infrastructure: Building resilient and innovative organizations in the construction industry",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002198?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Societal promises and perils of AI: Sociotropic perceptions, anxiety, and structural filters",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001958?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "gender_equality",
+      "title": "Socially aware design of interactive systems to combat gender-based violence in low-resource settings",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001515?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "socially",
+        "gender"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "Social values dilemmas of the digital society: Considering the implications of pervasive digitalization",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600165X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Social credit System pilots and corporate renewable energy technology Innovation: Insights from machine learning",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001673?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "technical_hci",
+      "title": "Smell-e technology: Bridging the gap between virtual and real-life food responses using an immersive multisensory VR food environment",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001266?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Sketching embodied-enactive interactions: A study of designer practices and artifacts",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001205?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Robots and sectoral FDI: Why automation attracts technology-driven but not resource-driven investment in OECD countries",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002411?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "robots",
+        "automation"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "other",
+      "title": "Retraction notice to “AI-generated agents with expert personas in biotechnology: Delphi evaluation of emerging technologies and future trajectories” [Technol. Forecasting & Social Change 227 (2026) 124621]",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002921?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "AI-generated"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Regenerative supply chains for high-value-added food manufacturing",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002010?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Recalibrating human knowledge contribution: How generative AI shifts engagement patterns of Q&A contributors",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002866?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "RETRACTED: Digital transformation and social equity: Bridging the gap in post-pandemic societies",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001922?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "R&D Catalyst: Can enterprises’ attention to digital technologies propel R&D propensity in Chinese enterprises",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001892?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Psychological pathways to digital safety: A sequential model of attitudinal endorsement, environment cognition, and WTP for malicious comment prevention",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002256?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "gender_equality",
+      "title": "Promoting urban–rural equality: The impact of government digital transformation on public service equality through fiscal decentralization",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002022?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "equality"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Prioritizing Industry 4.0 obstacles for the transition towards Industry 5.0",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002496?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Policy-driven or ecosystem-autonomous? Evolutionary game and regulatory effects of digital innovation in future industries",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001715?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "autonomous"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Pieces of me: Theorizing affordance-based social media usage styles and their impact on social capital and well-Being",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002116?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social",
+        "well-being"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "technical_hci",
+      "title": "Physical surfaces make touch interactions in virtual reality precise, efficient, and bimanual",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001254?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Perceived organized crime risk, R&D investment, and Technical efficiency: Evidence from Italian firms",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002101?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Paradoxes of meaningful work in human-robot automotive production lines: Flow versus repair, recognition versus audit, safety versus work precarity in Sweden and Türkiye",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001703?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "robot",
+        "human-robot",
+        "human–robot",
+        "human—robot"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Outsider innovation in digital investor communities: How meme coordination reshapes market participation",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002289?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Optimising the usability of AI-assisted augmented reality displays of critical structures during surgery – An international study of surgeon-computer interaction",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001771?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Online consent misread: A mixed-method study on (cyber)rape culture's influence on sexual consent perceptions and responses to unsolicited genital images",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226001925?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "OSMoSIS: A novel tool for assessing social motor synchrony in autistic children",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001229?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Neural emotional processing of personally recommended short-video content and depressive symptoms",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226001950?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "emotional"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Navigating foreign markets with purpose: Effectuation logic in the internationalization of sustainability-oriented startups",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002878?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Narrowing or broadening: Artificial intelligence pilot zones policy and enterprise innovation gap",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001569?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Multimodal imaging and transcriptomics reveal the pathway of mindfulness-mediated recovery in internet gaming disorder",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002049?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Multidimensional network community structures and breakthrough technology diffusion: Evidence from the AI chip industry",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002563?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Mirage of maturity: How social dynamics alone can generate the Hype Cycle of technological expectations",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002830?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "technical_hci",
+      "title": "Mindfulness training in virtual reality for Borderline Personality Disorder symptoms: An analogue study",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002037?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "mind_acceptance",
+      "title": "Middle managers' agency in shaping socially disruptive technologies: Insights into the (re)configuration of human–robot work in Industry 5.0",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002319?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "robot",
+        "human-robot",
+        "human–robot",
+        "human—robot"
+      ],
+      "matched_social_terms": [
+        "socially"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Mediating and moderating mechanisms of the digital bridge between infrastructure and entrepreneurial performance",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002216?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Measuring voluntary standards diffusion: A five-step automated web-based framework",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600254X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "automated"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Making privacy usable: Bridging privacy research and practice through guidelines",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001758?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "Machine learning systems as mentors in human learning: The role of AI output in diagnostic knowledge acquisition",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001308?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "MIAdvisor: Enhancing counselor competence in motivational interviewing through visual analytics",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S107158192600128X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "MAIS: Exploring human-AI interaction in fair and transparent recruitment with a multi-agent LLM-based system",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001345?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "LLM",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Longitudinal associations between cyberbullying and cyberhate: The role of online empathy and moral disengagement",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001740?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "empathy"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Leveraging generative AI to drive supply chain resilience and sustainable performance: A mediation framework for next-generation supply chains",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002332?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Leveraging digital technologies to support entrepreneurship",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001636?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Large Language Models in human resource management: A systematic literature review of applications, open issues and future research directions",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002775?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "large language models"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Knowledge recombination and resilience in cross-domain innovation network",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001661?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Knowledge Gaps and Explanation Design in AI Advice: A Cognitive Fit Perspective on User Decision Confidence",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001734?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Is problematic smartphone use an independent risk marker for adolescent suicidal-thought trajectories? A person-centered, depression-adjusted analysis",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226001962?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Is it information or predispositions? Measuring the long-term effect of information on opinion formation about new energy technologies in Switzerland",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001296?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Is faking it the new making it?: Exploring virtual influencers’ effectiveness in depression awareness campaign",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002165?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "gender_equality",
+      "title": "Internet infrastructure and income inequality of migrant workers in China",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600196X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "inequality"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "technical_hci",
+      "title": "Interactions with artificial agents in virtual reality: A study of behaviors in game-based tasks",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001576?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Innovation from the Leviathan: How do SOEs build ecosystems in transition economies",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001909?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "gender_equality",
+      "title": "Inclusive generative AI and the dynamics of inequality: A capability-resource model of adoption disparities",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001910?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": [
+        "inequality"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "Impact of task decomposability and workflow analyzability on employee-AI multitasking parallel mode: A moderated mediation model with organizational AI support",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002058?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "mind_acceptance",
+      "title": "Human-in-the-loop by default? Demography, ideology, and civic commitment in the acceptance of autonomous security robots across risk scenarios",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002854?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "robots",
+        "autonomous"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "mind_acceptance",
+      "title": "How transparency impacts trust in teleoperated autonomous robots under uncertainty",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001527?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "robots",
+        "autonomous"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "How ecosystem density shapes entrepreneurial engagement: The moderating role of digital infrastructure",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S004016252600288X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "How do older passengers of automated vehicles experience comfort on road? An interview study",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001333?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "automated"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "How demography shapes the macroeconomic returns to automation",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002484?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "automation"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "How HCI Adopts Service Dominant Logic",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001655?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "technical_hci",
+      "title": "Hold the line: Restoring artistic expression in VR for people with Parkinson’s",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001370?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Greening the future: How can technology finance lead to green development?",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002095?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Government data openness and firms’ interregional collaborative innovation",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001806?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "other",
+      "title": "Generative AI for socially responsible and resilient supply chains: Mapping drivers, challenges, risks, practices, and performance measures",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002787?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": [
+        "socially"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Generative AI and the uneven disruption of freelance labor: Exposure, diffusion, and adaptation under constraint",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002538?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "From stress to success: Guidance-contingent effects of stress in Augmented Reality and their implications",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001230?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "From shock to resilience: Technology policy and SME adaptation under geopolitical trade disruption",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001995?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "From prediction to explanation: Using screen text to understand smartphone use and user behaviour",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001539?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "From matchmakers to innovation machines: market generativity in the Bubble.io ecosystem",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002593?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "From digital technologies to platform circular economy performance: The role of digital platform ecosystem orchestration and platform structural assurance",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001946?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "transport_automation",
+      "title": "From digital platforms to institutional mechanisms: Network dynamics driving social governance innovation",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001612?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "From brokerage to orchestration: Physical open innovation intermediaries as platforms for system-level knowledge creation",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001284?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "other",
+      "title": "Friend or enemy? How perceived present and future influence of AI on self vs. others shape human-AI relations across personality mindsets",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001971?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": [
+        "friend"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Fake or trustworthy? A TCCM- and bibliometric-based hybrid review of online review research",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002189?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Fair competition and innovation quality: Evidence from the fair competition review system",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002763?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Exploring the drivers and barriers of digital twin adoption in Kenya and its implications for manufacturing asset optimisation",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600206X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "gender_equality",
+      "title": "Exploring attribution bias in LLMs: Social influences and prompt-based mitigation",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001508?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "LLMs"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Examining generative AI and multi-dimensional drivers for sustainable development: A configurational theory approach",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002544?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Equitable sociotechnical reconfiguration: A model for analyzing the microfundations of socioenvironmental Fintechs",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S004016252600212X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "gender_equality",
+      "title": "Equal access, unequal gains: How digital capability deficits shape the productivity effects of open government data",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002605?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "equal"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Environmental regulatory pressure, artificial intelligence and corporate green innovation bubbles in China",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002398?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Environmental penalties and their spillover effects on green innovation: Dual perspectives of geographical and supply chain network proximity",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002817?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Enhancing situation awareness for disaster policymaking via LLM-generated narratives",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002307?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Enhancing human detection of real and hyperrealistic AI-generated faces",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226001901?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "AI-generated"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Enhancing fairness and transparency in student project evaluation: A spherical fuzzy alternative prioritization and assessment system-based decision support",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001739?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Empathy in leadership communication: Experimental evidence from two vignette studies on AI's role in message improvement and observers' perceptions",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226001937?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "empathy"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Emotionally Vulnerable Subtype of Internet Gaming Disorder: Measuring and Exploring the Pathology of Problematic Generative AI Use",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S074756322600213X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Emotional attachment to AI chatbots: Evidence from Germany, China, South Africa, and the United States",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001685?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "chatbots"
+      ],
+      "matched_social_terms": [
+        "emotional",
+        "attachment"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Effects of uncertain system information on users' performance, confidence, and trust in aided linguistic judgement",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001564?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Editorial Board",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S107158192600162X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Editorial Board",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003021?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "mind_acceptance",
+      "title": "E-Satisfaction and risk perception in government mobile banking applications: A sentiment analysis of user reviews",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002241?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "transport_automation",
+      "title": "Driving green innovation in SMEs: The mediating role of digital green supply chains and complementary capabilities",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001727?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "transport_automation",
+      "title": "Driving frugal and business model innovation: How different organizational capabilities contribute to business competitiveness",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001624?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Does the certification of specialized, refined, characteristic, and innovative (SRCI) enterprises promote breakthroughs in key digital technologies?",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002435?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Does technological progress lower the labor income share? Evidence from OECD countries",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002125?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Does digitalization really reduce environmental pressure? Evidence from emerging economies on the digital environmental paradox",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002472?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "organization_work",
+      "title": "Do intelligent HR technologies spark or stifle employee creativity? A dual-pathway perspective",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002228?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Discipline or pressure?The impact of peer digital subsidies on corporate digital washing in CIO networks",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001843?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "Digital readiness regimes and development dynamics: The role of governance and skills beyond connectivity",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001855?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Digital government and firms’ breakthrough innovation: Empirical evidence from China",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001867?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Digital financial literacy and entrepreneurial self-efficacy: A balanced scorecard analysis of new venture performance",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002277?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Digital exploitation and vulnerability: A study of online exploited personalities",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002074?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Digital Okun's law: A case study of ASEAN-10 economies",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600093X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Development and pre-validation of the multi user eXperience-scale (MUX-S): A French tool for measuring multi-user experience",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001242?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Designing gamification for complex crowdsourcing based on motivational affordance theory: A controlled field study of task familiarity and topical interest",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001692?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Designing for the elderly: How phonetic convergence strategies affect perceived quality and preferences in synthesized speech",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001278?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "affect"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Designing and evaluating SG-HANDI, a serious game on an interactive tabletop with tangible objects for disability awareness in companies",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001485?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Designing an augmented reality windshield display for autonomous vehicles: Effects of Co-passenger presence and content type on content-placement preferences",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001540?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "autonomous"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Designing algorithms to manage deep uncertainty in infrastructure projects: The role of psychological artificial intelligence",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002575?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Data sovereignty does matter! Effects on trust, perceived risk, and willingness to share (business) data",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001983?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Data factor marketization and regional innovation: Evidence from the establishment of data trading platforms in China",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001600?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Dark personality traits and online toxicity: Linking self-reports to Reddit activity",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226001822?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Cultural, Organisational, and Individual Factors Contributing to Cyber Incident Reporting: A Systematic Literature Review",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002244?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Cultural participation in transition: traditional and emerging forms of culture and the role of smartphones",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002174?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Critical success factors for GenAI digital products: From technology–market duality to a Technology–Market–Ethics triad",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002459?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "GenAI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Corrigendum to “Strategic foresight and business model innovation: The sequential mediating role of sensemaking and learning” [Technol. Forecast. Soc. Change volume 200 (2024), 1–18/123095]",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002568?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Corrigendum to “Strategic foresight and business model innovation: The sequential mediating role of sensemaking and learning” [Technol. Forecast. Soc. Change 200 (2024) 123095]",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002489?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Corrigendum to “Does post disclosure inquiry based supervision crowd out green innovation? Evidence from stock exchange inquiry letters in China” [Technol. Forecast. Soc. Change 230 (2026) 124770:1–14/ID: TFS-D-25-10815]",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002623?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "disclosure"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Corrigendum to ‘Perceptions and adoption of AI in public relations: Innovation attributes, threats, and practical implications’ [Computers in Human Behavior 184C (2026) 109087]",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002207?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "Competitive strategies of content platforms in self-operated e-commerce: An analysis based on consumer preference characteristics",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001818?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Companion or Code? Uncertainty in Human-AI Relationships",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001722?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": [
+        "relationships",
+        "companion"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "technical_hci",
+      "title": "Combining intergroup contact and outgroup embodiment in virtual reality: An exploratory test of backfire and secondary transfer effects of outgroup embodiment",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226001913?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Cognitive tradeoffs and knowledge mediation in sustained cryptocurrency engagement",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002253?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Chaining subtle gaze direction cues to guide users in extended reality",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001710?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "transport_automation",
+      "title": "Building resilient industrial innovation systems: The role of enterprise–knowledge coupling in China's new energy vehicle industry",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001934?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Building information modelling maturity assessment for industry 5.0 with prescriptive capability pathways",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002186?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "Brokering permission under uncertainty: How regulatory sandboxes architect innovation governance",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002891?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Bridging technological innovation and socio-technical transitions: A generative AI model for predicting circular economy readiness",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600148X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Bridging industry-finance collaboration and innovation: How strategic choices shape the path to key digital technology innovation",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001533?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Beyond utility: Relational conflicts in human–AI relationships",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001588?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": [
+        "relationships",
+        "relational"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "Beyond subsidies: Digital governance, market validation, and the pathway to sustainable development goals-aligned green transformation",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002320?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Beyond carbon productivity paradox of artificial intelligence through adaptive capability: A perspective of technology complementarity effect",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002265?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Best of both worlds? Balancing social welfare and environmental burden of smart transportation technologies",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002428?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Balancing opportunity and risk: Perceived benefits, concerns and blockchain adoption intention among MSEs",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001582?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "gender_equality",
+      "title": "Attentional priority for social reward is modulated by attentional bias toward game",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002141?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Asymmetric Encounters with AI: Professional Designers’ Perceptions and Integration of AI Tools",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001667?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Artificial intelligence policy and the distortion of green innovation: Evidence from a multi-period quasi-natural experiment",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002751?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Artificial intelligence affordances, consumer value perceptions, and corporate brand value",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001570?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "Artificial intelligence adoption and heterogeneous strategies of open innovation: Implications for firm-level value creation efficiency",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002799?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Artificial intelligence adoption and green innovation: Insights from a nonlinear perspective using generalized random forests",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S004016252600291X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Artificial intelligence adoption and corporate substantive green innovation: An occupational impact perspective",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002009?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Are digital natives ready to use GenAI for serious work?",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002149?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "GenAI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "An exploratory analysis of in-service middle school teachers’ teaching practices when introducing artificial intelligence concepts and the emergence of culturally responsive pedagogy",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001503?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "Algorithmic management practices, trust, and gig-worker continuance: A mixed-methods study of platform work",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001831?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "algorithmic"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Affordance actualisation in a disruptive environment: The role of blockchain technology",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002519?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Adolescent bystanders in technology-facilitated sexual dating abuse: A latent class analysis",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226001883?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "AI-enabled open innovation: A contingency approach to building organizational resilience",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002514?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "AI-enabled innovation and firm growth in the Asia–Pacific region: Multilevel and experimental evidence on regulatory climate",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600223X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "AI- and robotics-driven reconfiguration of a traditional industry: Business model innovation in agriculture 4.0",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002290?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "AI disclosure formats and user responses to AI-generated video: Evidence from a cross-national experiment",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002104?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "AI-generated"
+      ],
+      "matched_social_terms": [
+        "disclosure"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "A three-wave study of human-AI fit and adaptive performance",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001752?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "A taxonomy of business models for data intermediaries",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002137?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "A sustainable societal transformation in central and Southern Asia: Examining the synergy of digital inclusive finance and E-governance",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001697?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "A silent drag: Does artificial intelligence lower adolescents' academic performance?",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002611?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "A disruptive scenario intervention for managerial coping with disruptive change",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600179X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    }
+  ],
+  "candidates": [
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Specialeafhandling: Scaling AI in Organisations: An Empirical Study of Organisational Conditions Differentiating Enterprise Adoption from the Pilot Trap",
+      "source": "RUCforsk (Roskilde University)",
+      "link": "https://openalex.org/W7165701127",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "The Ethical and Legal Complexities of Regulating Companion AI Chatbots",
+      "source": "Lund University Publications (Lund University)",
+      "link": "https://openalex.org/W7143585285",
+      "matched_ai_terms": [
+        "AI",
+        "chatbots"
+      ],
+      "matched_social_terms": [
+        "companion"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "The Role of Generative Artificial Intelligence in Korean Language Learning: Applications, Challenges, and Instructional Strategies",
+      "source": "Open MIND",
+      "link": "https://doi.org/10.17613/g7mbr-1s626",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Reliance on AI Advice for Privacy and Security Settings: From Deference to Verification",
+      "source": "Journal of the Association for Information Systems",
+      "link": "https://openalex.org/W7166253425",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "consumer_marketing",
+      "title": "The Contextual Autonomy Principle: When and Why Social Service Robots Are Perceived as Ethical",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70222?af=R",
+      "matched_ai_terms": [
+        "robots"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "ZOMA: Integrating Gen-AI in hybrid crafts to promote cultural heritage transmission",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S107158192600131X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "With AI through the energy crisis? Citizens’ legitimacy perceptions of human and AI-supported hybrid decisions in an energy policy decision-making process",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001168?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Unlocking AI robotics adoption in innovative firms: Make, buy or ally?",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002702?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Uncanny valley: Reinforcement sensitivity theory and vulnerability to influence by artificial intelligence-generated images online",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002062?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Transparency, neutrality, voice, and respect: How procedural fairness considerations affect AI acceptability in algorithmic societies",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001879?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "algorithmic"
+      ],
+      "matched_social_terms": [
+        "affect"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Tracing moral value drift across large language model generations and their societal implications",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002204?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "large language model"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "other",
+      "title": "Too tired to be judged by humans: Social jetlag increases preference for AI through social anxiety",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226001792?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The “Gold Rush” in AI and robotics patenting activity. Do innovation systems have a role?",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002829?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The speculative future of conversational AI for neurocognitive disorder screening: a multi-stakeholder perspective",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001679?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "conversational AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "The moderating effect of national culture on the relationships between antecedents and attitude and intention for AI adoption: A meta-analysis",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002805?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "relationships"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "The labor-saving paradox in transition: An empirical study on the inverted U-shaped relationship between industrial robot application and overtime work in Chinese firms",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002933?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "robot"
+      ],
+      "matched_social_terms": [
+        "relationship"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "The impact of affordances for emotional human–chatbot interaction on users’ willingness to self-disclose",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002086?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "chatbot"
+      ],
+      "matched_social_terms": [
+        "emotional"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "consumer_marketing",
+      "title": "The impact of AI social responsibility on service loyalty: a mixed-method approach",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001648?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "The human factor in AI governance: Dispositional predictors of public concern and regulatory support",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001788?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "The chat dilemma: Usefulness, risk, ethics, and student intentions to use generative AI in higher education",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002162?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "other",
+      "title": "Textual cues, cognitive load, and social fatigue: Unveiling the reasons behind user discontinuance in conversational AI",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001217?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "conversational AI"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "transport_automation",
+      "title": "Technology readiness levels for policy making: Lessons from the autonomous vehicle hype cycle",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S004016252600260X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "autonomous"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "gender_equality",
+      "title": "Substratism: Conceptualizing and measuring moral bias against AI",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002177?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Societal promises and perils of AI: Sociotropic perceptions, anxiety, and structural filters",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001958?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Robots and sectoral FDI: Why automation attracts technology-driven but not resource-driven investment in OECD countries",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002411?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "robots",
+        "automation"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "other",
+      "title": "Retraction notice to “AI-generated agents with expert personas in biotechnology: Delphi evaluation of emerging technologies and future trajectories” [Technol. Forecasting & Social Change 227 (2026) 124621]",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002921?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "AI-generated"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Recalibrating human knowledge contribution: How generative AI shifts engagement patterns of Q&A contributors",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002866?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Policy-driven or ecosystem-autonomous? Evolutionary game and regulatory effects of digital innovation in future industries",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001715?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "autonomous"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Paradoxes of meaningful work in human-robot automotive production lines: Flow versus repair, recognition versus audit, safety versus work precarity in Sweden and Türkiye",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001703?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "robot",
+        "human-robot",
+        "human–robot",
+        "human—robot"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Optimising the usability of AI-assisted augmented reality displays of critical structures during surgery – An international study of surgeon-computer interaction",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001771?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Narrowing or broadening: Artificial intelligence pilot zones policy and enterprise innovation gap",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001569?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Multidimensional network community structures and breakthrough technology diffusion: Evidence from the AI chip industry",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002563?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "mind_acceptance",
+      "title": "Middle managers' agency in shaping socially disruptive technologies: Insights into the (re)configuration of human–robot work in Industry 5.0",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002319?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "robot",
+        "human-robot",
+        "human–robot",
+        "human—robot"
+      ],
+      "matched_social_terms": [
+        "socially"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Measuring voluntary standards diffusion: A five-step automated web-based framework",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600254X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "automated"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "Machine learning systems as mentors in human learning: The role of AI output in diagnostic knowledge acquisition",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001308?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "MAIS: Exploring human-AI interaction in fair and transparent recruitment with a multi-agent LLM-based system",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001345?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "LLM",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Leveraging generative AI to drive supply chain resilience and sustainable performance: A mediation framework for next-generation supply chains",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002332?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Large Language Models in human resource management: A systematic literature review of applications, open issues and future research directions",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002775?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "large language models"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Knowledge Gaps and Explanation Design in AI Advice: A Cognitive Fit Perspective on User Decision Confidence",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001734?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "gender_equality",
+      "title": "Inclusive generative AI and the dynamics of inequality: A capability-resource model of adoption disparities",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001910?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": [
+        "inequality"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "Impact of task decomposability and workflow analyzability on employee-AI multitasking parallel mode: A moderated mediation model with organizational AI support",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002058?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "mind_acceptance",
+      "title": "Human-in-the-loop by default? Demography, ideology, and civic commitment in the acceptance of autonomous security robots across risk scenarios",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002854?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "robots",
+        "autonomous"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "mind_acceptance",
+      "title": "How transparency impacts trust in teleoperated autonomous robots under uncertainty",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001527?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "robots",
+        "autonomous"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "How do older passengers of automated vehicles experience comfort on road? An interview study",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001333?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "automated"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "How demography shapes the macroeconomic returns to automation",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002484?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "automation"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "other",
+      "title": "Generative AI for socially responsible and resilient supply chains: Mapping drivers, challenges, risks, practices, and performance measures",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002787?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": [
+        "socially"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Generative AI and the uneven disruption of freelance labor: Exposure, diffusion, and adaptation under constraint",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002538?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "other",
+      "title": "Friend or enemy? How perceived present and future influence of AI on self vs. others shape human-AI relations across personality mindsets",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001971?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": [
+        "friend"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "gender_equality",
+      "title": "Exploring attribution bias in LLMs: Social influences and prompt-based mitigation",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001508?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "LLMs"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Examining generative AI and multi-dimensional drivers for sustainable development: A configurational theory approach",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002544?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Environmental regulatory pressure, artificial intelligence and corporate green innovation bubbles in China",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002398?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Enhancing situation awareness for disaster policymaking via LLM-generated narratives",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002307?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Enhancing human detection of real and hyperrealistic AI-generated faces",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226001901?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "AI-generated"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Empathy in leadership communication: Experimental evidence from two vignette studies on AI's role in message improvement and observers' perceptions",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226001937?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "empathy"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Emotionally Vulnerable Subtype of Internet Gaming Disorder: Measuring and Exploring the Pathology of Problematic Generative AI Use",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S074756322600213X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Emotional attachment to AI chatbots: Evidence from Germany, China, South Africa, and the United States",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001685?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "chatbots"
+      ],
+      "matched_social_terms": [
+        "emotional",
+        "attachment"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Designing an augmented reality windshield display for autonomous vehicles: Effects of Co-passenger presence and content type on content-placement preferences",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001540?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "autonomous"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Designing algorithms to manage deep uncertainty in infrastructure projects: The role of psychological artificial intelligence",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002575?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Critical success factors for GenAI digital products: From technology–market duality to a Technology–Market–Ethics triad",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002459?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "GenAI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Corrigendum to ‘Perceptions and adoption of AI in public relations: Innovation attributes, threats, and practical implications’ [Computers in Human Behavior 184C (2026) 109087]",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002207?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Companion or Code? Uncertainty in Human-AI Relationships",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001722?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": [
+        "relationships",
+        "companion"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Bridging technological innovation and socio-technical transitions: A generative AI model for predicting circular economy readiness",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600148X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Beyond utility: Relational conflicts in human–AI relationships",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001588?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": [
+        "relationships",
+        "relational"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Beyond carbon productivity paradox of artificial intelligence through adaptive capability: A perspective of technology complementarity effect",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002265?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Asymmetric Encounters with AI: Professional Designers’ Perceptions and Integration of AI Tools",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001667?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Artificial intelligence policy and the distortion of green innovation: Evidence from a multi-period quasi-natural experiment",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002751?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Artificial intelligence affordances, consumer value perceptions, and corporate brand value",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001570?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "Artificial intelligence adoption and heterogeneous strategies of open innovation: Implications for firm-level value creation efficiency",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002799?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Artificial intelligence adoption and green innovation: Insights from a nonlinear perspective using generalized random forests",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S004016252600291X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Artificial intelligence adoption and corporate substantive green innovation: An occupational impact perspective",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002009?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Are digital natives ready to use GenAI for serious work?",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002149?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "GenAI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "An exploratory analysis of in-service middle school teachers’ teaching practices when introducing artificial intelligence concepts and the emergence of culturally responsive pedagogy",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001503?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "Algorithmic management practices, trust, and gig-worker continuance: A mixed-methods study of platform work",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001831?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "algorithmic"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "AI-enabled open innovation: A contingency approach to building organizational resilience",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002514?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "AI-enabled innovation and firm growth in the Asia–Pacific region: Multilevel and experimental evidence on regulatory climate",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600223X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "AI- and robotics-driven reconfiguration of a traditional industry: Business model innovation in agriculture 4.0",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002290?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "AI disclosure formats and user responses to AI-generated video: Evidence from a cross-national experiment",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002104?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "AI-generated"
+      ],
+      "matched_social_terms": [
+        "disclosure"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "A three-wave study of human-AI fit and adaptive performance",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26001752?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "A silent drag: Does artificial intelligence lower adolescents' academic performance?",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002611?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    }
+  ],
+  "failed_sources": [
+    {
+      "source": "International Journal of Human-Computer Interaction",
+      "source_type": "journal",
+      "reason": "HTTP Error 403: Forbidden",
+      "fallback_used": ""
+    },
+    {
+      "source": "International Journal of Human-Computer Interaction",
+      "source_type": "journal",
+      "reason": "RSS/primary source failed",
+      "fallback_used": "openalex"
+    },
+    {
+      "source": "Nature Human Behaviour",
+      "source_type": "journal",
+      "reason": "not well-formed (invalid token): line 14, column 4",
+      "fallback_used": ""
+    },
+    {
+      "source": "Nature Human Behaviour",
+      "source_type": "journal",
+      "reason": "RSS/primary source failed",
+      "fallback_used": "openalex"
+    }
+  ]
+}
