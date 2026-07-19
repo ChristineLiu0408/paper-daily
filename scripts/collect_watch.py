@@ -966,6 +966,86 @@ def write_journal_seen_state(path: Path, state: dict[str, Any]) -> None:
     path.write_text(json.dumps(state, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
+def empty_candidate_archive() -> dict[str, Any]:
+    return {"version": 1, "papers": []}
+
+
+def load_candidate_archive(path: Path) -> dict[str, Any]:
+    if not path.exists():
+        return empty_candidate_archive()
+    data = json.loads(path.read_text(encoding="utf-8"))
+    if not isinstance(data, dict) or not isinstance(data.get("papers"), list):
+        raise ValueError(f"Invalid candidate archive file: {path}")
+    return data
+
+
+def candidate_archive_identity(candidate: dict[str, Any]) -> str:
+    link = normalized_url(str(candidate.get("link") or ""))
+    if link:
+        return f"url:{link}"
+    return f"title:{normalized_title(str(candidate.get('title') or ''))}:{normalize_space(str(candidate.get('source') or '')).lower()}"
+
+
+def update_candidate_archive(archive: dict[str, Any], payload: dict[str, Any], captured_at: str) -> None:
+    """Retain one dashboard record per candidate while preserving its first capture time."""
+    papers = archive.setdefault("papers", [])
+    by_identity = {candidate_archive_identity(paper): paper for paper in papers}
+    watch_id = str(payload.get("watch_id") or "")
+    watch_name = str(payload.get("part_name") or watch_id)
+
+    for candidate in payload.get("candidates", []):
+        identity = candidate_archive_identity(candidate)
+        if not identity or identity == "title::":
+            continue
+        existing = by_identity.get(identity)
+        snapshot = {field: candidate.get(field, [] if field.startswith("matched_") else "") for field in OUTPUT_FIELDS}
+        if existing is None:
+            existing = {
+                **snapshot,
+                "first_captured_at": captured_at,
+                "last_captured_at": captured_at,
+                "watch_ids": [],
+                "watch_names": [],
+            }
+            papers.append(existing)
+            by_identity[identity] = existing
+        else:
+            existing.update(snapshot)
+            existing["last_captured_at"] = captured_at
+
+        if watch_id and watch_id not in existing["watch_ids"]:
+            existing["watch_ids"].append(watch_id)
+        if watch_name and watch_name not in existing["watch_names"]:
+            existing["watch_names"].append(watch_name)
+
+
+def write_candidate_archive(path: Path, archive: dict[str, Any]) -> None:
+    archive["papers"] = sorted(
+        archive.get("papers", []),
+        key=lambda candidate: (str(candidate.get("first_captured_at") or ""), str(candidate.get("title") or "")),
+        reverse=True,
+    )
+    write_json(path, archive)
+
+
+def bootstrap_candidate_archive(
+    archive: dict[str, Any], output_root: Path, active_watch_ids: set[str]
+) -> None:
+    """Seed a new archive from dated reports already retained in the repository."""
+    if archive.get("papers"):
+        return
+    for json_path in sorted(output_root.glob("*/*.json")):
+        if not REPORT_JSON_PATTERN.fullmatch(json_path.name):
+            continue
+        try:
+            payload = json.loads(json_path.read_text(encoding="utf-8"))
+        except (OSError, json.JSONDecodeError):
+            continue
+        if str(payload.get("watch_id") or "") not in active_watch_ids:
+            continue
+        update_candidate_archive(archive, payload, str(payload.get("generated_at") or ""))
+
+
 def journal_record_date_policy(record: dict[str, Any]) -> tuple[str, str]:
     entry_date = reliable_entry_date(str(record.get("date") or ""))
     if entry_date:
@@ -1464,8 +1544,9 @@ REPORT_JSON_PATTERN = re.compile(r"^(?P<period>\d{4}-\d{2}(?:-\d{2})?)(?:-(?P<sc
 
 
 def update_report_index(output_root: Path, active_watch_ids: set[str] | None = None) -> Path:
-    """Write the latest report link for each watch/scope for the static Pages homepage."""
+    """Write latest watch links plus the full dated report history for the static homepage."""
     latest_by_key: dict[tuple[str, str], dict[str, Any]] = {}
+    history: list[dict[str, Any]] = []
     for json_path in output_root.glob("*/*.json"):
         match = REPORT_JSON_PATTERN.fullmatch(json_path.name)
         if not match:
@@ -1497,6 +1578,7 @@ def update_report_index(output_root: Path, active_watch_ids: set[str] | None = N
             "json": relative_json,
             "xlsx": xlsx_path.relative_to(output_root).as_posix() if xlsx_path.exists() else "",
         }
+        history.append(entry)
         key = (watch_id, scope)
         current = latest_by_key.get(key)
         if current is None or (entry["generated_at"], entry["period"]) > (current["generated_at"], current["period"]):
@@ -1506,8 +1588,9 @@ def update_report_index(output_root: Path, active_watch_ids: set[str] | None = N
         latest_by_key.values(),
         key=lambda entry: (entry["watch_id"], entry["scope"]),
     )
+    history.sort(key=lambda entry: (entry["generated_at"], entry["period"], entry["json"]), reverse=True)
     index_path = output_root / "index.json"
-    write_json(index_path, {"reports": reports})
+    write_json(index_path, {"reports": reports, "history": history})
     return index_path
 
 
@@ -1575,8 +1658,12 @@ def main(argv: list[str] | None = None) -> int:
         else dt.datetime.now(dt.timezone.utc)
     )
     config = load_config(args.config)
+    active_watch_ids = {watch["id"] for watch in config["watches"]}
     journal_seen_state_path = args.journal_seen_state_path or (args.output_root / "journal_seen_state.json")
     journal_seen_state = load_journal_seen_state(journal_seen_state_path)
+    candidate_archive_path = args.output_root / "candidate_archive.json"
+    candidate_archive = load_candidate_archive(candidate_archive_path)
+    bootstrap_candidate_archive(candidate_archive, args.output_root, active_watch_ids)
     source_types = {value.strip() for value in args.source_types.split(",") if value.strip()} or None
     written = []
     for watch in selected_watches(config, args.watch):
@@ -1596,10 +1683,12 @@ def main(argv: list[str] | None = None) -> int:
             journal_seen_state=journal_seen_state,
         )
         written.extend(write_reports(payload, watch, args.output_root, now, suffix=args.report_suffix))
+        update_candidate_archive(candidate_archive, payload, str(payload.get("generated_at") or now.isoformat()))
         if state is not None:
             write_conference_state(state_path, payload["conference_state"])
     write_journal_seen_state(journal_seen_state_path, journal_seen_state)
-    update_report_index(args.output_root, {watch["id"] for watch in config["watches"]})
+    write_candidate_archive(candidate_archive_path, candidate_archive)
+    update_report_index(args.output_root, active_watch_ids)
     for path in written:
         print(path)
     index_path = args.output_root / "index.json"

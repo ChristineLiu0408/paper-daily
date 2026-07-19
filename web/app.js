@@ -3,6 +3,7 @@ const LABEL_ORDER = ["high", "AI"];
 
 const state = {
   reports: [],
+  latestReportPaths: new Set(),
   candidates: [],
   filters: { watch: "all", relevance: "all", topic: "all", query: "" },
 };
@@ -55,6 +56,16 @@ function candidateKey(candidate) {
   return [candidate.title, candidate.source, candidate.link].join("|").toLowerCase();
 }
 
+function reportTimestamp(report) {
+  return report.data.generated_at || report.entry.generated_at || "";
+}
+
+function formatCapturedAt(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) return text(value);
+  return date.toLocaleDateString("zh-CN", { year: "numeric", month: "2-digit", day: "2-digit" });
+}
+
 async function fetchJson(path) {
   const response = await fetch(path, { cache: "no-store" });
   if (!response.ok) throw new Error(`${path}: HTTP ${response.status}`);
@@ -63,7 +74,7 @@ async function fetchJson(path) {
 
 async function loadReports() {
   const index = await fetchJson(`${REPORT_ROOT}index.json`);
-  const entries = Array.isArray(index.reports) ? index.reports : [];
+  const entries = Array.isArray(index.history) && index.history.length ? index.history : (index.reports || []);
   const loaded = await Promise.all(
     entries.map(async (entry) => {
       try {
@@ -74,35 +85,60 @@ async function loadReports() {
       }
     }),
   );
-  return loaded.filter((item) => item.data);
+  return {
+    reports: loaded.filter((item) => item.data),
+    latestReportPaths: new Set((index.reports || []).map((entry) => entry.json)),
+  };
+}
+
+async function loadCandidateArchive() {
+  try {
+    const archive = await fetchJson(`${REPORT_ROOT}candidate_archive.json`);
+    return Array.isArray(archive.papers) ? archive.papers : [];
+  } catch {
+    return [];
+  }
 }
 
 function buildCandidates(reports) {
-  const seen = new Set();
-  const candidates = [];
-  for (const report of reports) {
+  const candidatesByKey = new Map();
+  const oldestFirst = [...reports].sort((a, b) => reportTimestamp(a).localeCompare(reportTimestamp(b)));
+  for (const report of oldestFirst) {
     for (const candidate of report.data.candidates || []) {
       if (!LABEL_ORDER.includes(candidate.relevance_label)) continue;
       const key = candidateKey(candidate);
-      if (seen.has(key)) continue;
-      seen.add(key);
-      candidates.push({ ...candidate, watch_id: report.data.watch_id, watch_name: watchName(report.data) });
+      const existing = candidatesByKey.get(key);
+      if (existing) {
+        existing.last_captured_at = reportTimestamp(report);
+        continue;
+      }
+      candidatesByKey.set(key, {
+        ...candidate,
+        watch_id: report.data.watch_id,
+        watch_name: watchName(report.data),
+        first_captured_at: reportTimestamp(report),
+        last_captured_at: reportTimestamp(report),
+      });
     }
   }
-  return candidates.sort((a, b) => {
+  return [...candidatesByKey.values()].sort((a, b) => {
     const labelDifference = LABEL_ORDER.indexOf(a.relevance_label) - LABEL_ORDER.indexOf(b.relevance_label);
-    return labelDifference || a.title.localeCompare(b.title);
+    return labelDifference || b.first_captured_at.localeCompare(a.first_captured_at) || a.title.localeCompare(b.title);
   });
 }
 
+function latestReports() {
+  return state.reports.filter((report) => state.latestReportPaths.has(report.entry.json));
+}
+
 function renderMetrics() {
-  const reports = state.reports;
+  const reports = latestReports();
   const candidates = state.candidates;
   nodes.reportCount.textContent = String(reports.length);
   nodes.highCount.textContent = String(candidates.filter((item) => item.relevance_label === "high").length);
   nodes.aiCount.textContent = String(candidates.filter((item) => item.relevance_label === "AI").length);
   nodes.failedCount.textContent = String(reports.reduce((sum, item) => sum + Number(item.data.failed_source_count || 0), 0));
-  nodes.watchSummary.textContent = reports.length ? `${reports.length} 份最新报告` : "暂无报告";
+  nodes.watchSummary.textContent = reports.length ? `${reports.length} 个最新 watch · ${state.reports.length} 份历史报告` : "暂无报告";
 }
 
 function createReportLink(label, path) {
@@ -115,12 +151,13 @@ function createReportLink(label, path) {
 
 function renderWatches() {
   nodes.watchGrid.textContent = "";
-  if (!state.reports.length) {
+  const reports = latestReports();
+  if (!reports.length) {
     nodes.watchGrid.append(emptyState("还没有可显示的报告。运行一次 Paper Watch 后，首页会自动更新。"));
     return;
   }
   const fragment = document.createDocumentFragment();
-  for (const report of state.reports) {
+  for (const report of reports) {
     const { entry, data } = report;
     const node = nodes.watchTemplate.content.firstElementChild.cloneNode(true);
     node.querySelector(".watch-frequency").textContent = frequencyText(data.frequency);
@@ -189,7 +226,8 @@ function hydrateFilters() {
 function filteredCandidates() {
   const query = state.filters.query.toLowerCase();
   return state.candidates.filter((candidate) => {
-    if (state.filters.watch !== "all" && candidate.watch_id !== state.filters.watch) return false;
+    const watchIds = candidate.watch_ids || [candidate.watch_id];
+    if (state.filters.watch !== "all" && !watchIds.includes(state.filters.watch)) return false;
     if (state.filters.relevance !== "all" && candidate.relevance_label !== state.filters.relevance) return false;
     if (state.filters.topic !== "all" && topicText(candidate.topic_label) !== state.filters.topic) return false;
     if (!query) return true;
@@ -216,7 +254,8 @@ function renderCandidates() {
     relevance.textContent = labelText(candidate.relevance_label);
     relevance.classList.add(candidate.relevance_label);
     node.querySelector(".topic-badge").textContent = topicText(candidate.topic_label);
-    node.querySelector(".candidate-watch").textContent = candidate.watch_name;
+    node.querySelector(".candidate-watch").textContent = (candidate.watch_names || [candidate.watch_name]).filter(Boolean).join(" · ");
+    node.querySelector(".captured-at").textContent = `首次抓取 ${formatCapturedAt(candidate.first_captured_at)}`;
     const title = node.querySelector(".candidate-title");
     title.textContent = candidate.title;
     title.href = candidate.link || "#";
@@ -245,9 +284,12 @@ function bindEvents() {
 async function main() {
   bindEvents();
   try {
-    state.reports = await loadReports();
-    state.candidates = buildCandidates(state.reports);
-    nodes.statusLine.textContent = state.reports.length ? `已读取 ${state.reports.length} 份最新报告；候选列表仅包含 High 与 AI 标签。` : "暂无索引报告。请运行一次 Paper Watch。";
+    const loaded = await loadReports();
+    state.reports = loaded.reports;
+    state.latestReportPaths = loaded.latestReportPaths;
+    const archive = await loadCandidateArchive();
+    state.candidates = archive.length ? archive : buildCandidates(state.reports);
+    nodes.statusLine.textContent = state.reports.length ? `已读取 ${state.reports.length} 份历史报告；候选列表已去重，并标记首次抓取时间。` : "暂无索引报告。请运行一次 Paper Watch。";
   } catch (error) {
     nodes.statusLine.textContent = "报告索引尚未生成。运行一次 Paper Watch 后，此页面会自动显示。";
   }

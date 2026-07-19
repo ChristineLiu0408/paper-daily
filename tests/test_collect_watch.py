@@ -12,6 +12,7 @@ from scripts.collect_watch import (
     collect_watch,
     dedupe_records,
     discover_dblp_index_toc_keys,
+    empty_candidate_archive,
     empty_conference_state,
     fetch_dblp_toc,
     find_keyword_matches,
@@ -24,6 +25,7 @@ from scripts.collect_watch import (
     render_markdown,
     topic_label_for_title,
     update_report_index,
+    update_candidate_archive,
     write_reports,
 )
 
@@ -32,6 +34,32 @@ CONFIG = load_config(Path("config/watches.yml"))
 
 
 class CollectWatchTest(unittest.TestCase):
+    def test_candidate_archive_preserves_first_capture_and_deduplicates(self) -> None:
+        archive = empty_candidate_archive()
+        payload = {
+            "watch_id": "monthly-top-psychology-journal-watch",
+            "part_name": "Monthly Top Psychology Journal Watch",
+            "candidates": [
+                {
+                    "relevance_label": "high",
+                    "topic_label": "emotional_social",
+                    "title": "AI companion and loneliness",
+                    "source": "Example Journal",
+                    "link": "https://example.com/paper",
+                    "matched_ai_terms": ["AI companion"],
+                    "matched_social_terms": ["loneliness"],
+                }
+            ],
+        }
+
+        update_candidate_archive(archive, payload, "2026-07-01T00:00:00+00:00")
+        update_candidate_archive(archive, payload, "2026-07-15T00:00:00+00:00")
+
+        self.assertEqual(len(archive["papers"]), 1)
+        paper = archive["papers"][0]
+        self.assertEqual(paper["first_captured_at"], "2026-07-01T00:00:00+00:00")
+        self.assertEqual(paper["last_captured_at"], "2026-07-15T00:00:00+00:00")
+        self.assertEqual(paper["watch_ids"], ["monthly-top-psychology-journal-watch"])
     def test_part1_is_monthly_and_uses_rss_novelty_for_missing_dates(self) -> None:
         watch = CONFIG["watches"][0]
 
@@ -652,6 +680,8 @@ class CollectWatchTest(unittest.TestCase):
             self.assertEqual(entry["markdown"], f"{watch['id']}/2026-07.md")
             self.assertEqual(entry["json"], f"{watch['id']}/2026-07.json")
             self.assertEqual(entry["xlsx"], f"{watch['id']}/2026-07_all.xlsx")
+            self.assertEqual(len(report_index["history"]), 1)
+            self.assertEqual(report_index["history"][0]["json"], f"{watch['id']}/2026-07.json")
 
     def test_journal_date_policy_uses_available_online_but_not_issue_month(self) -> None:
         available_online = {"date": "", "summary_slice": "Publication date: Available online 17 July 2026"}
