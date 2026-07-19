@@ -3,173 +3,158 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>Paper Daily</title>
-    <link rel="stylesheet" href="./styles.css?v=20260530-split-sources" />
+    <meta name="description" content="Deterministic AI and social research feed." />
+    <title>AI &amp; Social Research Feed</title>
+    <link rel="stylesheet" href="./styles.css?v=research-dashboard-1" />
   </head>
   <body>
-    <header class="topbar">
-      <div class="brand">
-        <span class="brand-mark">PD</span>
-        <div>
-          <h1>Paper Daily</h1>
-          <p id="updatedAt">正在读取数据</p>
-        </div>
+    <header class="site-header">
+      <div class="header-inner">
+        <a class="brand" href="./" aria-label="Research Feed 首页">
+          <span class="brand-mark" aria-hidden="true">RF</span>
+          <span>
+            <strong>AI &amp; Social Research Feed</strong>
+            <small>Deterministic paper watch</small>
+          </span>
+        </a>
+        <nav class="header-actions" aria-label="项目链接">
+          <a href="https://github.com/ChristineLiu0408/paper-daily/actions" target="_blank" rel="noreferrer">Actions</a>
+          <a href="https://github.com/ChristineLiu0408/paper-daily" target="_blank" rel="noreferrer">Repository</a>
+        </nav>
       </div>
-      <nav class="top-actions" aria-label="页面操作">
-        <div class="theme-switcher" role="radiogroup" aria-label="选择网站背景主题">
-          <button class="theme-option" type="button" role="radio" aria-checked="true" data-theme-option="dark" title="深色主题">
-            <span class="theme-swatch dark-swatch"></span>
-            <span>深色</span>
-          </button>
-          <button class="theme-option" type="button" role="radio" aria-checked="false" data-theme-option="light" title="淡色主题">
-            <span class="theme-swatch light-swatch"></span>
-            <span>淡色</span>
-          </button>
-          <button class="theme-option" type="button" role="radio" aria-checked="false" data-theme-option="eye" title="护眼主题">
-            <span class="theme-swatch eye-swatch"></span>
-            <span>护眼</span>
-          </button>
-        </div>
-        <a class="icon-link" href="https://github.com/Futuresxy/paper-daily/issues" target="_blank" rel="noreferrer" title="配置研究方向">⚙</a>
-        <a class="icon-link" href="https://github.com/Futuresxy/paper-daily/actions" target="_blank" rel="noreferrer" title="查看更新任务">↻</a>
-      </nav>
     </header>
 
-    <main class="shell">
-      <section class="overview" aria-label="概览">
-        <div class="overview-title">
-          <p>Research Radar</p>
-          <h2 id="viewTitle">最新论文</h2>
-        </div>
-        <div class="metric-grid">
-          <div class="metric">
-            <span class="metric-value" id="paperCount">0</span>
-            <span class="metric-label">总论文</span>
-          </div>
-          <div class="metric">
-            <span class="metric-value" id="weekCount">0</span>
-            <span class="metric-label">本周新增</span>
-          </div>
-          <div class="metric">
-            <span class="metric-value" id="monthCount">0</span>
-            <span class="metric-label">本月新增</span>
-          </div>
-          <div class="metric accent">
-            <span class="metric-value" id="topScore">0.00</span>
-            <span class="metric-label">最高匹配</span>
-          </div>
-        </div>
-      </section>
-
-      <section class="reports-panel" aria-labelledby="reportsTitle">
-        <div class="content-head">
+    <main>
+      <section class="overview-band" aria-labelledby="pageTitle">
+        <div class="page-width overview-grid">
           <div>
-            <p class="section-kicker">Research Watch</p>
-            <h2 id="reportsTitle">最新研究报告</h2>
+            <p class="eyebrow">Research monitoring</p>
+            <h1 id="pageTitle">本期研究监测</h1>
+            <p id="statusLine" class="status-line">正在读取已生成的研究报告。</p>
           </div>
-          <span id="reportsStatus">正在读取</span>
+          <div class="run-note">
+            <span>仅基于标题的确定性筛选</span>
+            <a href="#candidates">查看候选论文</a>
+          </div>
         </div>
-        <div id="reportList" class="report-list"></div>
       </section>
 
-      <section class="toolbar" aria-label="筛选">
-        <div class="collection-tabs" role="tablist" aria-label="论文集合">
-          <button class="collection-tab active" type="button" data-collection="daily">每日新论文</button>
-          <button class="collection-tab" type="button" data-collection="conference">顶会精品</button>
+      <section class="page-width metrics" aria-label="本期统计">
+        <div class="metric">
+          <span class="metric-label">最新报告</span>
+          <strong id="reportCount">0</strong>
         </div>
-        <div class="tabs" role="tablist" aria-label="视图">
-          <button class="tab" type="button" data-view="all">全部</button>
-          <button class="tab active" type="button" data-view="daily">当日</button>
-          <button class="tab" type="button" data-view="week">本周</button>
-          <button class="tab" type="button" data-view="month">本月</button>
-          <button class="tab" type="button" data-view="highlights">本周精选</button>
+        <div class="metric high-metric">
+          <span class="metric-label">High relevance</span>
+          <strong id="highCount">0</strong>
         </div>
-        <div class="filters">
-          <label class="field compact">
-            <span>日期</span>
-            <select id="dateFilter"></select>
+        <div class="metric ai-metric">
+          <span class="metric-label">AI-related only</span>
+          <strong id="aiCount">0</strong>
+        </div>
+        <div class="metric">
+          <span class="metric-label">失败来源</span>
+          <strong id="failedCount">0</strong>
+        </div>
+      </section>
+
+      <section class="page-width section-block" aria-labelledby="watchTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Latest runs</p>
+            <h2 id="watchTitle">三个 Watch</h2>
+          </div>
+          <span id="watchSummary" class="quiet-text"></span>
+        </div>
+        <div id="watchGrid" class="watch-grid"></div>
+      </section>
+
+      <section class="page-width visual-grid" aria-label="结果分布">
+        <article class="visual-panel">
+          <div class="section-heading compact-heading">
+            <div>
+              <p class="eyebrow">High and AI candidates</p>
+              <h2>研究主题分布</h2>
+            </div>
+          </div>
+          <div id="topicChart" class="bar-chart"></div>
+        </article>
+        <article class="visual-panel">
+          <div class="section-heading compact-heading">
+            <div>
+              <p class="eyebrow">Candidate sources</p>
+              <h2>来源分布</h2>
+            </div>
+          </div>
+          <div id="sourceChart" class="bar-chart"></div>
+        </article>
+      </section>
+
+      <section id="candidates" class="page-width section-block candidates-section" aria-labelledby="candidateTitle">
+        <div class="section-heading candidate-heading">
+          <div>
+            <p class="eyebrow">Reading queue</p>
+            <h2 id="candidateTitle">候选论文</h2>
+          </div>
+          <span id="candidateCount" class="quiet-text">0 篇</span>
+        </div>
+        <div class="filters" aria-label="候选筛选">
+          <label>
+            <span>Watch</span>
+            <select id="watchFilter"></select>
           </label>
-          <label class="field">
-            <span>方向</span>
-            <select id="topicFilter"></select>
-          </label>
-          <label class="field">
-            <span>匹配</span>
-            <select id="levelFilter">
-              <option value="all">全部</option>
-              <option value="high">High</option>
-              <option value="medium">Medium</option>
-              <option value="low">Low</option>
+          <label>
+            <span>Relevance</span>
+            <select id="relevanceFilter">
+              <option value="all">High 与 AI</option>
+              <option value="high">High relevance</option>
+              <option value="AI">AI-related only</option>
             </select>
           </label>
-          <label class="field search">
+          <label>
+            <span>Topic</span>
+            <select id="topicFilter"></select>
+          </label>
+          <label class="search-field">
             <span>搜索</span>
-            <input id="searchInput" type="search" placeholder="标题、作者、关键词" />
+            <input id="searchInput" type="search" placeholder="标题、来源或关键词" />
           </label>
         </div>
-      </section>
-
-      <section class="content">
-        <div class="content-head">
-          <div>
-            <h2 id="listTitle">当日论文</h2>
-            <p id="scopeLabel">-</p>
-          </div>
-          <span id="resultCount">0 篇</span>
-        </div>
-        <div id="paperList" class="paper-list"></div>
+        <div id="candidateList" class="candidate-list"></div>
       </section>
     </main>
 
-    <template id="paperTemplate">
-      <article class="paper-card">
-        <div class="paper-main">
-          <div class="paper-meta">
-            <span class="match-badge"></span>
-            <span class="paper-date"></span>
-            <span class="paper-source"></span>
-          </div>
-          <h3 class="paper-title"></h3>
-          <p class="paper-authors"></p>
-          <div class="paper-tags"></div>
-          <dl class="summary-grid">
-            <div>
-              <dt>问题</dt>
-              <dd class="summary-problem"></dd>
-            </div>
-            <div>
-              <dt>方法</dt>
-              <dd class="summary-method"></dd>
-            </div>
-            <div>
-              <dt>创新</dt>
-              <dd class="summary-innovation"></dd>
-            </div>
-            <div>
-              <dt>证据</dt>
-              <dd class="summary-evidence"></dd>
-            </div>
-            <div>
-              <dt>局限</dt>
-              <dd class="summary-limitations"></dd>
-            </div>
-            <div>
-              <dt>匹配</dt>
-              <dd class="summary-relevant"></dd>
-            </div>
-          </dl>
+    <template id="watchTemplate">
+      <article class="watch-card">
+        <div class="watch-card-head">
+          <span class="watch-frequency"></span>
+          <span class="watch-period"></span>
         </div>
-        <footer class="paper-footer">
-          <span class="match-reason"></span>
-          <div class="paper-links">
-            <a class="paper-link abs-link" target="_blank" rel="noreferrer">原文</a>
-            <a class="paper-link pdf-link" target="_blank" rel="noreferrer">PDF</a>
-            <a class="paper-link download-link">下载 PDF</a>
-          </div>
-        </footer>
+        <h3 class="watch-name"></h3>
+        <p class="watch-meta"></p>
+        <div class="watch-stats"></div>
+        <div class="watch-links"></div>
       </article>
     </template>
 
-    <script src="./app.js?v=20260530-split-sources"></script>
+    <template id="candidateTemplate">
+      <article class="candidate-row">
+        <div class="candidate-main">
+          <div class="candidate-meta">
+            <span class="relevance-badge"></span>
+            <span class="topic-badge"></span>
+            <span class="candidate-watch"></span>
+          </div>
+          <h3><a class="candidate-title" target="_blank" rel="noreferrer"></a></h3>
+          <p class="candidate-source"></p>
+          <div class="term-line">
+            <span class="ai-terms"></span>
+            <span class="social-terms"></span>
+          </div>
+        </div>
+      </article>
+    </template>
+
+    <script src="./app.js?v=research-dashboard-1"></script>
   </body>
 </html>
