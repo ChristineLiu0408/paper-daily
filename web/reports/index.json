@@ -4,25 +4,37 @@
       "watch_id": "monthly-applied-ai-journal-watch",
       "part_name": "Monthly Applied AI Journal Watch",
       "frequency": "monthly",
-      "period": "2026-07",
+      "period": "2026-08",
       "scope": "default",
-      "generated_at": "2026-07-19T14:00:09.983381+00:00",
-      "candidate_count": 33,
-      "markdown": "monthly-applied-ai-journal-watch/2026-07.md",
-      "json": "monthly-applied-ai-journal-watch/2026-07.json",
-      "xlsx": "monthly-applied-ai-journal-watch/2026-07_all.xlsx"
+      "generated_at": "2026-08-01T01:48:01.126513+00:00",
+      "candidate_count": 58,
+      "markdown": "monthly-applied-ai-journal-watch/2026-08.md",
+      "json": "monthly-applied-ai-journal-watch/2026-08.json",
+      "xlsx": "monthly-applied-ai-journal-watch/2026-08_all.xlsx"
     },
     {
       "watch_id": "monthly-top-psychology-journal-watch",
       "part_name": "Monthly Top Psychology Journal Watch",
       "frequency": "monthly",
-      "period": "2026-07",
+      "period": "2026-08",
       "scope": "default",
-      "generated_at": "2026-07-19T14:00:09.983381+00:00",
-      "candidate_count": 5,
-      "markdown": "monthly-top-psychology-journal-watch/2026-07.md",
-      "json": "monthly-top-psychology-journal-watch/2026-07.json",
-      "xlsx": "monthly-top-psychology-journal-watch/2026-07_all.xlsx"
+      "generated_at": "2026-08-01T01:48:06.407546+00:00",
+      "candidate_count": 3,
+      "markdown": "monthly-top-psychology-journal-watch/2026-08.md",
+      "json": "monthly-top-psychology-journal-watch/2026-08.json",
+      "xlsx": "monthly-top-psychology-journal-watch/2026-08_all.xlsx"
+    },
+    {
+      "watch_id": "weekly-conference-preprint-watch",
+      "part_name": "Weekly Conference & Preprint Watch",
+      "frequency": "weekly",
+      "period": "2026-08-01",
+      "scope": "conferences",
+      "generated_at": "2026-08-01T01:48:12.477101+00:00",
+      "candidate_count": 0,
+      "markdown": "weekly-conference-preprint-watch/2026-08-01-conferences.md",
+      "json": "weekly-conference-preprint-watch/2026-08-01-conferences.json",
+      "xlsx": "weekly-conference-preprint-watch/2026-08-01-conferences_all.xlsx"
     },
     {
       "watch_id": "weekly-conference-preprint-watch",
@@ -50,6 +62,42 @@
     }
   ],
   "history": [
+    {
+      "watch_id": "weekly-conference-preprint-watch",
+      "part_name": "Weekly Conference & Preprint Watch",
+      "frequency": "weekly",
+      "period": "2026-08-01",
+      "scope": "conferences",
+      "generated_at": "2026-08-01T01:48:12.477101+00:00",
+      "candidate_count": 0,
+      "markdown": "weekly-conference-preprint-watch/2026-08-01-conferences.md",
+      "json": "weekly-conference-preprint-watch/2026-08-01-conferences.json",
+      "xlsx": "weekly-conference-preprint-watch/2026-08-01-conferences_all.xlsx"
+    },
+    {
+      "watch_id": "monthly-top-psychology-journal-watch",
+      "part_name": "Monthly Top Psychology Journal Watch",
+      "frequency": "monthly",
+      "period": "2026-08",
+      "scope": "default",
+      "generated_at": "2026-08-01T01:48:06.407546+00:00",
+      "candidate_count": 3,
+      "markdown": "monthly-top-psychology-journal-watch/2026-08.md",
+      "json": "monthly-top-psychology-journal-watch/2026-08.json",
+      "xlsx": "monthly-top-psychology-journal-watch/2026-08_all.xlsx"
+    },
+    {
+      "watch_id": "monthly-applied-ai-journal-watch",
+      "part_name": "Monthly Applied AI Journal Watch",
+      "frequency": "monthly",
+      "period": "2026-08",
+      "scope": "default",
+      "generated_at": "2026-08-01T01:48:01.126513+00:00",
+      "candidate_count": 58,
+      "markdown": "monthly-applied-ai-journal-watch/2026-08.md",
+      "json": "monthly-applied-ai-journal-watch/2026-08.json",
+      "xlsx": "monthly-applied-ai-journal-watch/2026-08_all.xlsx"
+    },
     {
       "watch_id": "weekly-conference-preprint-watch",
       "part_name": "Weekly Conference & Preprint Watch",

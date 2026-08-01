@@ -2,6 +2,703 @@
   "version": 1,
   "papers": [
     {
+      "relevance_label": "high",
+      "topic_label": "other",
+      "title": "Social Judgments of Generative AI Users",
+      "source": "Current Directions in Psychological Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/09637214261466635?af=R",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": [
+        "social"
+      ],
+      "first_captured_at": "2026-08-01T01:48:06.407546+00:00",
+      "last_captured_at": "2026-08-01T01:48:06.407546+00:00",
+      "watch_ids": [
+        "monthly-top-psychology-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Top Psychology Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Digital Care and the Shift of Responsibility in AI Intimacy:Evidence from Character.AI and Love and DeepSpace",
+      "source": "Bristol Research (University of Bristol)",
+      "link": "https://openalex.org/W7171904739",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "intimacy"
+      ],
+      "first_captured_at": "2026-08-01T01:48:06.407546+00:00",
+      "last_captured_at": "2026-08-01T01:48:06.407546+00:00",
+      "watch_ids": [
+        "monthly-top-psychology-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Top Psychology Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Working with AI, wrestling with ethics: How collaboration and ethical anxiety drive employees’ digital-intelligence transformation self-efficacy",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002691?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "Why using AI as a learning coach can improve education",
+      "source": "Nature Human Behaviour",
+      "link": "https://www.nature.com/articles/s41562-026-02524-2",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "There is no free benchmark: An institutional view of legal AI benchmarking",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2509757122?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The unspoken tensions that AI brings to academic collaboration",
+      "source": "Nature Human Behaviour",
+      "link": "https://www.nature.com/articles/s41562-026-02529-x",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "The backfiring effect of weak AI safety regulation",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2509768123?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Talk to Me Like a Human: How AI Chatbot Message Tone, Recommendation Type, and Personalization Drive Consumers' Continuance Intention",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70213?af=R",
+      "matched_ai_terms": [
+        "AI",
+        "chatbot"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Synthesizing research on leadership behaviors: Semantically validating a taxonomy using large language models and examining the nomological network with a second-order meta-analysis.",
+      "source": "Journal of Applied Psychology",
+      "link": "https://psycnet.apa.org/record/2028-01117-001",
+      "matched_ai_terms": [
+        "large language models"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Statutory construction and interpretation for AI",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2509766123?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Social Versus Emotional Loneliness: Diverging Consumer Responses to Anthropomorphic AI Service Robots",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70236?af=R",
+      "matched_ai_terms": [
+        "AI",
+        "robots"
+      ],
+      "matched_social_terms": [
+        "social",
+        "loneliness",
+        "emotional"
+      ],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Skill Deprioritization: Reorganizing in the Age of Generative Artificial Intelligence",
+      "source": "Management Science",
+      "link": "https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2025.01859?af=R",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Silencing controversial realities through prompt revision: The erasure of intensive livestock farming in text-to-image generative AI",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002551?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Research on Attention Guidance and User Autonomy in AI-Powered Immersive Environments",
+      "source": "PhilPapers (PhilPapers Foundation)",
+      "link": "https://doi.org/10.17613/vpe2q-5qg42",
+      "matched_ai_terms": [
+        "AI",
+        "AI-powered"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Reconfiguring the global factory: The synergistic role of additive manufacturing, explainable AI, and knowledge acquisition in MNC operations",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002678?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Perceived Ability or Identity Threat? How Service Robot Image and Anthropomorphism Shape Consumers' Usage Intention",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70220?af=R",
+      "matched_ai_terms": [
+        "robot"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "More externalization, but less inference? Exploring changes in young learners’ critical thinking during conversational AI bot-supported multimodal writing practice",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002384?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "conversational AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Minds Versus Codes: Triangulating Neurophysiological and Qualitative Responses to AI‐Generated Versus Human‐Made Video Advertisements",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70235?af=R",
+      "matched_ai_terms": [
+        "AI",
+        "AI-generated"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "health_mental_health",
+      "title": "Medical robotics beyond automation: Human-robot collaboration and the RONNA system as a socio-technical case study",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002642?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "robot",
+        "human-robot",
+        "human–robot",
+        "human—robot",
+        "automation"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Legal infrastructure for transformative AI governance",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2509742123?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Language Cues and Product Benefit Appeals: What Drives Green Purchase Intentions in AI Recommenders?",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70216?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "transport_automation",
+      "title": "Governance configurations driving AI innovation: A comparative analysis from 40 countries",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002908?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Generative artificial intelligence and corporate innovation: Quantity boon or quality bane",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002770?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "From tool to supervisor: Uncovering the impact of AI roles on employee performance",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002945?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Feeling Vulnerable With My AI Companion: Examining Well‐Being in Human‐AI Relationships",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70230?af=R",
+      "matched_ai_terms": [
+        "AI",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": [
+        "relationships",
+        "companion",
+        "well-being"
+      ],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Drivers of heterogeneous artificial intelligence in corporate energy transition",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002969?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Delegating (or not) to machines: How role expectations shape leaders’ willingness to use AI for communication",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002360?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Context-aware multimodal AI navigates hidden pathways in five centuries of art evolution",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2517969123?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Can large language models detect green leaders? CEO environmental backgrounds and corporate ESG performance",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600268X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "large language models"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "At the boundary: Law and AI",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2606704123?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Assessing the feasibility of collective licensing of in-copyright works as training data for generative AI systems",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2509769122?af=R",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "mind_acceptance",
+      "title": "Algorithmic transparency and citizen trust in digital governance: A cross-national analysis of AI adoption in public services",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002344?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "algorithmic"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Agent‐Related Perceptions of Automated Versus Human Agents and the Role of Task‐Related Risk: A Meta‐Analysis",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70216?af=R",
+      "matched_ai_terms": [
+        "automated"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "AI-driven supply chain innovation: The roles of supply chain ambidexterity and complexity",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002502?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "AI-driven"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "AI detection risks undermining academic integrity",
+      "source": "Nature Human Behaviour",
+      "link": "https://www.nature.com/articles/s41562-026-02528-y",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
       "relevance_label": "AI",
       "topic_label": "other",
       "title": "When Shippers Become Algorithms: Candidate Exposure, Information Design, and the Concentration of LLM-Mediated Freight Markets",
@@ -2330,7 +3027,7 @@
       ],
       "matched_social_terms": [],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -2895,7 +3592,7 @@
       ],
       "matched_social_terms": [],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -3068,6 +3765,34 @@
       ]
     },
     {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "The fragility of AI companionship: Ontological, structural, and normative uncertainty in human-AI relationships",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001722?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": [
+        "relationships",
+        "companionship"
+      ],
+      "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
+      "watch_ids": [
+        "monthly-applied-ai-journal-watch"
+      ],
+      "watch_names": [
+        "Monthly Applied AI Journal Watch"
+      ]
+    },
+    {
       "relevance_label": "AI",
       "topic_label": "other",
       "title": "The Use of AI for Anti-Money Laundering Purposes: Keeping Human Rights in the Loop",
@@ -3097,7 +3822,7 @@
       ],
       "matched_social_terms": [],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -3154,7 +3879,7 @@
       ],
       "matched_social_terms": [],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch",
         "weekly-conference-preprint-watch"
@@ -3276,7 +4001,7 @@
         "companion"
       ],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch",
         "monthly-top-psychology-journal-watch",
@@ -3337,7 +4062,7 @@
       ],
       "matched_social_terms": [],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -3358,7 +4083,7 @@
         "social"
       ],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -3616,7 +4341,7 @@
       ],
       "matched_social_terms": [],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch",
         "weekly-conference-preprint-watch"
@@ -4411,7 +5136,7 @@
       ],
       "matched_social_terms": [],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -4669,7 +5394,7 @@
         "relationship"
       ],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -4975,7 +5700,7 @@
     {
       "relevance_label": "AI",
       "topic_label": "other",
-      "title": "Knowledge Gaps and Explanation Design in AI Advice: A Cognitive Fit Perspective on User Decision Confidence",
+      "title": "Knowledge gaps and explanation design in AI advice: a cognitive fit perspective on user decision confidence",
       "source": "International Journal of Human-Computer Studies",
       "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001734?dgcid=rss_sd_all",
       "matched_ai_terms": [
@@ -4983,7 +5708,7 @@
       ],
       "matched_social_terms": [],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -5295,7 +6020,7 @@
       ],
       "matched_social_terms": [],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -5688,7 +6413,7 @@
     {
       "relevance_label": "AI",
       "topic_label": "other",
-      "title": "Emotionally Vulnerable Subtype of Internet Gaming Disorder: Measuring and Exploring the Pathology of Problematic Generative AI Use",
+      "title": "Emotionally vulnerable subtype of internet gaming disorder: Measuring and exploring the pathology of problematic generative AI use",
       "source": "Computers in Human Behavior",
       "link": "https://www.sciencedirect.com/science/article/pii/S074756322600213X?dgcid=rss_sd_all",
       "matched_ai_terms": [
@@ -5697,7 +6422,7 @@
       ],
       "matched_social_terms": [],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -6040,7 +6765,7 @@
       ],
       "matched_social_terms": [],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -6078,7 +6803,7 @@
       ],
       "matched_social_terms": [],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -6198,7 +6923,7 @@
       ],
       "matched_social_terms": [],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -6267,34 +6992,6 @@
       ],
       "watch_names": [
         "Weekly Conference & Preprint Watch"
-      ]
-    },
-    {
-      "relevance_label": "high",
-      "topic_label": "emotional_social",
-      "title": "Companion or Code? Uncertainty in Human-AI Relationships",
-      "source": "International Journal of Human-Computer Studies",
-      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001722?dgcid=rss_sd_all",
-      "matched_ai_terms": [
-        "AI",
-        "human-AI",
-        "Human-AI",
-        "human–AI",
-        "Human–AI",
-        "human—AI",
-        "Human—AI"
-      ],
-      "matched_social_terms": [
-        "relationships",
-        "companion"
-      ],
-      "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "watch_ids": [
-        "monthly-applied-ai-journal-watch"
-      ],
-      "watch_names": [
-        "Monthly Applied AI Journal Watch"
       ]
     },
     {
@@ -6406,7 +7103,7 @@
       ],
       "matched_social_terms": [],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -6522,7 +7219,7 @@
       ],
       "matched_social_terms": [],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -6706,7 +7403,7 @@
       ],
       "matched_social_terms": [],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -6757,7 +7454,7 @@
     {
       "relevance_label": "AI",
       "topic_label": "other",
-      "title": "Asymmetric Encounters with AI: Professional Designers’ Perceptions and Integration of AI Tools",
+      "title": "Asymmetric encounters with AI: Professional designers’ perceptions and integration of AI tools",
       "source": "International Journal of Human-Computer Studies",
       "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001667?dgcid=rss_sd_all",
       "matched_ai_terms": [
@@ -6765,7 +7462,7 @@
       ],
       "matched_social_terms": [],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -6941,7 +7638,7 @@
         "companions"
       ],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -7160,7 +7857,7 @@
         "reciprocity"
       ],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -7179,7 +7876,7 @@
       ],
       "matched_social_terms": [],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
@@ -7360,7 +8057,7 @@
         "empathy"
       ],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:06.407546+00:00",
       "watch_ids": [
         "monthly-top-psychology-journal-watch"
       ],
@@ -7600,7 +8297,7 @@
       ],
       "matched_social_terms": [],
       "first_captured_at": "2026-07-19T14:00:09.983381+00:00",
-      "last_captured_at": "2026-07-19T14:00:09.983381+00:00",
+      "last_captured_at": "2026-08-01T01:48:01.126513+00:00",
       "watch_ids": [
         "monthly-applied-ai-journal-watch"
       ],
