@@ -52,16 +52,28 @@
       "watch_id": "weekly-conference-preprint-watch",
       "part_name": "Weekly Conference & Preprint Watch",
       "frequency": "weekly",
-      "period": "2026-07-26",
+      "period": "2026-08-02",
       "scope": "preprints",
-      "generated_at": "2026-07-26T22:45:58.659355+00:00",
-      "candidate_count": 46,
-      "markdown": "weekly-conference-preprint-watch/2026-07-26-preprints.md",
-      "json": "weekly-conference-preprint-watch/2026-07-26-preprints.json",
-      "xlsx": "weekly-conference-preprint-watch/2026-07-26-preprints_all.xlsx"
+      "generated_at": "2026-08-02T22:42:33.314353+00:00",
+      "candidate_count": 53,
+      "markdown": "weekly-conference-preprint-watch/2026-08-02-preprints.md",
+      "json": "weekly-conference-preprint-watch/2026-08-02-preprints.json",
+      "xlsx": "weekly-conference-preprint-watch/2026-08-02-preprints_all.xlsx"
     }
   ],
   "history": [
+    {
+      "watch_id": "weekly-conference-preprint-watch",
+      "part_name": "Weekly Conference & Preprint Watch",
+      "frequency": "weekly",
+      "period": "2026-08-02",
+      "scope": "preprints",
+      "generated_at": "2026-08-02T22:42:33.314353+00:00",
+      "candidate_count": 53,
+      "markdown": "weekly-conference-preprint-watch/2026-08-02-preprints.md",
+      "json": "weekly-conference-preprint-watch/2026-08-02-preprints.json",
+      "xlsx": "weekly-conference-preprint-watch/2026-08-02-preprints_all.xlsx"
+    },
     {
       "watch_id": "weekly-conference-preprint-watch",
       "part_name": "Weekly Conference & Preprint Watch",
