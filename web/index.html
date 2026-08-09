@@ -90,6 +90,27 @@
         </article>
       </section>
 
+      <section id="googleScholar" class="page-width section-block scholar-section" aria-labelledby="scholarTitle">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">Google Scholar Alerts</p>
+            <h2 id="scholarTitle">关注作者引用与 AI 研究</h2>
+          </div>
+          <span id="scholarSummary" class="quiet-text">正在读取</span>
+        </div>
+        <div class="scholar-filters" aria-label="Google Scholar 筛选">
+          <label>
+            <span>分类</span>
+            <select id="scholarCategoryFilter"><option value="all">全部分类</option></select>
+          </label>
+          <label class="search-field">
+            <span>搜索</span>
+            <input id="scholarSearchInput" type="search" placeholder="标题、作者或摘要切片" />
+          </label>
+        </div>
+        <div id="scholarList" class="scholar-list"></div>
+      </section>
+
       <section id="candidates" class="page-width section-block candidates-section" aria-labelledby="candidateTitle">
         <div class="section-heading candidate-heading">
           <div>
@@ -153,6 +174,19 @@
             <span class="social-terms"></span>
           </div>
         </div>
+      </article>
+    </template>
+
+    <template id="scholarTemplate">
+      <article class="scholar-card">
+        <div class="scholar-meta">
+          <span class="scholar-category"></span>
+          <span class="scholar-author"></span>
+          <span class="scholar-date"></span>
+        </div>
+        <h3 class="scholar-title"></h3>
+        <p class="scholar-citation"></p>
+        <p class="scholar-abstract"></p>
       </article>
     </template>
 
