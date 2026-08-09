@@ -39,8 +39,11 @@ a { color: inherit; }
 .brand strong, .brand small { display: block; }
 .brand strong { font-size: 16px; }
 .brand small { color: var(--muted); font-size: 12px; }
-.header-actions { display: flex; gap: 18px; font-size: 14px; color: var(--muted); }
+.header-actions { display: flex; align-items: center; gap: 18px; font-size: 14px; color: var(--muted); }
 .header-actions a:hover, .watch-links a:hover { color: var(--teal); }
+.view-switcher { display: flex; gap: 4px; padding: 3px; border: 1px solid var(--line); border-radius: 999px; background: var(--wash); }
+.view-tab { border: 0; border-radius: 999px; padding: 7px 12px; color: var(--muted); background: transparent; font: inherit; font-size: 13px; cursor: pointer; }
+.view-tab.active { color: white; background: var(--teal); font-weight: 750; }
 
 .overview-band { background: var(--paper); border-bottom: 1px solid var(--line); }
 .overview-grid { min-height: 184px; display: flex; align-items: end; justify-content: space-between; gap: 32px; padding: 42px 0 34px; }
@@ -128,7 +131,9 @@ select:focus, input:focus { outline: 2px solid var(--teal-soft); border-color: v
 @media (max-width: 600px) {
   .page-width, .header-inner { width: min(100% - 28px, 1180px); }
   .header-inner { min-height: 64px; }
-  .header-actions { gap: 12px; font-size: 13px; }
+  .header-actions { gap: 8px; font-size: 13px; }
+  .header-actions > a { display: none; }
+  .view-tab { padding: 6px 9px; font-size: 12px; }
   .overview-grid { min-height: auto; display: grid; align-items: start; padding: 32px 0 28px; }
   .run-note { justify-items: start; text-align: left; }
   .metrics { margin-top: 14px; }

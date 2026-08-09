@@ -18,6 +18,10 @@
           </span>
         </a>
         <nav class="header-actions" aria-label="项目链接">
+          <div class="view-switcher" role="tablist" aria-label="页面切换">
+            <button class="view-tab active" type="button" data-page-view="feed" role="tab" aria-selected="true">论文 Feed</button>
+            <button class="view-tab" type="button" data-page-view="scholar" role="tab" aria-selected="false">Google Scholar Alert</button>
+          </div>
           <a href="https://github.com/ChristineLiu0408/paper-daily/actions" target="_blank" rel="noreferrer">Actions</a>
           <a href="https://github.com/ChristineLiu0408/paper-daily" target="_blank" rel="noreferrer">Repository</a>
         </nav>
@@ -25,7 +29,7 @@
     </header>
 
     <main>
-      <section class="overview-band" aria-labelledby="pageTitle">
+      <section class="overview-band" data-page-view-content="feed" aria-labelledby="pageTitle">
         <div class="page-width overview-grid">
           <div>
             <p class="eyebrow">Research monitoring</p>
@@ -39,7 +43,7 @@
         </div>
       </section>
 
-      <section class="page-width metrics" aria-label="本期统计">
+      <section class="page-width metrics" data-page-view-content="feed" aria-label="本期统计">
         <div class="metric">
           <span class="metric-label">最新报告</span>
           <strong id="reportCount">0</strong>
@@ -58,7 +62,7 @@
         </div>
       </section>
 
-      <section class="page-width section-block" aria-labelledby="watchTitle">
+      <section class="page-width section-block" data-page-view-content="feed" aria-labelledby="watchTitle">
         <div class="section-heading">
           <div>
             <p class="eyebrow">Latest runs</p>
@@ -69,7 +73,7 @@
         <div id="watchGrid" class="watch-grid"></div>
       </section>
 
-      <section class="page-width visual-grid" aria-label="结果分布">
+      <section class="page-width visual-grid" data-page-view-content="feed" aria-label="结果分布">
         <article class="visual-panel">
           <div class="section-heading compact-heading">
             <div>
@@ -90,7 +94,7 @@
         </article>
       </section>
 
-      <section id="googleScholar" class="page-width section-block scholar-section" aria-labelledby="scholarTitle">
+      <section id="googleScholar" class="page-width section-block scholar-section" data-page-view-content="scholar" aria-labelledby="scholarTitle" hidden>
         <div class="section-heading">
           <div>
             <p class="eyebrow">Google Scholar Alerts</p>
@@ -123,7 +127,7 @@
         <div id="scholarList" class="scholar-list"></div>
       </section>
 
-      <section id="candidates" class="page-width section-block candidates-section" aria-labelledby="candidateTitle">
+      <section id="candidates" class="page-width section-block candidates-section" data-page-view-content="feed" aria-labelledby="candidateTitle">
         <div class="section-heading candidate-heading">
           <div>
             <p class="eyebrow">Reading queue</p>

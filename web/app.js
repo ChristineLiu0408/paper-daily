@@ -34,6 +34,8 @@ const nodes = {
   scholarSearchInput: document.querySelector("#scholarSearchInput"),
   scholarList: document.querySelector("#scholarList"),
   scholarTemplate: document.querySelector("#scholarTemplate"),
+  viewTabs: document.querySelectorAll("[data-page-view]"),
+  viewContents: document.querySelectorAll("[data-page-view-content]"),
 };
 
 function text(value, fallback = "-") {
@@ -333,6 +335,18 @@ function bindEvents() {
   nodes.relevanceFilter.addEventListener("change", (event) => { state.filters.relevance = event.target.value; renderCandidates(); });
   nodes.topicFilter.addEventListener("change", (event) => { state.filters.topic = event.target.value; renderCandidates(); });
   nodes.searchInput.addEventListener("input", (event) => { state.filters.query = event.target.value.trim(); renderCandidates(); });
+  for (const tab of nodes.viewTabs) {
+    tab.addEventListener("click", () => {
+      const view = tab.dataset.pageView;
+      for (const item of nodes.viewContents) item.hidden = item.dataset.pageViewContent !== view;
+      for (const button of nodes.viewTabs) {
+        const active = button.dataset.pageView === view;
+        button.classList.toggle("active", active);
+        button.setAttribute("aria-selected", String(active));
+      }
+      window.scrollTo({ top: 0, behavior: "smooth" });
+    });
+  }
 }
 
 async function main() {
