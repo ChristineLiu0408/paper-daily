@@ -34,6 +34,11 @@ const nodes = {
   scholarSearchInput: document.querySelector("#scholarSearchInput"),
   scholarList: document.querySelector("#scholarList"),
   scholarTemplate: document.querySelector("#scholarTemplate"),
+  scholarItemCount: document.querySelector("#scholarItemCount"),
+  scholarNewCount: document.querySelector("#scholarNewCount"),
+  scholarCitationCount: document.querySelector("#scholarCitationCount"),
+  scholarAuthorCount: document.querySelector("#scholarAuthorCount"),
+  scholarCategoryChart: document.querySelector("#scholarCategoryChart"),
   viewTabs: document.querySelectorAll("[data-page-view]"),
   viewContents: document.querySelectorAll("[data-page-view-content]"),
 };
@@ -288,6 +293,21 @@ function renderScholar(data) {
   const items = Array.isArray(data?.items) ? data.items : [];
   const categories = [...new Set(items.map((item) => item.category).filter(Boolean))].sort();
   const authors = [...new Set(items.map((item) => item.followed_author).filter(Boolean))].sort();
+  nodes.scholarItemCount.textContent = String(items.length);
+  nodes.scholarNewCount.textContent = String(items.filter((item) => item.alert_type === "new_article").length);
+  nodes.scholarCitationCount.textContent = String(items.filter((item) => item.alert_type === "citation").length);
+  nodes.scholarAuthorCount.textContent = String(authors.length);
+  nodes.scholarCategoryChart.textContent = "";
+  const categoryCounts = categories.map((category) => [category, items.filter((item) => item.category === category).length]).sort((a, b) => b[1] - a[1]);
+  for (const [category, count] of categoryCounts) {
+    const row = document.createElement("div");
+    row.className = "scholar-category-row";
+    row.innerHTML = '<span class="scholar-category-label"></span><span class="scholar-category-track"><i></i></span><b></b>';
+    row.querySelector(".scholar-category-label").textContent = category;
+    row.querySelector("i").style.width = `${Math.max(8, (count / categoryCounts[0][1]) * 100)}%`;
+    row.querySelector("b").textContent = String(count);
+    nodes.scholarCategoryChart.appendChild(row);
+  }
   nodes.scholarCategoryFilter.innerHTML = '<option value="all">全部分类</option>';
   for (const category of categories) nodes.scholarCategoryFilter.add(new Option(category, category));
   nodes.scholarAuthorFilter.innerHTML = '<option value="all">全部作者</option>';

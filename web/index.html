@@ -95,6 +95,12 @@
       </section>
 
       <section id="googleScholar" class="page-width section-block scholar-section" data-page-view-content="scholar" aria-labelledby="scholarTitle" hidden>
+        <div class="scholar-metrics" aria-label="Google Scholar 概览">
+          <div class="metric"><span class="metric-label">Scholar 条目</span><strong id="scholarItemCount">0</strong></div>
+          <div class="metric scholar-new-metric"><span class="metric-label">新发表文章</span><strong id="scholarNewCount">0</strong></div>
+          <div class="metric scholar-citation-metric"><span class="metric-label">被引文章</span><strong id="scholarCitationCount">0</strong></div>
+          <div class="metric"><span class="metric-label">关注作者</span><strong id="scholarAuthorCount">0</strong></div>
+        </div>
         <div class="section-heading">
           <div>
             <p class="eyebrow">Google Scholar Alerts</p>
@@ -102,6 +108,7 @@
           </div>
           <span id="scholarSummary" class="quiet-text">正在读取</span>
         </div>
+        <div id="scholarCategoryChart" class="scholar-category-chart" aria-label="Scholar 分类分布"></div>
         <div class="scholar-filters" aria-label="Google Scholar 筛选">
           <label>
             <span>分类</span>

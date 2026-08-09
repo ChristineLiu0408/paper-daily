@@ -94,6 +94,16 @@ select, input { width: 100%; min-height: 38px; border: 1px solid #bfcac8; border
 select:focus, input:focus { outline: 2px solid var(--teal-soft); border-color: var(--teal); }
 .candidate-list { margin-top: 16px; display: grid; border-top: 1px solid var(--line); background: var(--paper); }
 .scholar-section { border-top: 1px solid var(--line); }
+.scholar-metrics { display: grid; grid-template-columns: repeat(4, 1fr); border: 1px solid var(--line); background: var(--paper); margin-bottom: 34px; }
+.scholar-metrics .metric { min-height: 92px; }
+.scholar-new-metric strong { color: var(--coral); }
+.scholar-citation-metric strong { color: var(--teal); }
+.scholar-category-chart { display: grid; gap: 10px; margin: 0 0 24px; padding: 18px 20px; border: 1px solid var(--line); background: var(--paper); }
+.scholar-category-row { display: grid; grid-template-columns: minmax(180px, 32%) 1fr 32px; gap: 12px; align-items: center; font-size: 13px; }
+.scholar-category-label { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--muted); }
+.scholar-category-track { height: 9px; overflow: hidden; background: #e8eeee; border-radius: 2px; }
+.scholar-category-track i { display: block; height: 100%; background: var(--teal); border-radius: 2px; }
+.scholar-category-row b { text-align: right; }
 .scholar-filters { display: grid; grid-template-columns: 1fr 1fr 1fr 2fr; gap: 12px; padding: 16px; border: 1px solid var(--line); background: var(--paper); }
 .scholar-filters label { display: grid; gap: 5px; color: var(--muted); font-size: 12px; }
 .scholar-list { display: grid; gap: 12px; margin-top: 16px; }
@@ -121,6 +131,7 @@ select:focus, input:focus { outline: 2px solid var(--teal-soft); border-color: v
 
 @media (max-width: 850px) {
   .metrics { grid-template-columns: repeat(2, 1fr); }
+  .scholar-metrics { grid-template-columns: repeat(2, 1fr); }
   .metric:nth-child(2) { border-right: 0; }
   .metric:nth-child(-n+2) { border-bottom: 1px solid var(--line); }
   .watch-grid, .visual-grid { grid-template-columns: 1fr; }
@@ -142,5 +153,6 @@ select:focus, input:focus { outline: 2px solid var(--teal-soft); border-color: v
   .visual-grid { padding-bottom: 34px; }
   .filters { grid-template-columns: 1fr; }
   .bar-row { grid-template-columns: minmax(92px, 42%) 1fr 20px; gap: 8px; }
+  .scholar-category-row { grid-template-columns: minmax(100px, 38%) 1fr 20px; gap: 8px; }
   .candidate-row { padding: 18px 16px; }
 }
