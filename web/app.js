@@ -40,6 +40,7 @@ const nodes = {
   scholarCitationCount: document.querySelector("#scholarCitationCount"),
   scholarAuthorCount: document.querySelector("#scholarAuthorCount"),
   scholarCategoryChart: document.querySelector("#scholarCategoryChart"),
+  scholarAuthorChart: document.querySelector("#scholarAuthorChart"),
   viewTabs: document.querySelectorAll("[data-page-view]"),
   viewContents: document.querySelectorAll("[data-page-view-content]"),
 };
@@ -308,6 +309,21 @@ function renderScholar(data) {
     row.querySelector("i").style.width = `${Math.max(8, (count / categoryCounts[0][1]) * 100)}%`;
     row.querySelector("b").textContent = String(count);
     nodes.scholarCategoryChart.appendChild(row);
+  }
+  nodes.scholarAuthorChart.textContent = "";
+  const authorCounts = authors.map((author) => ({
+    author,
+    newArticles: items.filter((item) => item.followed_author === author && item.alert_type === "new_article").length,
+    citations: items.filter((item) => item.followed_author === author && item.alert_type === "citation").length,
+  })).sort((a, b) => (b.newArticles + b.citations) - (a.newArticles + a.citations) || a.author.localeCompare(b.author));
+  for (const rowData of authorCounts) {
+    const row = document.createElement("div");
+    row.className = "scholar-author-row";
+    row.innerHTML = '<strong class="scholar-author-name"></strong><span class="author-new-label">新发表 <b></b></span><span class="author-citation-label">被引 <b></b></span>';
+    row.querySelector(".scholar-author-name").textContent = rowData.author;
+    row.querySelector(".author-new-label b").textContent = String(rowData.newArticles);
+    row.querySelector(".author-citation-label b").textContent = String(rowData.citations);
+    nodes.scholarAuthorChart.appendChild(row);
   }
   nodes.scholarCategoryFilter.innerHTML = '<option value="all">全部分类</option>';
   for (const category of categories) nodes.scholarCategoryFilter.add(new Option(category, category));
