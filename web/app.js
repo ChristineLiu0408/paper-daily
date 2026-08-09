@@ -33,6 +33,7 @@ const nodes = {
   scholarTypeFilter: document.querySelector("#scholarTypeFilter"),
   scholarSearchInput: document.querySelector("#scholarSearchInput"),
   scholarList: document.querySelector("#scholarList"),
+  scholarLoadMore: document.querySelector("#scholarLoadMore"),
   scholarTemplate: document.querySelector("#scholarTemplate"),
   scholarItemCount: document.querySelector("#scholarItemCount"),
   scholarNewCount: document.querySelector("#scholarNewCount"),
@@ -313,6 +314,8 @@ function renderScholar(data) {
   nodes.scholarAuthorFilter.innerHTML = '<option value="all">全部作者</option>';
   for (const author of authors) nodes.scholarAuthorFilter.add(new Option(author, author));
 
+  let visibleCount = 20;
+  let debounceTimer;
   const render = () => {
     const category = nodes.scholarCategoryFilter.value;
     const author = nodes.scholarAuthorFilter.value;
@@ -332,7 +335,7 @@ function renderScholar(data) {
       return;
     }
     const fragment = document.createDocumentFragment();
-    for (const item of filtered) {
+    for (const item of filtered.slice(0, visibleCount)) {
       const node = nodes.scholarTemplate.content.firstElementChild.cloneNode(true);
       node.querySelector(".scholar-category").textContent = item.category || "未分类";
       node.querySelector(".scholar-type").textContent = item.alert_type === "new_article" ? "新发表" : "被引";
@@ -345,9 +348,18 @@ function renderScholar(data) {
       fragment.appendChild(node);
     }
     nodes.scholarList.appendChild(fragment);
+    nodes.scholarLoadMore.hidden = filtered.length <= visibleCount;
   };
-  nodes.scholarCategoryFilter.addEventListener("change", render);
-  nodes.scholarSearchInput.addEventListener("input", render);
+  const resetAndRender = () => { visibleCount = 20; render(); };
+  const debouncedSearch = () => {
+    window.clearTimeout(debounceTimer);
+    debounceTimer = window.setTimeout(resetAndRender, 250);
+  };
+  nodes.scholarCategoryFilter.addEventListener("change", resetAndRender);
+  nodes.scholarAuthorFilter.addEventListener("change", resetAndRender);
+  nodes.scholarTypeFilter.addEventListener("change", resetAndRender);
+  nodes.scholarSearchInput.addEventListener("input", debouncedSearch);
+  nodes.scholarLoadMore.addEventListener("click", () => { visibleCount += 20; render(); });
   render();
 }
 
@@ -359,7 +371,11 @@ function bindEvents() {
   for (const tab of nodes.viewTabs) {
     tab.addEventListener("click", () => {
       const view = tab.dataset.pageView;
-      for (const item of nodes.viewContents) item.hidden = item.dataset.pageViewContent !== view;
+      for (const item of nodes.viewContents) {
+        const visible = item.dataset.pageViewContent === view;
+        item.hidden = !visible;
+        item.classList.toggle("view-hidden", !visible);
+      }
       for (const button of nodes.viewTabs) {
         const active = button.dataset.pageView === view;
         button.classList.toggle("active", active);
