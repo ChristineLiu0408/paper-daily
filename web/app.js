@@ -336,7 +336,8 @@ function renderScholar(data) {
       const node = nodes.scholarTemplate.content.firstElementChild.cloneNode(true);
       node.querySelector(".scholar-category").textContent = item.category || "未分类";
       node.querySelector(".scholar-type").textContent = item.alert_type === "new_article" ? "新发表" : "被引";
-      node.querySelector(".scholar-author").textContent = item.followed_author ? `关注作者：${item.followed_author}` : "";
+      const authorLabel = item.alert_type === "citation" ? "被引作者" : "发表作者";
+      node.querySelector(".scholar-author").textContent = item.followed_author ? `${authorLabel}：${item.followed_author}` : "作者信息未在邮件中显示";
       node.querySelector(".scholar-date").textContent = item.alert_date || "";
       node.querySelector(".scholar-title").textContent = item.title || "未提供标题";
       node.querySelector(".scholar-citation").textContent = item.citation || "发表物信息未在邮件中显示";
