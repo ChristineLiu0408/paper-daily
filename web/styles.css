@@ -14,6 +14,7 @@
 }
 
 * { box-sizing: border-box; }
+.view-hidden { display: none !important; }
 
 html { scroll-behavior: smooth; }
 
@@ -107,6 +108,8 @@ select:focus, input:focus { outline: 2px solid var(--teal-soft); border-color: v
 .scholar-filters { display: grid; grid-template-columns: 1fr 1fr 1fr 2fr; gap: 12px; padding: 16px; border: 1px solid var(--line); background: var(--paper); }
 .scholar-filters label { display: grid; gap: 5px; color: var(--muted); font-size: 12px; }
 .scholar-list { display: grid; gap: 12px; margin-top: 16px; }
+.load-more-button { display: block; margin: 16px auto 0; padding: 9px 18px; border: 1px solid var(--teal); border-radius: 999px; color: var(--teal); background: var(--paper); font: inherit; font-weight: 750; cursor: pointer; }
+.load-more-button:hover { color: white; background: var(--teal); }
 .scholar-card { padding: 20px 22px; border: 1px solid var(--line); border-radius: 7px; background: var(--paper); }
 .scholar-meta { display: flex; flex-wrap: wrap; gap: 7px 12px; align-items: center; margin-bottom: 9px; color: var(--muted); font-size: 12px; }
 .scholar-category { padding: 3px 8px; border-radius: 999px; color: #05625f; background: var(--teal-soft); font-weight: 750; }
