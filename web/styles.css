@@ -91,12 +91,13 @@ select, input { width: 100%; min-height: 38px; border: 1px solid #bfcac8; border
 select:focus, input:focus { outline: 2px solid var(--teal-soft); border-color: var(--teal); }
 .candidate-list { margin-top: 16px; display: grid; border-top: 1px solid var(--line); background: var(--paper); }
 .scholar-section { border-top: 1px solid var(--line); }
-.scholar-filters { display: grid; grid-template-columns: 1fr 2fr; gap: 12px; padding: 16px; border: 1px solid var(--line); background: var(--paper); }
+.scholar-filters { display: grid; grid-template-columns: 1fr 1fr 1fr 2fr; gap: 12px; padding: 16px; border: 1px solid var(--line); background: var(--paper); }
 .scholar-filters label { display: grid; gap: 5px; color: var(--muted); font-size: 12px; }
 .scholar-list { display: grid; gap: 12px; margin-top: 16px; }
 .scholar-card { padding: 20px 22px; border: 1px solid var(--line); border-radius: 7px; background: var(--paper); }
 .scholar-meta { display: flex; flex-wrap: wrap; gap: 7px 12px; align-items: center; margin-bottom: 9px; color: var(--muted); font-size: 12px; }
 .scholar-category { padding: 3px 8px; border-radius: 999px; color: #05625f; background: var(--teal-soft); font-weight: 750; }
+.scholar-type { padding: 3px 8px; border-radius: 999px; color: #8b2f1a; background: var(--coral-soft); font-weight: 750; }
 .scholar-title { margin: 0 0 6px; font-size: 17px; line-height: 1.35; }
 .scholar-citation { margin: 0 0 10px; color: var(--muted); font-size: 13px; }
 .scholar-abstract { margin: 0; color: var(--ink); font-size: 14px; line-height: 1.65; }

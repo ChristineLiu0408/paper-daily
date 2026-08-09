@@ -29,6 +29,8 @@ const nodes = {
   candidateTemplate: document.querySelector("#candidateTemplate"),
   scholarSummary: document.querySelector("#scholarSummary"),
   scholarCategoryFilter: document.querySelector("#scholarCategoryFilter"),
+  scholarAuthorFilter: document.querySelector("#scholarAuthorFilter"),
+  scholarTypeFilter: document.querySelector("#scholarTypeFilter"),
   scholarSearchInput: document.querySelector("#scholarSearchInput"),
   scholarList: document.querySelector("#scholarList"),
   scholarTemplate: document.querySelector("#scholarTemplate"),
@@ -283,14 +285,21 @@ function emptyState(message) {
 function renderScholar(data) {
   const items = Array.isArray(data?.items) ? data.items : [];
   const categories = [...new Set(items.map((item) => item.category).filter(Boolean))].sort();
+  const authors = [...new Set(items.map((item) => item.followed_author).filter(Boolean))].sort();
   nodes.scholarCategoryFilter.innerHTML = '<option value="all">全部分类</option>';
   for (const category of categories) nodes.scholarCategoryFilter.add(new Option(category, category));
+  nodes.scholarAuthorFilter.innerHTML = '<option value="all">全部作者</option>';
+  for (const author of authors) nodes.scholarAuthorFilter.add(new Option(author, author));
 
   const render = () => {
     const category = nodes.scholarCategoryFilter.value;
+    const author = nodes.scholarAuthorFilter.value;
+    const type = nodes.scholarTypeFilter.value;
     const query = nodes.scholarSearchInput.value.trim().toLowerCase();
     const filtered = items.filter((item) => {
       if (category !== "all" && item.category !== category) return false;
+      if (author !== "all" && item.followed_author !== author) return false;
+      if (type !== "all" && item.alert_type !== type) return false;
       if (!query) return true;
       return [item.title, item.citation, item.followed_author, item.abstract_slice, item.category].join(" ").toLowerCase().includes(query);
     });
@@ -304,6 +313,7 @@ function renderScholar(data) {
     for (const item of filtered) {
       const node = nodes.scholarTemplate.content.firstElementChild.cloneNode(true);
       node.querySelector(".scholar-category").textContent = item.category || "未分类";
+      node.querySelector(".scholar-type").textContent = item.alert_type === "new_article" ? "新发表" : "被引";
       node.querySelector(".scholar-author").textContent = item.followed_author ? `关注作者：${item.followed_author}` : "";
       node.querySelector(".scholar-date").textContent = item.alert_date || "";
       node.querySelector(".scholar-title").textContent = item.title || "未提供标题";

@@ -103,6 +103,18 @@
             <span>分类</span>
             <select id="scholarCategoryFilter"><option value="all">全部分类</option></select>
           </label>
+          <label>
+            <span>关注作者</span>
+            <select id="scholarAuthorFilter"><option value="all">全部作者</option></select>
+          </label>
+          <label>
+            <span>提醒类型</span>
+            <select id="scholarTypeFilter">
+              <option value="all">全部类型</option>
+              <option value="new_article">新发表文章</option>
+              <option value="citation">被引文章</option>
+            </select>
+          </label>
           <label class="search-field">
             <span>搜索</span>
             <input id="scholarSearchInput" type="search" placeholder="标题、作者或摘要切片" />
@@ -181,6 +193,7 @@
       <article class="scholar-card">
         <div class="scholar-meta">
           <span class="scholar-category"></span>
+          <span class="scholar-type"></span>
           <span class="scholar-author"></span>
           <span class="scholar-date"></span>
         </div>
