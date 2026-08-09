@@ -90,6 +90,16 @@ h2 { margin-bottom: 0; font-size: 22px; line-height: 1.2; letter-spacing: 0; }
 select, input { width: 100%; min-height: 38px; border: 1px solid #bfcac8; border-radius: 4px; background: white; color: var(--ink); padding: 7px 9px; font: inherit; font-size: 14px; }
 select:focus, input:focus { outline: 2px solid var(--teal-soft); border-color: var(--teal); }
 .candidate-list { margin-top: 16px; display: grid; border-top: 1px solid var(--line); background: var(--paper); }
+.scholar-section { border-top: 1px solid var(--line); }
+.scholar-filters { display: grid; grid-template-columns: 1fr 2fr; gap: 12px; padding: 16px; border: 1px solid var(--line); background: var(--paper); }
+.scholar-filters label { display: grid; gap: 5px; color: var(--muted); font-size: 12px; }
+.scholar-list { display: grid; gap: 12px; margin-top: 16px; }
+.scholar-card { padding: 20px 22px; border: 1px solid var(--line); border-radius: 7px; background: var(--paper); }
+.scholar-meta { display: flex; flex-wrap: wrap; gap: 7px 12px; align-items: center; margin-bottom: 9px; color: var(--muted); font-size: 12px; }
+.scholar-category { padding: 3px 8px; border-radius: 999px; color: #05625f; background: var(--teal-soft); font-weight: 750; }
+.scholar-title { margin: 0 0 6px; font-size: 17px; line-height: 1.35; }
+.scholar-citation { margin: 0 0 10px; color: var(--muted); font-size: 13px; }
+.scholar-abstract { margin: 0; color: var(--ink); font-size: 14px; line-height: 1.65; }
 .candidate-row { padding: 20px 22px; border: 1px solid var(--line); border-top: 0; }
 .candidate-meta { display: flex; flex-wrap: wrap; align-items: center; gap: 7px; margin-bottom: 10px; color: var(--muted); font-size: 12px; }
 .relevance-badge, .topic-badge { border-radius: 999px; padding: 3px 8px; font-weight: 750; }
@@ -111,6 +121,7 @@ select:focus, input:focus { outline: 2px solid var(--teal-soft); border-color: v
   .metric:nth-child(-n+2) { border-bottom: 1px solid var(--line); }
   .watch-grid, .visual-grid { grid-template-columns: 1fr; }
   .filters { grid-template-columns: repeat(2, 1fr); }
+  .scholar-filters { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 600px) {

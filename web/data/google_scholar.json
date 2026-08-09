@@ -1,0 +1,767 @@
+{
+  "source": "Google Scholar Alerts",
+  "period": "2026-07-01/2026-07-31",
+  "updated_at": "2026-08-09T12:36:31+08:00",
+  "email_count": 23,
+  "parsed_count": 94,
+  "deduplicated_count": 84,
+  "items": [
+    {
+      "title": "UNDERSTANDING THE EXPERIENCE OF PHYSICAL DISABILITY AMONG PEOPLE LIVING WITH HIV: A QUALITATIVE STUDY",
+      "citation": "A Shahzadi - 2025",
+      "abstract_slice": "Since the advent of antiretroviral therapy, people living with HIV (PLHIV) are living longer but increasingly experience physical disability. The primary objective of this study was to understand the experience (presence and impact) of physical disability among PLHIV. The secondary objective was to understand the influence of extrinsic and intrinsic contextual factors. Interview guide developed using the Episodic Disability Framework and items from existing physical performance measures. Semi …",
+      "followed_author": "",
+      "alert_date": "2026-07-22",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "GENDER INEQUALITY IN HEALTHCARE: HOW SEXISM SHAPES WOMEN'S HEALTH OUTCOMES IN WESTERN HEALTHCARE SYSTEMS",
+      "citation": "M Bukauskaitė - Social Inquiry into Well-Being, 2026",
+      "abstract_slice": "The aim of this article is to examine gender inequality in healthcare as a sociologicalissue, analysing how women's health has been historically marginalised and continues to beshaped by sexist practices and norms. The study explores how this historical exclusion influencescontemporary Western healthcare systems and women's health outcomes. While genderbias and health disparities are acknowledged in academic literature, in practice they are oftendismissed or …",
+      "followed_author": "",
+      "alert_date": "2026-07-22",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "Understanding Right-Hemisphere Language Disorders Through a Half-Century of Research: A Systematic Review",
+      "citation": "ML Blake, P Ferré, L Murray, R Hewetson, M Johnson… - American Journal of Speech …, 2026",
+      "abstract_slice": "Purpose: Language deficits affecting multiple domains (eg, semantics, pragmatics) have been reported after right-hemisphere (RH) stroke. The goal of the current study was to summarize the existing knowledge within the apragmatism framework. Method: A Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA)–guided systematic review of 55 years of research was conducted. Data were extracted to describe study characteristics, along with linguistic and …",
+      "followed_author": "",
+      "alert_date": "2026-07-22",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "Academic Promotion in Cambodian Public Universities: Challenges and Moving Forward",
+      "citation": "R Sam, S No, C Ngo, M Serey, B Phan, S Em, S Sam… - … in the Age of AI in Higher …, 2027",
+      "abstract_slice": "This chapter examines the academic promotion system in Cambodian public universities, highlighting national and institutional challenges that hinder merit-based career advancement. Despite rapid expansion in higher education, promotion practices remain inconsistent, with unclear criteria, limited research capacity, and centralized decision-making processes constraining academic development within specialized, relevant ministries and the Council of Ministers. Heavy teaching …",
+      "followed_author": "",
+      "alert_date": "2026-07-22",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "Motor strategies for spatial interaction in visually impaired children: towards the development of a multisensory device for sensorimotor rehabilitation",
+      "citation": "S Petri - 2026",
+      "abstract_slice": "Goal-directed motor strategies, such as reaching and grasping, play a central role in early objects exploration, development of body–space representations, and gradual acquisition of functional adaptation to the surrounding environment. In congenital visual impairment, reduced or absent visual feedback from birth can affect perception– action calibration and reshape sensorimotor development. The main objective of my Ph. D. project was to investigate differences in goal-directed actions between visually …",
+      "followed_author": "",
+      "alert_date": "2026-07-22",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "AI-Enabled Therapy Platforms: Clinical Promise, Ethical Challenges, and Cultural Considerations in Mental Health Care",
+      "citation": "A Srivastava, M Bita - Asian Journal of Psychiatry, 2026",
+      "abstract_slice": "The integration of artificial intelligence (AI) into mental health care presents significant opportunities to address gaps in access, affordability, and scalability, particularly in resource-constrained settings such as India. AI-enabled therapy platforms, including conversational agents and virtual therapists, promise personalized and continuous psychological support. However, alongside these clinical advantages, critical ethical and contextual challenges emerge, including …",
+      "followed_author": "",
+      "alert_date": "2026-07-24",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "Artificial intelligence and unconditional love: the rise of generative AI as an alternative form of mental health support",
+      "citation": "V Miller, MJ Hill, T Moreira - Communication and Change, 2026",
+      "abstract_slice": "The rapid rise of generative AI chatbots has extended their use beyond task-based assistance into the realms of emotional support, companionship, and informal mental health care. This article examines how individuals engage with general-purpose and companion-oriented AI systems such as ChatGPT and Replika to support their mental well-being. Drawing on qualitative interviews with AI users, supplemented by computational analysis of Reddit discussions, we show that many experience these …",
+      "followed_author": "",
+      "alert_date": "2026-07-24",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "Beyond Efficiency: A Qualitative Exploration of Human Agency, Epistemic Vigilance, and Cognitive Boundaries in Human-AI Interaction",
+      "citation": "MT Khan, J Ee, S Tripathi - Open Journal of Social Sciences, 2026",
+      "abstract_slice": "Abstract As Artificial Intelligence (AI) becomes more common in professional and psychological contexts, concerns about human autonomy and epistemic vigilance have grown. Questions around the changing boundaries of cognitive responsibility are intensifying. This qualitative study explores how professionals in psychology, leadership, and technology negotiate agency, cognitive effort, and scrutiny when using AI. Through reflexive thematic analysis of twelve semistructured interviews, two …",
+      "followed_author": "",
+      "alert_date": "2026-07-24",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "SILICON GENDER AND INTIMACY CUES IN ARTIFICIAL INTELLIGENCE CHATBOT SOCIAL PRESENCE FOR E-COMMERCE",
+      "citation": "N SAFAR, A ALI - Quantum Journal of Social Sciences and Humanities, 2026",
+      "abstract_slice": "Artificial intelligence chatbots have become central to e-commerce resilience by operating as continuous service agents that sustain customer interaction, trust, and engagement in competitive digital marketplaces. This study examines how silicon gender and intimacy cues are embedded in chatbot design to shape social presence within leading Malaysian e-commerce platforms, namely Shopee, Lazada, and Zalora. Drawing on Social Presence Theory and a technofeminist perspective, the …",
+      "followed_author": "",
+      "alert_date": "2026-07-24",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "HCI Applications for Mental Health and Well-Being",
+      "citation": "R Zhang, X Xu, YC Lee - Human Computer Interaction Handbook",
+      "abstract_slice": "This chapter explores the role of human–computer interaction (HCI) in advancing mental health care and well-being. Highlighting applications such as mobile health apps, wearable devices, conversational agents, and virtual reality platforms, it examines how these technologies enhance accessibility, user engagement, and scalability in delivering mental health support. By integrating evidence-based techniques like cognitive behavioral therapy and mindfulness, these tools empower …",
+      "followed_author": "",
+      "alert_date": "2026-07-24",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "ISSN 1908-3130 INFLUENCE OF JOB STRESS ON THE PSYCHOLOGICAL WELLBEING OF NURSES WORKING IN A GOVERNMENT HOSPITAL IN SOUTH …",
+      "citation": "MLF Ladera",
+      "abstract_slice": "Job stress and psychological well-being among nurses remain critical concerns in healthcare settings. This study examined the influence of job stress on the psychological well-being of nurses working in a government hospital in South Cotabato using a predictive correlational research design. Based on G* Power analysis, 150 nurses were conveniently selected as respondents. Job stress was measured using the modified Nursing Stress Scale developed by Gray-Toft and …",
+      "followed_author": "",
+      "alert_date": "2026-07-24",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "Short Videos in Tourism and Hospitality Research: A Systematic Review and Future Directions",
+      "citation": "VX Li, F Chi, CKP Wong - Asia Tourism Forum 2026",
+      "abstract_slice": "Short videos have become essential to digital content consumption and creation, especially within tourism and hospitality. Travelers increasingly seek short video content posted by others before making travel decisions. This study adopts a systematic review approach to examine academic research on tourism-and hospitality-related short videos published between 2016 and 2025, focusing on thematic areas, methodological applications, and theoretical foundations. The 78 …",
+      "followed_author": "",
+      "alert_date": "2026-07-24",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "Pretty Privilege? Effects of Perpetrators' Attractiveness and Hate Type on User Responses Against Misogynist Digital Hate",
+      "citation": "R Meerson, K Koban, J Matthes - Computers in Human Behavior, 2026",
+      "abstract_slice": "Digital misogyny is increasingly pervasive, making it vital to understand how users perceive and respond to it. Drawing on distinctions between incivility, intolerance, and threats and on the elaboration likelihood model as a framework for understanding when peripheral cues such as perpetrator attractiveness shape moral judgment, this preregistered online experiment (N= 884) examined how hate type (incivility, intolerance, threat) and perpetrator attractiveness (high, medium, low) …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "Procedural and Distributive Unfairness in AI Interactions: Are People Less Satisfied with Unfairness from AI Compared to Humans?",
+      "citation": "D Johnson, S Chun, S Pandey, G Ahmed - Informatics, 2026",
+      "abstract_slice": "This study investigates consumer perceptions of procedural and distributive fairness/unfairness in service interactions involving AI versus human providers. It also examines how these perceptions are influenced by technology-related discomfort and the perceived responsibility of the service organization. A scenario- based online experiment was conducted using participants recruited through the Prolific research platform. Participants were asked to review a small business loan …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "When the Magic Fades: Understanding Determinants of User Disengagement with AI Companions",
+      "citation": "X Ye, YC Zhao, D Wang, Y Zhang - International Journal of Human–Computer …, 2026",
+      "abstract_slice": "AI companions are virtual conversational agents designed to foster parasocial interactions and provide long-term emotional support. Research on user engagement has largely focused on its initiation and maintenance, whereas subsequent user disengagement remains significantly underexplored. This research gap is increasingly critical as mainstream applications face sharp declines in active usage rates and download volumes. This study investigates the determinants of …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "“You Need to Drop the App”: Online Community Responses to Teens' Disclosures of Overreliance on AI Companion Chatbots",
+      "citation": "M Namvarpour, A Mhetras, JY Medina, M Akter, A Razi - Proceedings of the 8th ACM …, 2026",
+      "abstract_slice": "AI companion chatbots are used for emotional interaction and companionship, particularly among adolescents. Prior research explains how youth become attached to AI systems, but less is known about how others respond when problematic reliance is disclosed. We examined 973 comment trees from 144 Reddit posts where self-identified teens discussed overreliance on Character. AI. We found that informational and emotional support dominated responses, though dismissive or …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "Human-like conversational agents as social partners: a scoping review of socioaffective mechanisms, well-being outcomes, risks and governance in the post-Turing …",
+      "citation": "Q Li, H Geng, X Hu, D Pan, H Liu, Y Li, J Guo - Frontiers in Artificial Intelligence, 2026",
+      "abstract_slice": "Introduction Large language models have evolved from laboratory demonstrations into mass-market companion-style conversational agents that many users treat as social partners. As these systems produce increasingly human-like conversational behavior, users may attribute mind, form affective bonds, disclose sensitive information, and rely on agents for emotional support, creating both potential benefits and psychosocial risks. Methods We conducted a PRISMA-ScR-informed scoping …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "Who is Responsible for Teens' AI Companion Overreliance? Reddit Community Responses to Disclosures of Teens' Overreliance on Character. AI",
+      "citation": "M Namvarpour, A Mhetras, JY Medina, M Akter, A Razi - Proceedings of the 8th ACM …, 2026",
+      "abstract_slice": "Conversational artificial intelligence (AI) systems, including AI companion chatbots, are increasingly used for social interaction, entertainment, and emotional support. Users may experience these systems as quasi-social partners, raising concerns about dependency and developmental risks for adolescents. We qualitatively analyzed Reddit comment trees responding to posts in r/CharacterAI by self- disclosed teens (13-17) discussing overreliance on AI companion chatbots. We …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "Systematic Literature Review: Public Understanding of Artificial Intelligence Amid the Development of Digital Technology",
+      "citation": "GW Bumi, D Febriawan - Devotion: Journal of Research and Community Service, 2026",
+      "abstract_slice": "The rapid development of Artificial Intelligence (AI) in the era of digital transformation has driven increased use of AI-based technologies in various aspects of life. The presence of AI on social media platforms, in the education sector, the workplace, and digital services has made public interaction with this technology increasingly intense. However, the level of public understanding of AI varies and is influenced by social and psychological factors, as well as digital literacy levels. This research aims to …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "Advancing NeuroAI through developmental alignment",
+      "citation": "V Ayzenberg, MF Bonner, L Bayet - Neuron, 2026",
+      "abstract_slice": "The goal of artificial intelligence (AI) modeling in neuroscience, or NeuroAI, is to uncover the factors that give rise to human-level intelligence. However, current models overwhelmingly focus on simulating adulthood, the end state of intelligence, and often do not consider how this state was achieved in the first place. We argue that, to understand adult intelligence, it is important to model the developmental process by which intelligence arose. Here, we describe how developmental changes …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "其他 AI 主题"
+    },
+    {
+      "title": "UniETP: Unifying Environments for Generalizable Embodied Task Planning",
+      "citation": "P Xu, J Zheng, Z Wang, Y Mu - arXiv preprint arXiv:2607.18062, 2026",
+      "abstract_slice": "This paper focuses on the problem of Embodied Task Planning, where an agent is required to execute a sequence of atomic actions within an interactive environment to complete a user-specified task. Though a variety of simulators and datasets have previously been built for this task, these efforts are largely isolated, with each using its own observation format, action type, and task domain. This fragmentation complicates comprehensive model evaluation and hinders the scalability of training …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "Communal Outrage as Deterrence",
+      "citation": "D Tweed - 2026",
+      "abstract_slice": "There is converging evidence that the human mind includes a coalitional psychology: a set of neurocomputational systems that evolved to regulate within-and between-group cooperation and conflict. This dissertation tests the hypothesis that moral outrage is one component of that architecture. I propose moral outrage is an evolved psychological system for coalitional deterrence, triggered by cues that another person or group assigns insufficient weight to the welfare of one's side and …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "Unraveling the phenomenon of losing humanness at workplace: A review and synthesis of dehumanization research in work context",
+      "citation": "SC Thottathil, M Dhal, K Verma - Acta Psychologica, 2026",
+      "abstract_slice": "Dehumanization in workplace contexts has recently gained attention due to contemporary factors such as the rapid increase in information, communication, and technology, as well as the emergence of artificial intelligence and robotics. However, the literature on dehumanization, characterized by perceiving others as less human or experiencing subhuman treatment, faces significant challenges in its development due to factors such as its fragmented development, lack of integration across diverse …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "U-Shaped Relationship Between Perceived Descriptive Norms for Bullying Intervention and Adolescents' Prosocial Risky Behavior: Social-Emotional Competence as …",
+      "citation": "T Wu, JS Hong, Y Zhao - School Mental Health, 2026",
+      "abstract_slice": "Drawing from the perspective of transfer theory, this study explored the relationship between the perceived descriptive norms for bullying intervention (PDN-BI) and adolescent future prosocial risky behavior (PRB), as well as the moderating role of social-emotional competence. Two waves of data were collected from 1,308 junior high school students (aged 11–15, M= 13.06, SD= 0.62) in China at one-year intervals. The findings revealed a U-shaped relationship between PDN-BI at Time 1 …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "Justificación de la desigualdad económica, corrupción y evasión fiscal: una mirada psicosocial",
+      "citation": "MM Lozano, BKA Valverde, JDG Castro",
+      "abstract_slice": "Este capítulo aborda algunas de las consecuencias de evaluar la desigualdad económica como injusta en Costa Rica, desde la perspectiva de la psicología social. La subjetividad con la que se evalúa el sistema económico y, en concreto, la desigualdad económica, afecta las actitudes políticas, por ejemplo, hacia la recaudación de impuestos y la corrupción (Alonso y Brussino, 2024). De modo que el objetivo es analizar los efectos de percibir la distribución de ingresos como injusta …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "Crossing the AI Mind Trap: Deconstructing the Impact of AI Mind Perception on User Engagement in AI Voice Assistants",
+      "citation": "Q Hu, Z Pan - Journal of Theoretical and Applied Electronic …, 2026",
+      "abstract_slice": "As large language models (LLMs) advance the machine mind of artificial intelligence (AI) to be more human-like, the dynamic impact of users' perceptions of this mind on their engagement remains underexplored. Specifically, little is known about the “tipping point” where appreciation shifts to aversion. Grounded in mind perception theory, this research investigates the dynamic relationship between the perceived machine mind of AI voice assistants and user engagement using data from online …",
+      "followed_author": "",
+      "alert_date": "2026-07-24",
+      "alert_type": "citation",
+      "category": "其他 AI 主题"
+    },
+    {
+      "title": "Strategic Disclosure of AI Curation: A Boundary Condition on Algorithm Aversion in Hedonic E-Commerce",
+      "citation": "T Ma, Y Du, Y Wang, L Zhou - Journal of Theoretical and Applied Electronic …, 2026 • Cites: ‪Ideation with generative AI—in consumer research and beyond‬ 7. The transition to generative AI in consumer research: Moving beyond algorithm aversion and the road ahead U Usman, A Duhachek, A Garvey, TW Kim - Advancing Consumer Psychology …, 2026",
+      "abstract_slice": "After years of promise and talk of artificial intelligence (AI) changing the course of business and society, the AI age is undoubtedly upon us (Brady, 2025; PricewaterhouseCoopers, 2025). In the past 10 years, consumer research has begun to document how these changes impact consumer behavior in full force. Given the theoretical advances in consumer psychology, consumer researchers are well-positioned to articulate how AI may change consumer behavior in the coming …",
+      "followed_author": "",
+      "alert_date": "2026-07-22",
+      "alert_type": "citation",
+      "category": "其他 AI 主题"
+    },
+    {
+      "title": "Pedagogical Recommendations for Leveraging the Use of Artificial Intelligence in Writing Doctoral Dissertations to Address the Education Adoption Gap",
+      "citation": "R Soni",
+      "abstract_slice": "ABSTRACT Aim/Purpose The purpose of this study is to develop tactics for leveraging artificial intelligence (AI) in the writing of doctoral dissertations. These recommendations address the current lack of instructional materials that guide students in effectively and ethically integrating AI into this specific academic task. The paper outlines the challenges students face during the dissertation writing process and identifies specific AI tools that can help overcome these challenges. Background …",
+      "followed_author": "",
+      "alert_date": "2026-07-22",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "AI Echoing in the Backstage: Private AI Consulting May Strengthens Confidence and Limits Depolarization",
+      "citation": "JME Liu, CCH Weng, YH Lin, PY Hsiao, YTY Hou - … of the 8th ACM Conference on …, 2026",
+      "abstract_slice": "Recently a new, but underexplored, mode of AI use in which individuals consult AI privately and asynchronously to navigate conflict and cognitive dissonance, which we called\" private AI consulting\", has been increasingly prevalent. Focusing on polarized social issues, we examine whether private AI consulting amplifies polarization when it consistently reinforces users' prior beliefs through sycophantic agreement. Alternatively, we test whether providing constructive, two-sided …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "其他 AI 主题"
+    },
+    {
+      "title": "Obedient Machines Make Us Everyday Authoritarians: A Power Framework and Research Agenda for Human–AI Interaction",
+      "citation": "JME Liu, YTY Hou - Proceedings of the 8th ACM Conference on …, 2026",
+      "abstract_slice": "Power is a fundamental yet underexamined dimension of human–AI interaction (HAII). We introduce the notion of “everyday authoritarians” to capture how repeated interaction with sycophantic and highly personalized AI may normalize a preference for obedient intelligence: system that affirm, adapt, yield to users rather than challenge, resist, or deliberate with them. This provocation challenges the prevailing assumption of technological powerlessness, arguing that the uncritical optimization …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "Students' perceived social connection in verbal interactions with GenAI chatbots and classroom peers",
+      "citation": "Y Hirata, Y Hirata - International Journal of Mobile Learning and …, 2026",
+      "abstract_slice": "The aim of the present study is to explore students' perceptions of experiencing social connection with a GenAI chatbot and a classroom peer as interlocutors in English verbal communication tasks over six months. This comparison was also conducted between students with and without interactional competence, and between those solely engaged in conversation tasks and those engaged in presentation tasks. The findings indicate that students perceive a weaker social …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "Perspective Chapter: The Doctor–AI–Patient Dynamics",
+      "citation": "N Kenig, AM Vives - 2026",
+      "abstract_slice": "Artificial intelligence (AI) is evolving rapidly, promising major transformations in medicine and surgery, with profound effects on doctor–patient dynamics. While AI is poised to enhance efficiency, clinical accuracy, and individualized care, its integration raises psychological and emotional concerns, including diminished trust, loss of empathy, and threats to patient autonomy. These developments are shaping a new doctor–AI–patient dynamic with an uncertain future. This relationship can …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "其他 AI 主题"
+    },
+    {
+      "title": "Hazy Interactions: Behavioral and Neural Dysregulation of Social Decision-Making in Cannabis Users",
+      "citation": "S Solan - 2026",
+      "abstract_slice": "Given the maladaptive relationship between cannabis use and social avoidance behavior, this study aimed to characterize behavioral and neural dysfunction during social decision-making in frequent cannabis users. For social decision-making, we used the social approach-avoidance conflict (SAAC) task, which measures approach- avoidance decisions to morphed facial expressions that systematically vary in happiness, anger, and co-occurring happiness and anger. During the SAAC task …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "AI-Powered Early Intervention for Depression and Anxiety: A Randomized Clinical Trial",
+      "citation": "JYA Cachia, X Zhao, W Pu, C Liao, J De Freitas… - 2026",
+      "abstract_slice": "Importance: Depression and anxiety are prevalent and disabling, yet most individuals receive inadequate or no care. Purpose-built generative AI platforms may offer scalable first-line support, though large-trial evidence remains limited. Objective: To determine whether Flourish, an AI-powered mental health platform, prevents and reduces depression and anxiety symptoms compared with care-as- usual. Design: Preregistered, parallel-group, superiority randomized clinical trial …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "Sexualität und Intimität nach einer Krebserkrankung",
+      "citation": "M Niederberger, L Jahl, V Geberzahn - Prävention und Gesundheitsförderung, 2026",
+      "abstract_slice": "Sexualität und Intimität nach einer Krebserkrankung | Prävention und Gesundheitsförderung | Springer Nature Link Skip to main content Springer Nature Link Account Menu Find a journal Publish with us Track your research Search Saved research Cart 1.Home 2.Prävention und Gesundheitsförderung 3.Article Sexualität und Intimität nach einer Krebserkrankung Eine explorative Analyse aus drei komplementären Perspektiven Sexuality and intimacy after cancer An …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "THE PROCESS-VISIBLE CURRICULUM: HYBRID INTELLIGENCE AND CRITICAL JUDGMENT IN THE AI-ENABLED BUSINESS SCHOOL",
+      "citation": "S VUKOVIĆ, C GONSALVES - BOOK OF ABSTRACTS, 2026",
+      "abstract_slice": "THE PROCESS-VISIBLE CURRICULUM: HYBRID INTELLIGENCE AND CRITICAL JUDGMENT IN THE AI-ENABLED BUSINESS SCHOOL Page 28 10 THE PROCESS-VISIBLE CURRICULUM: HYBRID INTELLIGENCE AND CRITICAL JUDGMENT IN THE AI-ENABLED BUSINESS SCHOOL Sunčica VUKOVIĆ University of Montenegro, Faculty of Economics, Montenegro suncica@ ucg. ac. me Chahna GONSALVES King’s College London, King’s Business School, United Kingdom chahna. gonsalves@ kcl. ac. uk …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "Commentaries on “Generative grounded theory (GGT): Inductive theory building in the age of generative AI”",
+      "citation": "G Tomaino, DA Schweidel, PY Dolbec, E Fischer… - Journal of Consumer …, 2026",
+      "abstract_slice": "The rapid growth of generative AI has generated excitement about its potential and concern about its effects on psychological research. Schmitt, Hao, Pham, and Hofstetter (2026) offer Generative Grounded Theory (GGT) as a seven‐step framework for incorporating generative artificial intelligence into inductive theory building. It uses AI to support corpus formation, data structuring, coding, conceptual clustering, abstraction, theoretical integration, and the assessment of saturation …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "其他 AI 主题"
+    },
+    {
+      "title": "After dark, until the weekend: How temporal misalignment shapes consumer responses to anthropomorphic AI",
+      "citation": "Y Yang - Journal of Retailing and Consumer Services, 2027",
+      "abstract_slice": "The study explores how streamer type (virtual streamers vs. human streamers) shapes live heat and consumer sentiment in live streaming, and explores the dual anthropomorphic mechanisms and the effect of temporal misalignment on virtual streamers. Using multimodal data, double machine learning (DML) provides suggestive causal evidence, deep learning-based image-voice analysis and Latent Dirichlet Allocation (LDA) topic model reveal quantitative and qualitative …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "其他 AI 主题"
+    },
+    {
+      "title": "EXPRESS: AI and Its Impact on Creativity and Diversity: An Empirical Study of LLM-Generated Product Ideas",
+      "citation": "C Terwiesch, L Meincke, K Girotra, E Mollick, G Nave… - Production and Operations …",
+      "abstract_slice": "This research examines how well large language models (LLMs) generate new product ideas, focusing on new products for college students priced under $50. Through a series of studies, we identify key strengths and weaknesses of using LLMs for product innovation. Our first study shows that LLM-generated product ideas have higher average quality than human ideas (based on purchase intent) and are 7 times more likely to rank in the top 10%. Our second study demonstrates that this AI …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "“Human-like or cartoon-like?” The impact of virtual influencer style on consumer forgiveness propensity following service failures",
+      "citation": "Y Liu, Y Luo, Y Liu, M Li - Internet Research, 2026",
+      "abstract_slice": "Purpose Virtual influencers have increasingly become a critical force in shaping consumer behavior. Accordingly, an in-depth examination of consumers' response mechanisms following service failures by virtual influencers has emerged as an important research topic within the virtual influencer literature. Design/methodology/ approach Using virtual influencer service failures as the research scenario, three experiments were conducted to examine consumers' forgiveness propensity …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "Thinkink: 2D Spatial Ink-native Interaction with LLMs",
+      "citation": "MH Payandeh, D Vogel, J Zhao - arXiv preprint arXiv:2607.21468, 2026",
+      "abstract_slice": "People often use handwritten notes and sketches to externalize ideas for ideation. To integrate large language models (LLMs) into this practice, we propose Thinkink. Prompts can be handwritten text or drawn sketches with LLM-generated responses visualized as ink-like text and sketches spatially integrated into a shared canvas. A semantic tree streamlines ink interpretation, and a lightweight UI provides explicit control using a state machine. The tool was designed using a three-stage process. A …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "其他 AI 主题"
+    },
+    {
+      "title": "The Content of Common Ground Shapes Coordination",
+      "citation": "Y Machino, R Hawkins - Proceedings of the Annual Meeting of the Cognitive …, 2026",
+      "abstract_slice": "Common ground is widely understood to facilitate coordination, but what happens when the shared expectation is competitive rather than cooperative? In a repeated coordination game, pairs received advice that was either cooperative or selfish with common ground manipulated by whether pairs knew they received identical advice. We found that advice type shaped the pattern of coordination: pairs with selfish advice converged toward asymmetric equilibria, while pairs with cooperative advice …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "Embodied AI Framework for Self-Adaptive Decision Reliability in Autonomous Engineering Environments",
+      "citation": "SA Aaron, A Newaz, SH Abir, MM Rahman, N Ahosan… - 2026 2nd International …, 2026",
+      "abstract_slice": "Self-adaptive reliability frameworks inspired by embodied and autonomous engineering systems need to make decisions based upon sensor noise, context shift and operational risk. Current selfadaptive embodied benchmarks are primarily concerned with how well tasks are completed. Uncertainty and safety metrics are typically separate from the multimodal sensory data and real-time feedback of the task environment. In this paper we propose a reliability framework inspired by …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "其他 AI 主题"
+    },
+    {
+      "title": "Agential harms of chatbots: an ethical perspective",
+      "citation": "S MirzaeiGhazi, M Osman - AI and Ethics, 2026",
+      "abstract_slice": "The widespread integration of AI-assisted digital technologies, particularly those leveraging Large Language Models (LLMs) and generative AI in applications like chatbots, presents both significant benefits and novel ethical challenges. While these technologies enhance efficiency and democratise access to services, their rapid deployment necessitates a critical examination of potential harms. There are ambitious forecasts of the revenue the chatbot industry is expected to generate over …",
+      "followed_author": "",
+      "alert_date": "2026-07-24",
+      "alert_type": "citation",
+      "category": "其他 AI 主题"
+    },
+    {
+      "title": "数字情绪劳动:“屏幕官僚” 行政负担的再生产机制与重构逻辑",
+      "citation": "武小龙， 王蔚 - 公共管理与政策评论, 2026",
+      "abstract_slice": "从街头到屏幕, 数字政府改革和政务智能化转型重构了“基层官僚” 的行政场景与行为 模式. 但处于技术界面与公众需求之间的“屏幕官僚”, 其心理行政负担与政务智能化同步 上升的悖论现象却越发凸显. 本文基于公共行政情绪劳动理论, 适配性构建了技术嵌入 视角下情绪劳动的三维模型, 以三个典型案例进行混合式民族志研究与还原分析, 深入揭示了“屏幕官僚” 行政负担的再生产机制. 研究发现, 技术理性主导的数字化交互 通过“情智悖论” 催生着“屏幕官僚” 的数字情绪劳动, 而数字情绪劳动又作为关键中介从“ …",
+      "followed_author": "",
+      "alert_date": "2026-07-24",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "Challenges and barriers to women's leadership in medical research and how to prevent and overcome them",
+      "citation": "A Albini, E Vercesi, E Negri, D Goletti, S Gandini… - European Journal of Cancer …, 2026",
+      "abstract_slice": "Challenges and barriers to women’s leadership in... : European Journal of Cancer Prevention Ovid Logo Search Ovid Browse Login European Journal of Cancer Prevention Navbar Menu Issues Collections About Journal For Authors More menu items Search Journal Button group. Outline PDF Permissions Share Cite Favorite Research paper Crossmark: Check for updates Challenges and barriers to women’s leadership in medical research and how to prevent and overcome them Adriana Albini a Elisabetta …",
+      "followed_author": "",
+      "alert_date": "2026-07-24",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "Exploring LLMs' potential for social understanding",
+      "citation": "B Babič - 2026",
+      "abstract_slice": "This thesis examines whether large language models can be said to display a form of social intelligence, despite lacking subjective experience. It argues that LLMs display a form of quasimindreading: a heightened sensitivity to linguistic cues of others' mental states, resembling human mentalistic reasoning but lacking genuine (“inner”) understanding. The thesis places this phenomenon within broader debates on mentalistic reasoning and social cognition, with particular focus on the contrast …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "其他 AI 主题"
+    },
+    {
+      "title": "Premenstrual Disorders and the Social Determinants of Affective and Somatic Distress in Girls and Women: A Narrative Review",
+      "citation": "MA Malik - 2026",
+      "abstract_slice": "Background: Affective and somatic symptoms in girls and women arise within interacting biological, psychological, relational, and structural contexts. Premenstrual syndrome (PMS) and premenstrual dysphoric disorder (PMDD) are clinically recognized menstrual-cycle-related conditions, yet premenstrual language is also used socially to trivialize legitimate distress. Broader determinants—including menstrual stigma, reproductive transitions, unpaid care, violence, economic …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "Identity and identity work: a duoethnographic account of two female international teachers in the UK",
+      "citation": "S Zou, L Zhuang - Teachers and Teaching, 2026",
+      "abstract_slice": "We are two female international teachers at a Russell Group university in the UK. In this paper, we examine our identities and identity work processes through a duoethnographic approach, drawing on an understanding of identity and identity work as our theoretical framework. By sharing and juxtaposing our personal narratives across four key aspects of our identities and identity work experiences, we reveal nuanced challenges in our negative identity work, including marginalisation …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "DIPLOMA THESIS ASSIGNMENT",
+      "citation": "NV Okolie - 2026",
+      "abstract_slice": "The research study analyses how female students who attend universities in Nigeria create a link between their educational achievements and their ability to decrease poverty levels which exist because of ongoing gender inequalities and increasing poverty rates. The research study uses Human Capital, Gender and Development, and Empowerment theories to conduct a positivist deductive research study that applies quantitative longitudinal methods. The research obtained their secondary …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "Künstliche Intelligenz und Individuelle Unterschiede",
+      "citation": "R Schödel, E Altgassen, MD Back, M Buss, M Bühner… - Psychologische Rundschau, 2026",
+      "abstract_slice": "In diesem Beitrag beleuchten wir Künstliche Intelligenz (KI) im Kontext der Erforschung und Messung individueller Unterschiede anhand dreier aktueller Themenfelder: KI als Forschungshilfsmittel, die Gestaltung der Mensch-KI-Interaktion sowie KI-gestützte Diagnostik. Anhand ausgewählter Beispiele verdeutlichen wir die vielfältigen Potenziale von KI auf konzeptueller und methodischer Ebene und zeigen zugleich, dass ihr Einsatz neue (Forschungs-) Fragen aufwirft–etwa zur …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "Euromaidan and Ukrainian Subjective Well‐Being",
+      "citation": "A Campbell, EW Chan, K Chan, DJ Chiacchia… - European Journal of Social …, 2026",
+      "abstract_slice": "ABSTRACT The 2013–2014 Euromaidan in Ukraine was the largest series of pro‐ European protests in history. Peaceful civilian protests were met with state violence, resulting in widespread civil unrest, over 100 deaths, and nearly 2000 injuries. The Russo‐Ukrainian War broke out shortly after. We examined the immediate and long‐ term changes in Ukrainians' subjective well‐being (eg, life evaluation, hope, positive affect, negative affect) during the Euromaidan using serial cross‐sectional data from …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "Observer Perceptions of GenAI Use and Interpersonal Trust: The Roles of Warmth, Competence, and AI Literacy",
+      "citation": "Z Zhang, J Geng, C Qi - Behavioral Sciences, 2026 • Cites: ‪Earning trust in intergroup contexts: The interplay of perceived …‬ 14. How “real” are we? Judging ingroup entitativity WJ Bingley, KH Greenaway - Research Handbook on Social Judgment, 2026",
+      "abstract_slice": "A person often belongs to many different groups (Cruwys et al., 2016; Roccas & Brewer, 2002). When considering the various groups we belong to, these may appear to be more or less “real” to us in the sense of being distinct, coherent, and solid. For example, a sporting team is likely to feel more like a real group to you if you are a long-standing member rather than an occasional substitute. Moreover, your team is likely to feel more real to you if you and your teammates share many …",
+      "followed_author": "",
+      "alert_date": "2026-07-22",
+      "alert_type": "citation",
+      "category": "其他 AI 主题"
+    },
+    {
+      "title": "'She Lifted Me Up': Kinship Construction in Human-AI Resilient Communication Among Chinese Users",
+      "citation": "Y Li, M Luo, H Ren - Frontiers in Psychology, 2026",
+      "abstract_slice": "In recent years, increasing numbers of users have constructed parent-like virtual figures through chatbots, raising ethical controversies over familial kinship. Understanding users' motivations and processes in constructing AI parents is crucial for examining how digital technologies reshape contemporary kinship. However, existing research on human-AI kinship has largely focused on griefbots, narrowing interpretations of users' motivations for creating AI parents. Focusing on the Chinese …",
+      "followed_author": "",
+      "alert_date": "2026-07-22",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "Measuring Gender Equality in Quality of Life Satisfaction: A Composite Index for Italian Regions",
+      "citation": "MM Pagliuca, D Fusco, G Paola, LM Antonietta - Socio-Economic Planning Sciences, 2026",
+      "abstract_slice": "Gender disparities in quality of life satisfaction have been widely investigated, yet empirical evidence remains mixed. This paper aims to measure gender equality in quality of life satisfaction by developing a composite and partially compensatory index specifically designed to capture balanced gender outcomes across multiple life indicators. Using data from the Italian National Institute of Statistics (Istat) multipurpose survey Aspects of Daily Life, this study builds a Gender Equality Index …",
+      "followed_author": "",
+      "alert_date": "2026-07-22",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "When patients consult artificial intelligence before clinicians: restoring clinical prioritisation in mental health care",
+      "citation": "Y Kaneda - The British Journal of Psychiatry, 2026",
+      "abstract_slice": "In August 2025, it was reported that a 16-year-old boy in California had died by suicide after prolonged interactions with ChatGPT, a generative artificial intelligence chatbot, after which his family filed a lawsuit against OpenAI. 1 According to the court filing, the adolescent allegedly sought advice from the artificial intelligence chatbot about suicidal ideation and methods, but the system failed to facilitate crisis intervention and may have reinforced suicidal intent. 1 Regardless of the eventual …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "A digital shoulder to cry on: Understanding why large language models can be effective in extrinsic interpersonal emotion regulation.",
+      "citation": "Y Chen, SA Walker, B López-Pérez - Emotion, 2026",
+      "abstract_slice": "Do large language models (LLMs) provide emotion regulation as effectively as humans? This research investigates when and why LLMs might be preferred as extrinsic interpersonal emotion regulators in nonclinical contexts. Across three studies, we systematically compared the regulatory effects and perceived effectiveness of LLM-versus human-generated comforting messages. Study 1a (N= 279) used thematic analysis to show that LLM-generated responses largely mirrored …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "其他 AI 主题"
+    },
+    {
+      "title": "Preliminary evaluation of an LLM-powered chatbot for osteoporosis self-management education: a formative randomized controlled trial",
+      "citation": "J Huang, X Xin, C He, HY Xiong, W Pang, S Pang… - JMIR Formative Research, 2026",
+      "abstract_slice": "Background: With the increasing burden of chronic diseases, self-management education (SME) is crucial. Traditional SME based on face-to-face oral delivery by clinicians is resource-intensive, and general digital tools, such as web-based platforms, often provide limited interactivity for patient learning. While chatbots based on large language models (LLMs) show promise in usability and interactivity, their real-world effectiveness still lacks empirical evidence. Objective: This study aimed to …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "Of Nostalgia, Trust, and Intimacy: AI Tool Usage among the Undergraduate Students of Bangladesh in Nonacademic Contexts",
+      "citation": "MAI Ratul, F Haque, P Saha, J Noor, SMT Haque - … of the 2026 ACM SIGCAS/SIGCHI …, 2026",
+      "abstract_slice": "The rapid evolution of artificial intelligence and large language models have created a new dynamic of student engagement beyond academic contexts. While prior research focused on AI's role in providing academic and emotional support, less is known about the motivations to personalize AI, its diverse usage, and the intricate relationship between AI and the student population, especially in the context of the Global South. Our study fills this gap with findings drawn from 21 semi-structured …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "Deference-Aware Evaluation for Human-in-the-Loop AI Systems: A Unified Quality Signal for AI Operating Under Human Oversight",
+      "citation": "Y Shen - ICML Workshop on Technical AI Governance Research",
+      "abstract_slice": "Deference-Aware (DA) Evaluation is a framework for evaluating AI systems operating under human oversight. In human-in-the-loop (HITL) systems, standard evaluation metrics treat confident wrong answers and uncertain ones identically, creating systematic pressure toward overconfident AI, precisely the failure mode most dangerous when consequences are severe. DA evaluation credits appropriate deferral as correct within a single unified quality signal, with confident wrong …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "Social Sciences in the Face of Artificial Intelligence Development–Selected Challenges and Analytical Opportunities",
+      "citation": "A Skrzypiec - Kultura Media Teologia, 2026",
+      "abstract_slice": "Niniejszy tekst o charakterze teoretycznym, w skondensowany sposób omawia wyzwania, jakie rozwój sztucznej inteligencji (ang. Artificial Intelligence–AI) stawia przed naukami społecznymi. Wychodząc od problematyki związanej z definiowaniem samej AI, jak i różnicowaniem dostępnych na rynku narzędzi wyposażonych w „inteligentne algorytmy”, autorka wskazuje na pola analityczne godne uwagi z perspektywy nauk społecznych takich, jak komunikacja społeczna i …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "其他 AI 主题"
+    },
+    {
+      "title": "AI-Based Virtual Therapist for Mental Wellbeing Monitoring and Assistance",
+      "citation": "S Mugilarasi, PG Rinthika, M Thilakraj - 2026 IEEE 1st International Conference on …, 2026",
+      "abstract_slice": "Mental health issues like stress, anxiety, and depression are on the rise. However, many people still struggle to get timely professional help. This paper introduces a conversational AI-based support system for mental well-being. It interacts with users using natural language and assesses their emotional state. The system sorts users into different mental health categories: normal, moderate distress, and severe risk. This classification is based on the analysis of what users say. For those categorized …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "The Role of Interaction with Artificial Intelligence Technologies in Shaping the Psychological Wellbeing of University Students: A Systematic Review and Meta …",
+      "citation": "A Shehadeh, Q Ibrahim, A Mehasan, E Jouda… - Journal of Daoist Studies, 2026",
+      "abstract_slice": "University students face disproportionately high rates of mental health disorders yet remain chronically underserved by conventional psychological services. This systematic review synthesised empirical evidence on the role of AI technology interaction in shaping university students' psychological wellbeing. Seven electronic databases were searched with no date restrictions, following PICOS eligibility criteria and PRISMA 2020 reporting guidelines. Methodological quality was appraised using …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "Digital Mental Health Interventions and Their Effectiveness in Improving Global Well-Being",
+      "citation": "DV Lokeshwari - Human-Centered Innovation, Ethics, and Consumer …, 2027",
+      "abstract_slice": "Digital mental health tools provide measureable options for depression and anxiety. This chapter reviews three digital modalities-mobile apps, online therapy platforms, and virtual reality-assessing their effectiveness in clinical and general populations. Using RCTs, meta-analyses, and qualitative studies up to mid-2024, it covers efficacy, user engagement, guidance models, personalization, and cultural adaptation. Results: Guided CBT apps and blended human-digital interventions …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "Humanlike: A defense of AI rights",
+      "citation": "E Schwitzgebel - 2026",
+      "abstract_slice": "Schwitzgebel July 7, 2026 Humanlike, p. 1 Humanlike: A Defense of AI Rights Eric Schwitzgebel under contract for Princeton Unive Page 1 Schwitzgebel July 7, 2026 Humanlike, p. 1 Humanlike: A Defense of AI Rights Eric Schwitzgebel under contract for Princeton University Press July 7, 2026 DRAFT – comments welcome Page 2 Schwitzgebel July 7, 2026 Humanlike, p. 2 Contents Chapter Zero: A New Moral World ................................................................................................. 3 Chapter One …",
+      "followed_author": "",
+      "alert_date": "2026-07-24",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "Employees show greater willingness to voice toward algorithmic than human leaders in cognitive tasks through fairness perception and psychological safety",
+      "citation": "S Wang, X Sun, S Ni, M Wu, K Hu - Scientific Reports, 2026",
+      "abstract_slice": "The development of AI technology has enabled algorithms to gradually take on some of the management tasks previously completed by human managers in organizations, such as task allocation, performance review, employee promotion, and so on. As algorithms increasingly assume managerial roles, a novel form of human–machine interaction emerges, characterized by the relationship between algorithmic leaders and human subordinates. Therefore, it is worth exploring how …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "The promise of artificial intelligence in diabetes management–a narrative review",
+      "citation": "K Alfares - Current Topics in Diabetes, 2026",
+      "abstract_slice": "The incorporation of artificial intelligence (AI) into diabetes management marks a paradigm shift in healthcare, addressing significant limitations of traditional approaches such as financial limits, clinical stagnation, and insufficient access to healthcare services. Healthcare providers can improve long-term patient outcomes by leveraging AI-driven innovations like predictive analytics, continu ous glucose monitoring, automated insulin delivery systems, and clinical decision support …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "其他 AI 主题"
+    },
+    {
+      "title": "From Reopening to the New Normal: The Impact of COVID‐19 on Intergroup Conflict Behaviour",
+      "citation": "H Yuan, Q Duan, Y Zhang, S Chen, S Luo - International Journal of Psychology, 2026",
+      "abstract_slice": "Intergroup conflict threatens human survival and social development, often triggered by environmental changes such as pandemics. Understanding individual behaviour in intergroup conflict during crises is critical for explaining shifts in intergroup relations. Using COVID‐19 as a major environmental threat, the present study combined behavioural experiments and questionnaire measures with 1167 participants from 34 Chinese provinces across three stages: before the pandemic …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "Authenticity as a psychological resource: A multi-study investigation of values alignment and work outcomes",
+      "citation": "A Sutton, G McLeish, K Olsen, N Swart - Personality and Individual Differences, 2026",
+      "abstract_slice": "Authenticity, defined as the sense of being true to oneself, may function as a psychological resource that supports well-being and work outcomes. Across three studies, we examined how authenticity relates to values alignment and organisational attitudes. A pilot study (N= 79) provided preliminary evidence that values misalignment was associated with lower authenticity in the work context specifically, informing the design of the main studies. Study 1 (N= 285) found that …",
+      "followed_author": "",
+      "alert_date": "2026-07-27",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "Behavioural engagement pattern s in an AI-powered student suppor t chatbot: an exploratory learnin g analytics study",
+      "citation": "N Shabangu, PR Gumede, K Yakobi - Frontiers in Education, 2026",
+      "abstract_slice": "Discussion: This study demonstrates the value of behavioural interaction log analysis for understanding AI-mediated student engagement in higher education. By interpreting engagement sustainability as an observable behavioural phenomenon, it extends existing applications of the Technology Acceptance Model beyond adoption intentions to actual usage behaviour. The findings further highlight the importance of considering interaction patterns, institutional context, and hybrid …",
+      "followed_author": "",
+      "alert_date": "2026-07-22",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "Evaluating human-like chatbot interaction in customer service: integrating anthropomorphism and conversational capability",
+      "citation": "W Warjiyono, H Hadiyanto, DMK Nugraheni - Future Technology, 2026 • Cites: ‪How Conversational Contingency Shapes Trust in Human-AI …‬ [PDF] Normalizing Harm Through Teenagers' Everyday Experiences with Video Games N ABEGG, R GAIROLA, APU KAPADIA… - 2026",
+      "abstract_slice": "Regulatory and public attention has increasingly focused on harmful and addictive forms of platform design, particularly in relation to teenagers and young people. Recent lawsuits against major technology companies, including Meta and Google, have argued that engagement-driven systems",
+      "followed_author": "",
+      "alert_date": "2026-07-22",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "A Change in Perspective: Exploring Interaction Paradigms in AI and Virtual Human Systems to Engage Users and Promote Mental Health",
+      "citation": "CJ You - 2026",
+      "abstract_slice": "Conversational AI continues to evolve as a tool capable of supporting users as they navigate, monitor, and manage their mental health. However, engagement with these supportive tools is not guaranteed; users must choose to open up, risk vulnerability, and often overcome deeply personal inhibitions. When systems fail to meaningfully engage users, the potential benefits can become limited. This dissertation aims to investigate how conversational engagement can be promoted in …",
+      "followed_author": "",
+      "alert_date": "2026-07-22",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "Leave, Mute, or Retaliate? How Young Adults Handle Toxicity in Multiplayer Online Games",
+      "citation": "A Romhanyi, G Wells, C Steinkuehler - ACM Games: Research and Practice, 2026",
+      "abstract_slice": "Toxicity is a prevalent issue in multiplayer online games, disrupting the experience of millions of players and making such environments unwelcoming and unsafe for targeted players. Hostility spurs victims to tilt and retaliate, withdraw from communication, hide their identity in defense, or leave the game altogether. The games industry offers a variety of moderation tools, yet their appraisal and use vary among the player base. And while a significant body of research has now emerged …",
+      "followed_author": "",
+      "alert_date": "2026-07-22",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "AutoSynthesis: An agentic system for automated meta-analysis",
+      "citation": "M Taherinezhad, S Maier, G Vitagliano, F Pierri… - arXiv preprint arXiv …, 2026",
+      "abstract_slice": "Evidence synthesis is crucial for turning primary research into reliable knowledge for science, medicine, education, and policy. Yet, quantitative evidence synthesis remains largely manual and difficult to scale. Here, we introduce AutoSynthesis, an end-to-end multi-agent system for automated meta-analysis. Given a research question in natural language, AutoSynthesis formulates a search strategy, retrieves scientific literature, screens candidate studies, assesses full-text eligibility, extracts …",
+      "followed_author": "",
+      "alert_date": "2026-07-20",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "Modality matters: comparing the persuasiveness of text-and voice-based conversational agents and non-interactive messages in health communication",
+      "citation": "Z Gong, J Shao, N Rahman, LYF Su, YC Wang - Internet Research, 2026 • Cites: ‪Trust in AI chatbots: A systematic review‬ [PDF] Quality of Chronic Disease Related Health Videos Across Social Media Platforms: A Systematic Review and Meta analysis R Liu, Y Xu, M Zhang, Y Li, X Wang, C Huang - medRxiv, 2026",
+      "abstract_slice": "Background: Social media videos have become one of the major sources of health information for individuals living with chronic diseases. Although numerous cross- sectional studies have evaluated the quality of health-related videos across different platforms, the overall quality of chronic disease-related videos and the determinants underlying quality variation remain unclear. Objective: To systematically evaluate the quality of chronic disease-related health videos across major global and Chinese …",
+      "followed_author": "",
+      "alert_date": "2026-07-20",
+      "alert_type": "citation",
+      "category": "其他 AI 主题"
+    },
+    {
+      "title": "Entre a invisibilidade diagnóstica e as vulnerabilidades digitais: narrativas desinformativas sobre o autismo feminino no YouTube",
+      "citation": "K Urbano, AG de Lacerda, CG Passareli - Ação Midiática–Estudos em Comunicação …, 2026",
+      "abstract_slice": "Este artigo analisa narrativas desinformativas sobre TEA em mulheres adultas no Youtube e sua relação com a vulnerabilização digital. A pesquisa adota abordagem quanti-qualitativa, com análise de conteúdo de 38 vídeos extraídos pelo Youtube Data Tools, a partir da busca “autismo+ mulher”. Os resultados apontam simplificação diagnóstica, generalização de experiências e autoridade baseada em relatos pessoais. Conclui-se que o enfrentamento dessas dinâmicas exige …",
+      "followed_author": "",
+      "alert_date": "2026-07-20",
+      "alert_type": "citation",
+      "category": "Irrelevant"
+    },
+    {
+      "title": "Design and Evaluation of ChatBlend: A Framework and Card Deck for the Human-Centered Design of Mental Health Chatbots in Blended Care",
+      "citation": "P Rekkas, K Verbert, V Vanden Abeele - Proceedings of the 8th ACM Conference on …, 2026",
+      "abstract_slice": "General-purpose chatbots are increasingly used for mental health support. While they offer accessibility and scalability, concerns about safety and user experience highlight the need for dedicated mental health chatbot (MHC) design grounded in a blended care paradigm that integrates chatbot support with professional guidance and involves both end users and healthcare professionals. We introduce ChatBlend, a design framework operationalized as a 64-card deck visualizing design …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "Artificial Intimacy: Companion Artificial Intelligence and Emerging Risks to Adolescent Mental Health",
+      "citation": "LP Kovach - Social Sciences, 2026",
+      "abstract_slice": "Background: Open Access Perspective Artificial Intimacy: Companion Artificial Intelligence and Emerging Risks to Adolescent Mental Health by Lisa Pescara Kovach College of Arts, Social Sciences and Education, The University of Toledo, Toledo, OH 43606, USA",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "Research on a Painting Art Therapy Auxiliary Support Model Based on Mel Frequency Cepstral Coefficient Deep Feature Decoupling and Emotion-Adaptive Instance …",
+      "citation": "Q Li - Systems and Soft Computing, 2026",
+      "abstract_slice": "Traditional painting art therapy relies heavily on therapists' experiential observation and subjective evaluation, which limits the accurate capture of patients' subconscious emotional dynamics during creation and the development of personalized, quantifiable style guidance strategies. To address these limitations, this study proposes a computational assistance framework that integrates Mel Frequency Cepstral Coefficient (MFCC) deep feature decoupling and Emotion …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "Beyond Empathy: Emotional Intelligence and Artificial Intelligence in Clinical Social Work Practice, Therapeutic Alliance and Human Services",
+      "citation": "GB Bailey - Int J Ment Health Res, 2026",
+      "abstract_slice": "Background: Artificial intelligence (AI) is increasingly integrated into behavioral health care, social work practice, and human services. Concurrently, emotional intelligence (EI) remains a foundational competency underlying therapeutic alliance, empathic communication, leadership effectiveness, and client outcomes. The emergence of large language models (LLMs), conversational agents, and affective computing systems has raised important questions regarding the relationship …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    },
+    {
+      "title": "Linguistic Uncertainty Markers for Trust Calibration in AI-Assisted Decision-Making",
+      "citation": "L Spillner, J Rockstroh, N Wenig, N Zargham, L Kiefner… - Proceedings of the 8th ACM …, 2026",
+      "abstract_slice": "As artificial intelligence (AI) systems are increasingly deployed for complex decision- making, calibrating user trust to prevent overreliance on overconfident AI remains a critical challenge. This paper investigates linguistic hedging–the use of tentative language to soften claims and indicate limited certainty–to communicate AI uncertainty, and its impact on user reliance. In a two-part investigation into decision- making in the financial domain, a formative study (N= 36) explored strategies for …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "Is Conversational AI Taking Control?: From Individualistic to Holistic Approaches to Sustaining Human Agency",
+      "citation": "A Ayobi, BL Searle, K Aadan, Q Du, T Bi - Proceedings of the 8th ACM Conference on …, 2026",
+      "abstract_slice": "Conversational AI systems are increasingly presented as agentic, intended to carry out tasks on behalf of users with a degree of autonomy. While agentic conversational AI systems have the potential to improve work efficiency and quality of life, they also introduce new risks and harms. We present the findings of a conceptual review that describes four concepts of agency, including personal agency, social agency, institutional agency, and artificial agency. Based on these interrelated concepts, we …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "The Dangerous Allure of Science-Fiction in Conversational User Interfaces",
+      "citation": "MP Aylett, BW Wilson - Proceedings of the 8th ACM Conference on …, 2026",
+      "abstract_slice": "This paper examines the dangerous allure of science fiction within Conversational User Interface (CUI) research, highlighting how anthropomorphism blurs the distinction between scientific reality and speculative fantasy. The authors argue that because speech inherently communicates agency and emotion, users naturally ascribe human-like motivation to CUIs. However, this often results from a suspension of belief similar to theatrical performance rather than actual social agency. The text …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "教育 / 组织管理 / 人机协作 / 社会心理学"
+    },
+    {
+      "title": "GETTING HELP FROM AI OR HUMAN: TESTING IMPRESSION MANAGEMENT GOAL AS A MECHANISM DRIVING VARIATION IN DIMENSIONS OF SUPPORT …",
+      "citation": "LM Bradley - 2026",
+      "abstract_slice": "Previous research has demonstrated that seeking support can threaten one's self- image, and recent findings suggest that people may perceive AI chatbots as less judgmental. When seeking support from an AI chatbot compared to a human, this study proposed that support seekers are more honest, disclose more, and are more intentional in their support-seeking attempt because of decreased concerns about impression management goals. A 2x2x2 between-subjects online experiment was …",
+      "followed_author": "",
+      "alert_date": "2026-07-26",
+      "alert_type": "citation",
+      "category": "情感陪伴 / 社会支持"
+    }
+  ]
+}
+

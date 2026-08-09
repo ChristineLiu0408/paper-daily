@@ -1,4 +1,5 @@
 const REPORT_ROOT = "./reports/";
+const SCHOLAR_DATA = "./data/google_scholar.json";
 const LABEL_ORDER = ["high", "AI"];
 
 const state = {
@@ -26,6 +27,11 @@ const nodes = {
   searchInput: document.querySelector("#searchInput"),
   watchTemplate: document.querySelector("#watchTemplate"),
   candidateTemplate: document.querySelector("#candidateTemplate"),
+  scholarSummary: document.querySelector("#scholarSummary"),
+  scholarCategoryFilter: document.querySelector("#scholarCategoryFilter"),
+  scholarSearchInput: document.querySelector("#scholarSearchInput"),
+  scholarList: document.querySelector("#scholarList"),
+  scholarTemplate: document.querySelector("#scholarTemplate"),
 };
 
 function text(value, fallback = "-") {
@@ -274,6 +280,44 @@ function emptyState(message) {
   return item;
 }
 
+function renderScholar(data) {
+  const items = Array.isArray(data?.items) ? data.items : [];
+  const categories = [...new Set(items.map((item) => item.category).filter(Boolean))].sort();
+  nodes.scholarCategoryFilter.innerHTML = '<option value="all">全部分类</option>';
+  for (const category of categories) nodes.scholarCategoryFilter.add(new Option(category, category));
+
+  const render = () => {
+    const category = nodes.scholarCategoryFilter.value;
+    const query = nodes.scholarSearchInput.value.trim().toLowerCase();
+    const filtered = items.filter((item) => {
+      if (category !== "all" && item.category !== category) return false;
+      if (!query) return true;
+      return [item.title, item.citation, item.followed_author, item.abstract_slice, item.category].join(" ").toLowerCase().includes(query);
+    });
+    nodes.scholarSummary.textContent = `${filtered.length}/${items.length} 条 · ${data?.period || ""}`;
+    nodes.scholarList.textContent = "";
+    if (!filtered.length) {
+      nodes.scholarList.append(emptyState("当前筛选条件下没有 Scholar 条目。"));
+      return;
+    }
+    const fragment = document.createDocumentFragment();
+    for (const item of filtered) {
+      const node = nodes.scholarTemplate.content.firstElementChild.cloneNode(true);
+      node.querySelector(".scholar-category").textContent = item.category || "未分类";
+      node.querySelector(".scholar-author").textContent = item.followed_author ? `关注作者：${item.followed_author}` : "";
+      node.querySelector(".scholar-date").textContent = item.alert_date || "";
+      node.querySelector(".scholar-title").textContent = item.title || "未提供标题";
+      node.querySelector(".scholar-citation").textContent = item.citation || "发表物信息未在邮件中显示";
+      node.querySelector(".scholar-abstract").textContent = item.abstract_slice || "邮件中未提供摘要切片。";
+      fragment.appendChild(node);
+    }
+    nodes.scholarList.appendChild(fragment);
+  };
+  nodes.scholarCategoryFilter.addEventListener("change", render);
+  nodes.scholarSearchInput.addEventListener("input", render);
+  render();
+}
+
 function bindEvents() {
   nodes.watchFilter.addEventListener("change", (event) => { state.filters.watch = event.target.value; renderCandidates(); });
   nodes.relevanceFilter.addEventListener("change", (event) => { state.filters.relevance = event.target.value; renderCandidates(); });
@@ -298,6 +342,12 @@ async function main() {
   renderVisuals();
   hydrateFilters();
   renderCandidates();
+  try {
+    renderScholar(await fetchJson(SCHOLAR_DATA));
+  } catch {
+    nodes.scholarSummary.textContent = "暂无数据";
+    nodes.scholarList.append(emptyState("Google Scholar feed 尚未生成。"));
+  }
 }
 
 main();
