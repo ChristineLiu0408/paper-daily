@@ -1,0 +1,1295 @@
+# Weekly Conference & Preprint Watch - All Fetched Records
+
+- Generated at: 2026-08-23T22:08:55.546128+00:00
+- Lookback days: 7
+- Source count: 3
+- Raw entry count: 142
+- High relevance count: 5
+- AI-related only count: 59
+- Reject count: 78
+
+## Source Results
+
+- CSCW: 0 records (ok)
+- arXiv cs.HC: 85 records (ok)
+- arXiv cs.CY: 72 records (ok)
+
+## All Records
+
+### 1. What Do Visualization Instructors Want Students to Learn? Introducing a Concept Inventory for Visualization Design
+- relevance_label: reject
+- topic_label: other
+- title: What Do Visualization Instructors Want Students to Learn? Introducing a Concept Inventory for Visualization Design
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.20090v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 2. Understanding as an Explicit and Assessable Component of Frontier AI Safety Decisions
+- relevance_label: AI
+- topic_label: other
+- title: Understanding as an Explicit and Assessable Component of Frontier AI Safety Decisions
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.19816v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 3. Two-sided receptivity to conversational AI agents in online dating: Bilingual survey data from Fledge.Love
+- relevance_label: AI
+- topic_label: other
+- title: Two-sided receptivity to conversational AI agents in online dating: Bilingual survey data from Fledge.Love
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.19545v1
+- matched_ai_terms: AI, conversational AI, AI agents
+- matched_social_terms: 
+
+### 4. Trustworthy mobile edge caching: a blockchain approach to mitigate malicious nodes and incentivize cache sharing
+- relevance_label: reject
+- topic_label: other
+- title: Trustworthy mobile edge caching: a blockchain approach to mitigate malicious nodes and incentivize cache sharing
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.20145v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 5. Navigating and Retrieving Information in Immersive Model-Based Design Reviews: An Exploratory Study
+- relevance_label: reject
+- topic_label: other
+- title: Navigating and Retrieving Information in Immersive Model-Based Design Reviews: An Exploratory Study
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.20128v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 6. Modeling AI Overreliance as a Complex Adaptive System
+- relevance_label: AI
+- topic_label: other
+- title: Modeling AI Overreliance as a Complex Adaptive System
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.19616v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 7. MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use
+- relevance_label: AI
+- topic_label: other
+- title: MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.20202v1
+- matched_ai_terms: LLM
+- matched_social_terms: 
+
+### 8. Localized Ecological Momentary Assessment for Mental Health Research in China: An Implementation-Oriented Framework and Preliminary Case Application
+- relevance_label: reject
+- topic_label: health_mental_health
+- title: Localized Ecological Momentary Assessment for Mental Health Research in China: An Implementation-Oriented Framework and Preliminary Case Application
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19588v1
+- matched_ai_terms: 
+- matched_social_terms: mental health
+
+### 9. IRIS: Navigating and Reflecting on Writing Traces Using Intelligent Document Histories
+- relevance_label: reject
+- topic_label: other
+- title: IRIS: Navigating and Reflecting on Writing Traces Using Intelligent Document Histories
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19614v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 10. Growth Without Us: Machine Consumers, Corporate Circularity, and the Decoupling of GDP from Humanity after AGI
+- relevance_label: reject
+- topic_label: other
+- title: Growth Without Us: Machine Consumers, Corporate Circularity, and the Decoupling of GDP from Humanity after AGI
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.20231v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 11. Grounding Mindfulness in Embodied Tangibles: A Scoping Review & Theoretical Framework for HCI Design
+- relevance_label: reject
+- topic_label: other
+- title: Grounding Mindfulness in Embodied Tangibles: A Scoping Review & Theoretical Framework for HCI Design
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19673v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 12. Generating Diverse Personas for User Simulators to Test Interview Dialogue Systems
+- relevance_label: reject
+- topic_label: other
+- title: Generating Diverse Personas for User Simulators to Test Interview Dialogue Systems
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19549v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 13. From Agent Behaviour to Agent-Friendly Documentation: An Empirical Study of How Coding Agents Discover, Read, and Write Technical Documentation
+- relevance_label: reject
+- topic_label: other
+- title: From Agent Behaviour to Agent-Friendly Documentation: An Empirical Study of How Coding Agents Discover, Read, and Write Technical Documentation
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.20195v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 14. Evaluating Smart Home Device User Responses to their (Un)Confirmed Privacy Expectations
+- relevance_label: reject
+- topic_label: other
+- title: Evaluating Smart Home Device User Responses to their (Un)Confirmed Privacy Expectations
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19873v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 15. Does Listening Matter? Backchanneling and Nodding in AI Clone
+- relevance_label: AI
+- topic_label: other
+- title: Does Listening Matter? Backchanneling and Nodding in AI Clone
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19527v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 16. Designing Human-mediated AI Guidance: Ready Together for Personalized Family Emergency Preparedness
+- relevance_label: AI
+- topic_label: other
+- title: Designing Human-mediated AI Guidance: Ready Together for Personalized Family Emergency Preparedness
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19950v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 17. Delegating or Doing? Understanding User Behavior in Hybrid Human-Agent Interfaces
+- relevance_label: reject
+- topic_label: other
+- title: Delegating or Doing? Understanding User Behavior in Hybrid Human-Agent Interfaces
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19551v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 18. Dancing Through Soundscapes: Designing a Low-Cost, Sound-Based Device for Sensing and Interpreting Movement and Dance
+- relevance_label: reject
+- topic_label: other
+- title: Dancing Through Soundscapes: Designing a Low-Cost, Sound-Based Device for Sensing and Interpreting Movement and Dance
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19827v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 19. ChatGPT Solves All Tested Qiskit Homework Assignments
+- relevance_label: AI
+- topic_label: other
+- title: ChatGPT Solves All Tested Qiskit Homework Assignments
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.19707v1
+- matched_ai_terms: ChatGPT
+- matched_social_terms: 
+
+### 20. Chameleon: Robust Defense Against Tor Website Fingerprinting via Many-to-Many Traffic Morphing
+- relevance_label: reject
+- topic_label: other
+- title: Chameleon: Robust Defense Against Tor Website Fingerprinting via Many-to-Many Traffic Morphing
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.20160v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 21. Calming Robot Pitches? Exploring the Influence of Robot Voice Pitch on Children's Stress Levels
+- relevance_label: AI
+- topic_label: other
+- title: Calming Robot Pitches? Exploring the Influence of Robot Voice Pitch on Children's Stress Levels
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19826v1
+- matched_ai_terms: robot
+- matched_social_terms: 
+
+### 22. Auditing Recorded Predictive Lead Service-Line Classifications Against Physical Verification: A Statewide Study of New York
+- relevance_label: reject
+- topic_label: consumer_marketing
+- title: Auditing Recorded Predictive Lead Service-Line Classifications Against Physical Verification: A Statewide Study of New York
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.19922v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 23. A three-dimensional typology of agency for advanced AI systems
+- relevance_label: AI
+- topic_label: mind_acceptance
+- title: A three-dimensional typology of agency for advanced AI systems
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.20041v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 24. Zero-Shot SAM2 Segmentation and Vision Transformer-Based Recognition of Elamite Cuneiform Symbols from Degraded Tablet Images
+- relevance_label: reject
+- topic_label: other
+- title: Zero-Shot SAM2 Segmentation and Vision Transformer-Based Recognition of Elamite Cuneiform Symbols from Degraded Tablet Images
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.18544v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 25. When Readability and Source Retention Diverge: An Evaluability Gap in AI Translation
+- relevance_label: AI
+- topic_label: other
+- title: When Readability and Source Retention Diverge: An Evaluability Gap in AI Translation
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19083v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 26. Turning interest into institutional change: teaching advocacy for sustainable research
+- relevance_label: reject
+- topic_label: education_learning
+- title: Turning interest into institutional change: teaching advocacy for sustainable research
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.18601v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 27. Trade-offs in Data Color Palette Design Tools
+- relevance_label: reject
+- topic_label: other
+- title: Trade-offs in Data Color Palette Design Tools
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19148v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 28. TractorBeam: Personalized AI Sensemaking Support via Collaborative Machine Annotation
+- relevance_label: AI
+- topic_label: other
+- title: TractorBeam: Personalized AI Sensemaking Support via Collaborative Machine Annotation
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.18994v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 29. Sounds Uncertain: Exploring the Affective Aspects of Sonification for Uncertainty Visualization
+- relevance_label: reject
+- topic_label: other
+- title: Sounds Uncertain: Exploring the Affective Aspects of Sonification for Uncertainty Visualization
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.18680v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 30. Social.Wiki: A Web Held in Common
+- relevance_label: reject
+- topic_label: other
+- title: Social.Wiki: A Web Held in Common
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19433v1
+- matched_ai_terms: 
+- matched_social_terms: social
+
+### 31. SemanticSlider3D: Training-Free Continuous Semantic Editing for 3D Objects
+- relevance_label: reject
+- topic_label: other
+- title: SemanticSlider3D: Training-Free Continuous Semantic Editing for 3D Objects
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.18560v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 32. Scoring and Gamification to Encourage Sustainable Use of Compute Clusters
+- relevance_label: reject
+- topic_label: other
+- title: Scoring and Gamification to Encourage Sustainable Use of Compute Clusters
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.18786v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 33. Scientific Visualization as a Collaborative Data Infrastructure
+- relevance_label: reject
+- topic_label: other
+- title: Scientific Visualization as a Collaborative Data Infrastructure
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19413v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 34. Sanyu Studio: A Multi-Agent System for Art-Historical Narrative Construction
+- relevance_label: reject
+- topic_label: other
+- title: Sanyu Studio: A Multi-Agent System for Art-Historical Narrative Construction
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.18677v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 35. Robust and Efficient Feature Extraction for Spike Sorting via the Walsh-Hadamard Transform
+- relevance_label: reject
+- topic_label: other
+- title: Robust and Efficient Feature Extraction for Spike Sorting via the Walsh-Hadamard Transform
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19048v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 36. Report on The 1st Workshop on Human-Centered Proactive and Personalized Agents for Interactive Information Access at CHIIR 2026
+- relevance_label: reject
+- topic_label: other
+- title: Report on The 1st Workshop on Human-Centered Proactive and Personalized Agents for Interactive Information Access at CHIIR 2026
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.18638v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 37. Reducing Technician Search Burden: A Multimodal RAG for Cessna 172 Maintenance Manual
+- relevance_label: reject
+- topic_label: other
+- title: Reducing Technician Search Burden: A Multimodal RAG for Cessna 172 Maintenance Manual
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.18465v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 38. Qualified Cross-References as a Verification Method: The Normative Environment of the EU AI Act
+- relevance_label: AI
+- topic_label: other
+- title: Qualified Cross-References as a Verification Method: The Normative Environment of the EU AI Act
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.19194v2
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 39. Open at the Edge, Captured at the Center: llama.cpp and the Political Economy of Local AI Inference
+- relevance_label: AI
+- topic_label: other
+- title: Open at the Edge, Captured at the Center: llama.cpp and the Political Economy of Local AI Inference
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.19001v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 40. Navigating Epistemic Monocultures in AI-Driven Science: A Simulation Study
+- relevance_label: AI
+- topic_label: other
+- title: Navigating Epistemic Monocultures in AI-Driven Science: A Simulation Study
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.19390v1
+- matched_ai_terms: AI, AI-driven
+- matched_social_terms: 
+
+### 41. Multimodal Rapport Estimation in Real-World HRI
+- relevance_label: reject
+- topic_label: other
+- title: Multimodal Rapport Estimation in Real-World HRI
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.18401v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 42. MultiVerse: A Creator-Centered Approach to Steering Context-Adaptive Lyrics
+- relevance_label: reject
+- topic_label: other
+- title: MultiVerse: A Creator-Centered Approach to Steering Context-Adaptive Lyrics
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19350v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 43. Multi-Tier Mentorship with AI-Assisted Development: Authentic Engineering for K-12 and Undergraduates
+- relevance_label: AI
+- topic_label: other
+- title: Multi-Tier Mentorship with AI-Assisted Development: Authentic Engineering for K-12 and Undergraduates
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19379v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 44. Model Literacy: An Extra Summative Evaluation Factor for Visual Analytics
+- relevance_label: reject
+- topic_label: other
+- title: Model Literacy: An Extra Summative Evaluation Factor for Visual Analytics
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.18721v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 45. Measuring Proof Burden in Public Bounty Listings: A RentAHuman Case Study
+- relevance_label: reject
+- topic_label: governance_society
+- title: Measuring Proof Burden in Public Bounty Listings: A RentAHuman Case Study
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.18547v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 46. Longitudinal Relational Publics and their Discursive Overlap with Issue Publics
+- relevance_label: reject
+- topic_label: emotional_social
+- title: Longitudinal Relational Publics and their Discursive Overlap with Issue Publics
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.18422v1
+- matched_ai_terms: 
+- matched_social_terms: relational
+
+### 47. LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University
+- relevance_label: AI
+- topic_label: other
+- title: LearnAI: Just-in-Time AI Co-Creation Across Disciplines at a University
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19164v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 48. Leaf Values as Coordinates: Exact Contrastive Explanation for Gradient-Boosted Ensembles
+- relevance_label: reject
+- topic_label: other
+- title: Leaf Values as Coordinates: Exact Contrastive Explanation for Gradient-Boosted Ensembles
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.19127v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 49. LEDGER: Claim-to-Evidence Trace Graphs for Auditing LLM Agents
+- relevance_label: AI
+- topic_label: other
+- title: LEDGER: Claim-to-Evidence Trace Graphs for Auditing LLM Agents
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.18398v1
+- matched_ai_terms: LLM
+- matched_social_terms: 
+
+### 50. Hot Games: Towards a Holistic Assessment of the Planet Warming Emissions of Video Games based on 2024-2025 Data
+- relevance_label: reject
+- topic_label: other
+- title: Hot Games: Towards a Holistic Assessment of the Planet Warming Emissions of Video Games based on 2024-2025 Data
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.19040v2
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 51. Grouping the Stochastic Machine: Precision, Not Capability, as the Frontier Metric for AI Systems
+- relevance_label: AI
+- topic_label: other
+- title: Grouping the Stochastic Machine: Precision, Not Capability, as the Frontier Metric for AI Systems
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.19140v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 52. Epistemic Subordination: Generative AI and the Infrastructure of Knowledge
+- relevance_label: AI
+- topic_label: other
+- title: Epistemic Subordination: Generative AI and the Infrastructure of Knowledge
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.18758v1
+- matched_ai_terms: AI, generative AI
+- matched_social_terms: 
+
+### 53. Engineering Psychological Safety in Autonomous Vehicles: A Systems-Theoretic Framework for Psychological Safety in Autonomous Vehicles and its Validation in Real-World Scenarios
+- relevance_label: AI
+- topic_label: other
+- title: Engineering Psychological Safety in Autonomous Vehicles: A Systems-Theoretic Framework for Psychological Safety in Autonomous Vehicles and its Validation in Real-World Scenarios
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.18778v1
+- matched_ai_terms: autonomous
+- matched_social_terms: 
+
+### 54. Designing Social Robots for Social-Cognition Training with Autistic Adults
+- relevance_label: high
+- topic_label: other
+- title: Designing Social Robots for Social-Cognition Training with Autistic Adults
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.18488v1
+- matched_ai_terms: social robots, robots
+- matched_social_terms: social
+
+### 55. Cyber-Physical Systems for Accessibility and Ability Augmentation: Bridging Diverse Communities
+- relevance_label: reject
+- topic_label: technical_hci
+- title: Cyber-Physical Systems for Accessibility and Ability Augmentation: Bridging Diverse Communities
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19422v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 56. ChildSafeAds Shared Task 2026: Commercial Content in Child-Facing YouTube Videos
+- relevance_label: reject
+- topic_label: other
+- title: ChildSafeAds Shared Task 2026: Commercial Content in Child-Facing YouTube Videos
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.19165v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 57. CentaurBench: Benchmarking LLM Capabilities on Augmenting vs. Automating Real-World Work Tasks
+- relevance_label: AI
+- topic_label: other
+- title: CentaurBench: Benchmarking LLM Capabilities on Augmenting vs. Automating Real-World Work Tasks
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.18554v1
+- matched_ai_terms: LLM
+- matched_social_terms: 
+
+### 58. Are LLMs becoming similarly creative? Evidence from three years of models
+- relevance_label: AI
+- topic_label: other
+- title: Are LLMs becoming similarly creative? Evidence from three years of models
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.19437v1
+- matched_ai_terms: LLMs
+- matched_social_terms: 
+
+### 59. APPROVE: Visual End-User-in-the-Loop Robot Programming with LLMs
+- relevance_label: AI
+- topic_label: other
+- title: APPROVE: Visual End-User-in-the-Loop Robot Programming with LLMs
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.19281v1
+- matched_ai_terms: LLMs, robot
+- matched_social_terms: 
+
+### 60. A revised framework for the assessment of psychological safety in autonomous vehicles
+- relevance_label: AI
+- topic_label: other
+- title: A revised framework for the assessment of psychological safety in autonomous vehicles
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.18801v1
+- matched_ai_terms: autonomous
+- matched_social_terms: 
+
+### 61. A Scoping Review of Methods to Measure the Energy and Carbon Footprint of Web Tracking and Advertising
+- relevance_label: reject
+- topic_label: consumer_marketing
+- title: A Scoping Review of Methods to Measure the Energy and Carbon Footprint of Web Tracking and Advertising
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.19495v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 62. What Can Artificial Intelligence Learn from Medicine? Generative Analogies and Reliable Machine Learning Systems
+- relevance_label: AI
+- topic_label: education_learning
+- title: What Can Artificial Intelligence Learn from Medicine? Generative Analogies and Reliable Machine Learning Systems
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.18186v1
+- matched_ai_terms: artificial intelligence
+- matched_social_terms: 
+
+### 63. Traceable Trust for action-ready artificial intelligence in bioscience
+- relevance_label: AI
+- topic_label: other
+- title: Traceable Trust for action-ready artificial intelligence in bioscience
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.17997v1
+- matched_ai_terms: artificial intelligence
+- matched_social_terms: 
+
+### 64. Too cheap to matter: over abundant microchips, and what we can learn from them
+- relevance_label: reject
+- topic_label: other
+- title: Too cheap to matter: over abundant microchips, and what we can learn from them
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.17541v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 65. The Oracle of Chemnitz: An interactive art installation to reanimate old things in a garage featuring a rotary phone
+- relevance_label: reject
+- topic_label: other
+- title: The Oracle of Chemnitz: An interactive art installation to reanimate old things in a garage featuring a rotary phone
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17407v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 66. The Fabricated Front: Generative AI and the Opacity of Workplace Performance
+- relevance_label: AI
+- topic_label: organization_work
+- title: The Fabricated Front: Generative AI and the Opacity of Workplace Performance
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.18369v1
+- matched_ai_terms: AI, generative AI
+- matched_social_terms: 
+
+### 67. The Brazilian Vaccination Debate on YouTube: Topics, Perspectives, and Engagement Dynamics
+- relevance_label: reject
+- topic_label: other
+- title: The Brazilian Vaccination Debate on YouTube: Topics, Perspectives, and Engagement Dynamics
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.17502v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 68. SleuthTalk: Supporting Historical Photo Identification with Private Workspaces for Collective Sensemaking and Deliberation
+- relevance_label: reject
+- topic_label: other
+- title: SleuthTalk: Supporting Historical Photo Identification with Private Workspaces for Collective Sensemaking and Deliberation
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17297v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 69. Ready for What? Rethinking AI and Robotics Preparedness for Adoption and Policy
+- relevance_label: AI
+- topic_label: governance_society
+- title: Ready for What? Rethinking AI and Robotics Preparedness for Adoption and Policy
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.17520v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 70. Quo Vadis? Scientific Discovery in the Age of Artificial Intelligence
+- relevance_label: AI
+- topic_label: other
+- title: Quo Vadis? Scientific Discovery in the Age of Artificial Intelligence
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.17970v1
+- matched_ai_terms: artificial intelligence
+- matched_social_terms: 
+
+### 71. Procedural Collapse: A Structural Account of Disengagement in LLM-Assisted Writing
+- relevance_label: AI
+- topic_label: other
+- title: Procedural Collapse: A Structural Account of Disengagement in LLM-Assisted Writing
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17326v2
+- matched_ai_terms: LLM
+- matched_social_terms: 
+
+### 72. One Gate Is Not Enough: Composing Stateful Pre-Action Controls for Agentic AI
+- relevance_label: AI
+- topic_label: other
+- title: One Gate Is Not Enough: Composing Stateful Pre-Action Controls for Agentic AI
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.18360v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 73. MotoSafety: Edge-AI with Learned Temporal Importance for Two-Wheeler Collision Risk Assessment Under Time Pressure
+- relevance_label: AI
+- topic_label: other
+- title: MotoSafety: Edge-AI with Learned Temporal Importance for Two-Wheeler Collision Risk Assessment Under Time Pressure
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17823v2
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 74. Measuring the Partial-Credit Gap: A Strict Benchmark on Vietnam's 2025 Convex Marking Scheme
+- relevance_label: reject
+- topic_label: other
+- title: Measuring the Partial-Credit Gap: A Strict Benchmark on Vietnam's 2025 Convex Marking Scheme
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.18336v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 75. Mapping General-Purpose AI Governance in Twenty AI Middle-Power Jurisdictions
+- relevance_label: AI
+- topic_label: governance_society
+- title: Mapping General-Purpose AI Governance in Twenty AI Middle-Power Jurisdictions
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.19278v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 76. LLMs for Medical Consultation Are Evaluated Too Late: The Preformulation Gap
+- relevance_label: AI
+- topic_label: health_mental_health
+- title: LLMs for Medical Consultation Are Evaluated Too Late: The Preformulation Gap
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.17330v1
+- matched_ai_terms: LLMs
+- matched_social_terms: 
+
+### 77. Interpretable Humans, Alien LLMs: Expert Analysis of Latent Structures in Assessment Responses
+- relevance_label: AI
+- topic_label: other
+- title: Interpretable Humans, Alien LLMs: Expert Analysis of Latent Structures in Assessment Responses
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17810v1
+- matched_ai_terms: LLMs
+- matched_social_terms: 
+
+### 78. Governing Delegation to Generative Artificial Intelligence: Human Direction, Work-Related Orientation, and Modes of Use
+- relevance_label: AI
+- topic_label: other
+- title: Governing Delegation to Generative Artificial Intelligence: Human Direction, Work-Related Orientation, and Modes of Use
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.17624v1
+- matched_ai_terms: artificial intelligence
+- matched_social_terms: 
+
+### 79. Global Crises and National Policies: A Large Scale Analysis of Political Content in German Language Online Media
+- relevance_label: reject
+- topic_label: other
+- title: Global Crises and National Policies: A Large Scale Analysis of Political Content in German Language Online Media
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.18268v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 80. From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond)
+- relevance_label: AI
+- topic_label: education_learning
+- title: From Substitution to Scaffolding: Breaking the Self-Reinforcing Harm Cycle of AI in Education (and Beyond)
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17451v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 81. FlowShield: cryptocurrency anti-money laundering with transaction semantics parsing and fund flow tracking
+- relevance_label: reject
+- topic_label: other
+- title: FlowShield: cryptocurrency anti-money laundering with transaction semantics parsing and fund flow tracking
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.17355v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 82. FairGlucose: A CGM Fairness Benchmark Reveals Subgroup Disparities Hidden in Population-Level Validation
+- relevance_label: reject
+- topic_label: mind_acceptance
+- title: FairGlucose: A CGM Fairness Benchmark Reveals Subgroup Disparities Hidden in Population-Level Validation
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.18296v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 83. ComponentBench: Diagnosing Component-Level Failures in Computer-Use Agents
+- relevance_label: reject
+- topic_label: other
+- title: ComponentBench: Diagnosing Component-Level Failures in Computer-Use Agents
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.18307v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 84. Colour Blinded by the Noise
+- relevance_label: reject
+- topic_label: other
+- title: Colour Blinded by the Noise
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17976v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 85. Capability-Based Planning for AI Crisis Preparedness
+- relevance_label: AI
+- topic_label: other
+- title: Capability-Based Planning for AI Crisis Preparedness
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.18357v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 86. Artifact-centered Claim-aware Observability for Autonomous Scientific Agents
+- relevance_label: AI
+- topic_label: other
+- title: Artifact-centered Claim-aware Observability for Autonomous Scientific Agents
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.18312v1
+- matched_ai_terms: autonomous
+- matched_social_terms: 
+
+### 87. Analysis of Types of Inquiries in Student-AI Interaction: A case study of two CS2 tasks
+- relevance_label: AI
+- topic_label: education_learning
+- title: Analysis of Types of Inquiries in Student-AI Interaction: A case study of two CS2 tasks
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17919v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 88. Advancing Inclusivity in Cybersecurity Education: Integrating Intersectionality to Enhance Student Engagement in Australian Higher Education Curriculums Strategies, Barriers, and Future Directions
+- relevance_label: reject
+- topic_label: education_learning
+- title: Advancing Inclusivity in Cybersecurity Education: Integrating Intersectionality to Enhance Student Engagement in Australian Higher Education Curriculums Strategies, Barriers, and Future Directions
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.17758v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 89. AdaLens: Interactive Storyline for Monitoring and Steering Long-Running Agentic Data Analysis
+- relevance_label: reject
+- topic_label: other
+- title: AdaLens: Interactive Storyline for Monitoring and Steering Long-Running Agentic Data Analysis
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17834v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 90. Achievement Unlocked: Let's Get Hacked! An Empirical Study of Cybercrime in the Video Gaming Ecosystem
+- relevance_label: reject
+- topic_label: other
+- title: Achievement Unlocked: Let's Get Hacked! An Empirical Study of Cybercrime in the Video Gaming Ecosystem
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.17754v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 91. AI in Search Reduces Publisher Referrals Without Improving User Experience: Experimental Evidence
+- relevance_label: AI
+- topic_label: other
+- title: AI in Search Reduces Publisher Referrals Without Improving User Experience: Experimental Evidence
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.18352v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 92. A Task-Agnostic Control Strategy for Dynamic Assistance with Pneumatically Actuated Soft Exosuits
+- relevance_label: reject
+- topic_label: other
+- title: A Task-Agnostic Control Strategy for Dynamic Assistance with Pneumatically Actuated Soft Exosuits
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.18364v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 93. Without journalists, there is no journalism: the social dimension of generative artificial intelligence in the media
+- relevance_label: high
+- topic_label: other
+- title: Without journalists, there is no journalism: the social dimension of generative artificial intelligence in the media
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.17017v1
+- matched_ai_terms: artificial intelligence
+- matched_social_terms: social
+
+### 94. Why This and Not That? A Collaborative Reflection Approach for Understanding Thought Coverage in Decision Making Support Dialog
+- relevance_label: reject
+- topic_label: other
+- title: Why This and Not That? A Collaborative Reflection Approach for Understanding Thought Coverage in Decision Making Support Dialog
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17054v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 95. What Cognitive Accessibility Reveals About Data Visualization
+- relevance_label: reject
+- topic_label: technical_hci
+- title: What Cognitive Accessibility Reveals About Data Visualization
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17039v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 96. Wasted large language models: A life cycle thinking approach
+- relevance_label: AI
+- topic_label: other
+- title: Wasted large language models: A life cycle thinking approach
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17055v1
+- matched_ai_terms: large language models
+- matched_social_terms: 
+
+### 97. Visualizing Uncertainty-to-Action Composition for Human Oversight
+- relevance_label: reject
+- topic_label: other
+- title: Visualizing Uncertainty-to-Action Composition for Human Oversight
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16428v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 98. Transfer Learning of Keystroke Dynamics for Cross-Device User Authentication
+- relevance_label: reject
+- topic_label: education_learning
+- title: Transfer Learning of Keystroke Dynamics for Cross-Device User Authentication
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16334v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 99. Toward Personal Intelligence Through Cooperative Observation
+- relevance_label: reject
+- topic_label: other
+- title: Toward Personal Intelligence Through Cooperative Observation
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17128v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 100. The ultimate carbon cost of a ChatGPT query
+- relevance_label: AI
+- topic_label: other
+- title: The ultimate carbon cost of a ChatGPT query
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.16657v1
+- matched_ai_terms: ChatGPT
+- matched_social_terms: 
+
+### 101. The User Side of AI Model Lifecycles: Evidence from the Keep4o Movement
+- relevance_label: AI
+- topic_label: other
+- title: The User Side of AI Model Lifecycles: Evidence from the Keep4o Movement
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16574v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 102. The New Mathematics of Democracy
+- relevance_label: reject
+- topic_label: other
+- title: The New Mathematics of Democracy
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.16869v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 103. Study-Strategy Clusters from EdNet Logs Track Engagement, Not Mastery
+- relevance_label: reject
+- topic_label: other
+- title: Study-Strategy Clusters from EdNet Logs Track Engagement, Not Mastery
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.16963v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 104. Stranded credentials: how a skill-signaling market absorbed generative AI
+- relevance_label: AI
+- topic_label: other
+- title: Stranded credentials: how a skill-signaling market absorbed generative AI
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.17111v1
+- matched_ai_terms: AI, generative AI
+- matched_social_terms: 
+
+### 105. Statistical Assessments of Representational Reforms: A Case Study from Los Angeles
+- relevance_label: reject
+- topic_label: other
+- title: Statistical Assessments of Representational Reforms: A Case Study from Los Angeles
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.17083v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 106. SiMUSation: An Interactive Visitor Experience Simulation Framework to Support Museum Exhibition Design
+- relevance_label: reject
+- topic_label: other
+- title: SiMUSation: An Interactive Visitor Experience Simulation Framework to Support Museum Exhibition Design
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16067v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 107. Protocol-Embedded Compliance for Privacy-Preserving, Non-Custodial Digital Payments
+- relevance_label: reject
+- topic_label: other
+- title: Protocol-Embedded Compliance for Privacy-Preserving, Non-Custodial Digital Payments
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.17145v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 108. Principled Authority Switching for Shared Autonomy in Human-Robot Teams
+- relevance_label: AI
+- topic_label: other
+- title: Principled Authority Switching for Shared Autonomy in Human-Robot Teams
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16293v1
+- matched_ai_terms: robot, human-robot, human–robot, human—robot
+- matched_social_terms: 
+
+### 109. Prediction market visualizations, betting, and uncertainty: A study of Reddit Posts and Comments
+- relevance_label: reject
+- topic_label: other
+- title: Prediction market visualizations, betting, and uncertainty: A study of Reddit Posts and Comments
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16814v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 110. Predicting, Evaluating, and Explaining Top Misinformation Spreaders via Archetypal User Behavior
+- relevance_label: reject
+- topic_label: other
+- title: Predicting, Evaluating, and Explaining Top Misinformation Spreaders via Archetypal User Behavior
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.16323v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 111. PolyDebate: A Game-Orchestrated Multimodal System for Debate Skills Practice and Evaluation
+- relevance_label: reject
+- topic_label: other
+- title: PolyDebate: A Game-Orchestrated Multimodal System for Debate Skills Practice and Evaluation
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16276v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 112. Pluralistic Human-Robot Interaction: Designing for Robot Interaction with Diverse Communities
+- relevance_label: AI
+- topic_label: other
+- title: Pluralistic Human-Robot Interaction: Designing for Robot Interaction with Diverse Communities
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16049v1
+- matched_ai_terms: robot, human-robot, human–robot, human—robot
+- matched_social_terms: 
+
+### 113. Oto-Meal: Earable Sensing with PPG and IMU for Personalized Meal Awareness
+- relevance_label: reject
+- topic_label: other
+- title: Oto-Meal: Earable Sensing with PPG and IMU for Personalized Meal Awareness
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16678v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 114. One Residual with Three Reuses: A Wristband Front End for Gesture Sensing
+- relevance_label: reject
+- topic_label: technical_hci
+- title: One Residual with Three Reuses: A Wristband Front End for Gesture Sensing
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16542v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 115. Multi-Feature Riemannian Hypergraph for Online Test-Time Adaptation of Motor Imagery Brain-Computer Interface
+- relevance_label: reject
+- topic_label: technical_hci
+- title: Multi-Feature Riemannian Hypergraph for Online Test-Time Adaptation of Motor Imagery Brain-Computer Interface
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16134v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 116. Mitigating AI Risks in Computing Education via LLM-Driven Lecture Video Curation
+- relevance_label: AI
+- topic_label: education_learning
+- title: Mitigating AI Risks in Computing Education via LLM-Driven Lecture Video Curation
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.16131v1
+- matched_ai_terms: AI, LLM
+- matched_social_terms: 
+
+### 117. Matched Outcomes, Divergent Gaze: How Foveated MLLMs Search Compared to Humans
+- relevance_label: reject
+- topic_label: other
+- title: Matched Outcomes, Divergent Gaze: How Foveated MLLMs Search Compared to Humans
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16514v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 118. MUSE: An Interactive Meta-Agent for Understanding and Steering LLM-powered Data Science Systems
+- relevance_label: AI
+- topic_label: other
+- title: MUSE: An Interactive Meta-Agent for Understanding and Steering LLM-powered Data Science Systems
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16181v1
+- matched_ai_terms: LLM
+- matched_social_terms: 
+
+### 119. Love in the Age of AI: An Integrative Process Model of Romantic Human-Chatbot Relationships
+- relevance_label: high
+- topic_label: emotional_social
+- title: Love in the Age of AI: An Integrative Process Model of Romantic Human-Chatbot Relationships
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16633v1
+- matched_ai_terms: AI, chatbot
+- matched_social_terms: relationships
+
+### 120. Language Models Reproduce Human Reductionist Bias and Decision Inconsistency in Neurodevelopmental Disorders Assessment
+- relevance_label: reject
+- topic_label: gender_equality
+- title: Language Models Reproduce Human Reductionist Bias and Decision Inconsistency in Neurodevelopmental Disorders Assessment
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.17105v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 121. LadderTeam: Dual-Agent Laddering Elicitation Framework
+- relevance_label: reject
+- topic_label: other
+- title: LadderTeam: Dual-Agent Laddering Elicitation Framework
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17029v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 122. KnowSim: Evaluating Information Calibration in LLM Assistants with User Simulators that Learn
+- relevance_label: AI
+- topic_label: other
+- title: KnowSim: Evaluating Information Calibration in LLM Assistants with User Simulators that Learn
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17150v1
+- matched_ai_terms: LLM
+- matched_social_terms: 
+
+### 123. Health Inquiry with AI: How Empathetic Expression and Conversational Contexts Shape Users' Communicative Acts
+- relevance_label: high
+- topic_label: emotional_social
+- title: Health Inquiry with AI: How Empathetic Expression and Conversational Contexts Shape Users' Communicative Acts
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17144v1
+- matched_ai_terms: AI
+- matched_social_terms: empathetic
+
+### 124. Evaluating Beyond the Screen: Collective Assessment of AI-Generated Business Plans with Resource-Constrained Entrepreneurs
+- relevance_label: AI
+- topic_label: other
+- title: Evaluating Beyond the Screen: Collective Assessment of AI-Generated Business Plans with Resource-Constrained Entrepreneurs
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16886v1
+- matched_ai_terms: AI, AI-generated
+- matched_social_terms: 
+
+### 125. Dynamic Evidence Collection Ecosystem for Assessment Integrity and Authentic Competence
+- relevance_label: reject
+- topic_label: other
+- title: Dynamic Evidence Collection Ecosystem for Assessment Integrity and Authentic Competence
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16016v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 126. Disentangling Innovation Practices in Automation-Adopting Organizations: a Co-Performance Perspective
+- relevance_label: AI
+- topic_label: other
+- title: Disentangling Innovation Practices in Automation-Adopting Organizations: a Co-Performance Perspective
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16279v1
+- matched_ai_terms: automation
+- matched_social_terms: 
+
+### 127. Computational KJ-Ho: An Analyst-Bias-Free Insight Extraction Framework from Large-Scale Qualitative Data Using Domain-Specialized LLMs
+- relevance_label: AI
+- topic_label: gender_equality
+- title: Computational KJ-Ho: An Analyst-Bias-Free Insight Extraction Framework from Large-Scale Qualitative Data Using Domain-Specialized LLMs
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16467v1
+- matched_ai_terms: LLMs
+- matched_social_terms: 
+
+### 128. Closing the Affective Loop: Multimodal Speaker-Listener Emotion-Dynamics-Aware Empathetic Social Robots
+- relevance_label: high
+- topic_label: emotional_social
+- title: Closing the Affective Loop: Multimodal Speaker-Listener Emotion-Dynamics-Aware Empathetic Social Robots
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16686v1
+- matched_ai_terms: social robots, robots
+- matched_social_terms: social, emotion, empathetic
+
+### 129. Characterizing Agentic Flooding of Government Services
+- relevance_label: reject
+- topic_label: other
+- title: Characterizing Agentic Flooding of Government Services
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.16603v2
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 130. Beyond Asking: A Pipeline for Personalized Game Generation that Reads Players from Behavior
+- relevance_label: reject
+- topic_label: other
+- title: Beyond Asking: A Pipeline for Personalized Game Generation that Reads Players from Behavior
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16196v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 131. Benchmarking Identity-Sensitive LLM Outputs for Surveillance and Security Robots
+- relevance_label: AI
+- topic_label: other
+- title: Benchmarking Identity-Sensitive LLM Outputs for Surveillance and Security Robots
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.16030v1
+- matched_ai_terms: LLM, robots
+- matched_social_terms: 
+
+### 132. Balancing Safety and Autonomy: Accessibility-Oriented Interventions in Generative AI for Cognitive Impairment
+- relevance_label: AI
+- topic_label: technical_hci
+- title: Balancing Safety and Autonomy: Accessibility-Oriented Interventions in Generative AI for Cognitive Impairment
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17175v1
+- matched_ai_terms: AI, generative AI
+- matched_social_terms: 
+
+### 133. Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction
+- relevance_label: reject
+- topic_label: education_learning
+- title: Automating Learner Assessment: Benchmarking Machine Learning and Deep Learning Models for EEG-Based Familiarity Prediction
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16541v2
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 134. Artly: Exploring Digital Artists' Perceptions of AI-Generated Feedback
+- relevance_label: AI
+- topic_label: other
+- title: Artly: Exploring Digital Artists' Perceptions of AI-Generated Feedback
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16189v1
+- matched_ai_terms: AI, AI-generated
+- matched_social_terms: 
+
+### 135. Appearing Legitimate is Not Enough: Interrogating Synthetic Agents in Representational Processes through a Participatory Design Lens
+- relevance_label: reject
+- topic_label: other
+- title: Appearing Legitimate is Not Enough: Interrogating Synthetic Agents in Representational Processes through a Participatory Design Lens
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17099v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 136. A Regulatory Placebo? The Systemic Failure of Mandatory GenAI Labeling
+- relevance_label: AI
+- topic_label: other
+- title: A Regulatory Placebo? The Systemic Failure of Mandatory GenAI Labeling
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.16470v1
+- matched_ai_terms: GenAI
+- matched_social_terms: 
+
+### 137. A Multiplication-Free Feature Extractor for Signal Classification: Keyword Spotting Case Study
+- relevance_label: reject
+- topic_label: other
+- title: A Multiplication-Free Feature Extractor for Signal Classification: Keyword Spotting Case Study
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17108v2
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 138. A Human-LLM Teaming Framework for Privacy Risk Analysis: An Illustration with CBDC-Based Welfare Schemes
+- relevance_label: AI
+- topic_label: other
+- title: A Human-LLM Teaming Framework for Privacy Risk Analysis: An Illustration with CBDC-Based Welfare Schemes
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.16461v1
+- matched_ai_terms: LLM
+- matched_social_terms: 
+
+### 139. $\texttt{Flip-Team}$: Cooperative Takeover Games with Stochastic Human Override
+- relevance_label: reject
+- topic_label: transport_automation
+- title: $\texttt{Flip-Team}$: Cooperative Takeover Games with Stochastic Human Override
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.16311v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 140. "This Is So Claude!" Towards a Theory of the Recognition of AI Character Without Reidentification
+- relevance_label: AI
+- topic_label: other
+- title: "This Is So Claude!" Towards a Theory of the Recognition of AI Character Without Reidentification
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.16789v1
+- matched_ai_terms: AI
+- matched_social_terms: 
+
+### 141. "It just kind of shows that I went somewhere": An Exploratory Study of Fitness Data Sharing
+- relevance_label: reject
+- topic_label: health_mental_health
+- title: "It just kind of shows that I went somewhere": An Exploratory Study of Fitness Data Sharing
+- source: arXiv cs.HC
+- link: http://arxiv.org/abs/2608.17014v1
+- matched_ai_terms: 
+- matched_social_terms: 
+
+### 142. "If It Looks Like a User": Measuring Real-Time Moderation Effects via Social Media Simulation
+- relevance_label: reject
+- topic_label: other
+- title: "If It Looks Like a User": Measuring Real-Time Moderation Effects via Social Media Simulation
+- source: arXiv cs.CY
+- link: http://arxiv.org/abs/2608.16601v1
+- matched_ai_terms: 
+- matched_social_terms: social
