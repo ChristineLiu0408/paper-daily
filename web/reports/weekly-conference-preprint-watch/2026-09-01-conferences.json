@@ -1,0 +1,77 @@
+{
+  "watch_id": "weekly-conference-preprint-watch",
+  "part_name": "Weekly Conference & Preprint Watch",
+  "frequency": "weekly",
+  "generated_at": "2026-09-01T02:29:23.737079+00:00",
+  "since_days": 31,
+  "source_count": 5,
+  "successful_source_count": 2,
+  "failed_source_count": 3,
+  "skipped_source_count": 0,
+  "raw_entry_count": 0,
+  "candidate_count": 0,
+  "source_results": [
+    {
+      "source": "CHI",
+      "source_type": "conference",
+      "raw_count": 0,
+      "failed": true,
+      "skipped": false,
+      "failure_count": 1
+    },
+    {
+      "source": "HRI",
+      "source_type": "conference",
+      "raw_count": 0,
+      "failed": true,
+      "skipped": false,
+      "failure_count": 1
+    },
+    {
+      "source": "ACL",
+      "source_type": "conference",
+      "raw_count": 0,
+      "failed": true,
+      "skipped": false,
+      "failure_count": 1
+    },
+    {
+      "source": "EMNLP",
+      "source_type": "conference",
+      "raw_count": 0,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "NAACL",
+      "source_type": "conference",
+      "raw_count": 0,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    }
+  ],
+  "raw_records": [],
+  "candidates": [],
+  "failed_sources": [
+    {
+      "source": "CHI",
+      "source_type": "conference",
+      "reason": "HTTP Error 500: Internal Server Error",
+      "fallback_used": ""
+    },
+    {
+      "source": "HRI",
+      "source_type": "conference",
+      "reason": "HTTP Error 500: Internal Server Error",
+      "fallback_used": ""
+    },
+    {
+      "source": "ACL",
+      "source_type": "conference",
+      "reason": "HTTP Error 500: Internal Server Error",
+      "fallback_used": ""
+    }
+  ]
+}

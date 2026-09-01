@@ -1,0 +1,4651 @@
+{
+  "watch_id": "monthly-applied-ai-journal-watch",
+  "part_name": "Monthly Applied AI Journal Watch",
+  "frequency": "monthly",
+  "generated_at": "2026-09-01T02:29:11.961098+00:00",
+  "since_days": 31,
+  "source_count": 14,
+  "successful_source_count": 14,
+  "failed_source_count": 0,
+  "skipped_source_count": 0,
+  "raw_entry_count": 353,
+  "candidate_count": 83,
+  "source_results": [
+    {
+      "source": "Computers in Human Behavior",
+      "source_type": "journal",
+      "raw_count": 25,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "International Journal of Human-Computer Studies",
+      "source_type": "journal",
+      "raw_count": 15,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "International Journal of Human-Computer Interaction",
+      "source_type": "journal",
+      "raw_count": 25,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 2
+    },
+    {
+      "source": "Journal of Consumer Research",
+      "source_type": "journal",
+      "raw_count": 2,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Journal of Marketing",
+      "source_type": "journal",
+      "raw_count": 1,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Psychology & Marketing",
+      "source_type": "journal",
+      "raw_count": 46,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Journal of Consumer Behaviour",
+      "source_type": "journal",
+      "raw_count": 21,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Technological Forecasting and Social Change",
+      "source_type": "journal",
+      "raw_count": 24,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Technology in Society",
+      "source_type": "journal",
+      "raw_count": 45,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Management Science",
+      "source_type": "journal",
+      "raw_count": 25,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 2
+    },
+    {
+      "source": "Journal of Applied Psychology",
+      "source_type": "journal",
+      "raw_count": 4,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Nature Human Behaviour",
+      "source_type": "journal",
+      "raw_count": 8,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "PNAS",
+      "source_type": "journal",
+      "raw_count": 97,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Nature Communications",
+      "source_type": "journal",
+      "raw_count": 25,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 2
+    }
+  ],
+  "raw_records": [
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Journal of GIS based Historical Studies",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "link": "https://doi.org/10.5281/zenodo.7368979",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Transversalité pour la circularité et la sobriété à Grenoble",
+      "source": "HAL (Le Centre pour la Communication Scientifique Directe)",
+      "link": "https://doi.org/10.5281/zenodo.14763521",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "Trends in public administration research in Vietnam 1976-2021: an assessment of english-language publications",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "link": "https://doi.org/10.5281/zenodo.21885864",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "Trends in public administration research in Vietnam 1976-2021: an assessment of english-language publications",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "link": "https://doi.org/10.5281/zenodo.21885865",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Preclinical evaluation of PSMA-targeted ultrasound contrast agents in an orthotopic model of prostate cancer in rabbits.",
+      "source": "PubMed",
+      "link": "https://doi.org/10.1016/j.bioactmat.2026.07.040",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Perch length and age at catch, Catch Per Unit Effort of fish species, three-spined stickleback densities and temperature along the Swedish Baltic Sea coast (2002-2023)",
+      "source": "UC Santa Barbara",
+      "link": "https://doi.org/10.5063/f1jm284g",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Essays on the economics and geography of Big Science",
+      "source": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)",
+      "link": "https://doi.org/10.21953/lse.00004960",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Contested urbanisms: The politics of heritage and housing in Jakarta’s kampungs",
+      "source": "BIROn (Birkbeck, University of London)",
+      "link": "https://doi.org/10.18743/pub.00056687",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "A SECOND TWO DAY INTERNATIONAL CONFERENCE ON NEXT GEN INNOVATIONS IN SCIENCE,TECHNOLOGY AND MANAGEMENT",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "link": "https://doi.org/10.5281/zenodo.21452948",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "A SECOND TWO DAY INTERNATIONAL CONFERENCE ON NEXT GEN INNOVATIONS IN SCIENCE,TECHNOLOGY AND MANAGEMENT",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "link": "https://doi.org/10.5281/zenodo.21452949",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "The impact of artificial intelligence on human safety and data protection in smart logistics: opportunities, risks and governance challenges",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "link": "https://doi.org/10.5281/zenodo.21909827",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "The impact of artificial intelligence on human safety and data protection in smart logistics: opportunities, risks and governance challenges",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "link": "https://doi.org/10.5281/zenodo.21909828",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The Sociolinguistics of Machine Identity: LLM Personality and Ideology Propagation",
+      "source": "Open MIND",
+      "link": "https://doi.org/10.17613/fdwhn-ejz93",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "The Role of Generative Artificial Intelligence in Korean Language Learning: Applications, Challenges, and Instructional Strategies",
+      "source": "Open MIND",
+      "link": "https://doi.org/10.17613/g7mbr-1s626",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Research on Attention Guidance and User Autonomy in AI-Powered Immersive Environments",
+      "source": "PhilPapers (PhilPapers Foundation)",
+      "link": "https://doi.org/10.17613/vpe2q-5qg42",
+      "matched_ai_terms": [
+        "AI",
+        "AI-powered"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Measuring Activity-Space Segregation with Multi-Source Big Data: A Physical--Digital Framework with Simulation Validation and a Real-Data Proof of Concept",
+      "source": "PhilPapers (PhilPapers Foundation)",
+      "link": "https://doi.org/10.17613/8c48y-ryn51",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "From Embedded Finance to Embedded Obligation: A Law-and-Economics Theory of Consumer Protection in Platform-Mediated Financial Services",
+      "source": "Open MIND",
+      "link": "https://doi.org/10.17613/sb76m-v2e23",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Fast Solution Methods for the Classical 0–1 Knapsack Problem",
+      "source": "Open MIND",
+      "link": "https://doi.org/10.17613/ttrnk-0vc38",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Educational Management Resilience under Low Fertility: Theoretical Construction and Adaptive Mechanisms of County-Level Education Systems in Demographic Decline",
+      "source": "PhilPapers (PhilPapers Foundation)",
+      "link": "https://doi.org/10.17613/ewm0r-am417",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Algorithmic Justice and Responsible AI Journalism: A Comparative Communication Policy Perspective in East Asia",
+      "source": "PhilPapers (PhilPapers Foundation)",
+      "link": "https://doi.org/10.17613/d0ee4-h2e12",
+      "matched_ai_terms": [
+        "AI",
+        "algorithmic"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "mind_acceptance",
+      "title": "Transparency and Accountability in Natural Resource Revenue Management: Lessons from the COVID-19 Pandemic",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "link": "https://doi.org/10.5281/zenodo.19529051",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "mind_acceptance",
+      "title": "Transparency and Accountability in Natural Resource Revenue Management: Lessons from the COVID-19 Pandemic",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "link": "https://doi.org/10.5281/zenodo.19529052",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Spider venom peptides Ht1a and Gg1a are toxic to honeybee parasite Varroa destructor by topical application.",
+      "source": "PubMed",
+      "link": "https://doi.org/10.1038/s44386-026-00050-9",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Interpol review of gunshot residue, 2022 to 2024.",
+      "source": "PubMed",
+      "link": "https://doi.org/10.1016/j.fsisyn.2026.100719",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Environmental Attention and Cryptocurrency Bubbles:Insights from the Cryptocurrency Environmental Attention Index.",
+      "source": "University of Birmingham Research Portal (University of Birmingham)",
+      "link": "https://openalex.org/W7128278436",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "ESSENTIALS OF OBSTETRICS AND GYNECOLOGY: A COMPREHENSIVE GUIDE",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "link": "https://doi.org/10.5281/zenodo.19479583",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "ESSENTIALS OF OBSTETRICS AND GYNECOLOGY: A COMPREHENSIVE GUIDE",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "link": "https://doi.org/10.5281/zenodo.19479584",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Symposium Name: Photonics in Energy Conversion Materials and Devices - Conference: MATSUS 2026 (25th October 2026)",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "link": "https://doi.org/10.5281/zenodo.18769987",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Symposium Name: Photonics in Energy Conversion Materials and Devices - Conference: MATSUS 2026 (25th October 2026)",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "link": "https://doi.org/10.5281/zenodo.18769986",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Kinetic modelling meets AI: application to hydrodenitrogenation",
+      "source": "HAL (Le Centre pour la Communication Scientifique Directe)",
+      "link": "https://openalex.org/W7169640367",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Understanding How Location Analytics Is Implemented in Information Systems and Business Education",
+      "source": "Journal of the Association for Information Systems",
+      "link": "https://doi.org/10.62273/mopz1492",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Teaching Tip: A Data Preparation and Enrichment Exercise for Location-Aware Analysis of University Innovation",
+      "source": "Journal of the Association for Information Systems",
+      "link": "https://doi.org/10.62273/awxk7246",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Invited Editorial: Preparing Students for a Spatially Driven Business World: Why Location Analytics Belongs in Every IS Curriculum",
+      "source": "Journal of the Association for Information Systems",
+      "link": "https://doi.org/10.62273/nfuu7723",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Graph Transformer Transferability for Flood Scusceptibility mapping in contrasting regions",
+      "source": "HAL (Le Centre pour la Communication Scientifique Directe)",
+      "link": "https://doi.org/10.14455/isec.2026.13(2).rad-02",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Copies, Collaborations, and Gifts: Artistic Production Practices and Pricing in the Chinese Art Market",
+      "source": "Dépôt institutionnel de l'Université libre de Bruxelles (Université Libre de Bruxelles)",
+      "link": "https://openalex.org/W7204671484",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Socio-economic and environmental issues of constructions based on earth bricks in the Sudano-Sahelian zone of Cameroon: between the logic of actors and the challenges of eco-construction »",
+      "source": "Open Repository and Bibliography (University of Liège)",
+      "link": "https://openalex.org/W7167860684",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Universal Audio Generation",
+      "source": "HAL (Le Centre pour la Communication Scientifique Directe)",
+      "link": "https://openalex.org/W4414932055",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Toddlers show heightened attention to selective distributors",
+      "source": "Nature Communications",
+      "link": "https://doi.org/10.1016/j.cogpsych.2026.101831",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The Cranial Nerves and Electrical Stimulation",
+      "source": "CUNY Academic Works (City University of New York)",
+      "link": "https://openalex.org/W7202321721",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Role of English and digital technology in inclusion in Asian higher education: Reflections from students and teachers",
+      "source": "Open Research Online (The Open University)",
+      "link": "https://openalex.org/W7153680399",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "RelicTouch: Exploring Fingertip Vibrotactile Feedback for Image Interpretation",
+      "source": "University of the Arts London Research Online (University of the Arts London)",
+      "link": "https://openalex.org/W7202327197",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Impacts of within-day decision-making within a stochastic process traffic assignment model",
+      "source": "White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",
+      "link": "https://openalex.org/W7161355672",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Experimental constraints on the differentiation of CM-like planetary embryos",
+      "source": "Open Research Online (The Open University)",
+      "link": "https://openalex.org/W7165082468",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Evaluating the Effectiveness of a Practitioner-Designed Science-Based Interviewing and Interrogation Course : A Collaborative Training and Research Effort",
+      "source": "Lancaster EPrints (Lancaster University)",
+      "link": "https://openalex.org/W7124125024",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Entrepreneurial Work Engagement among Baristas in Franchise and Nonfranchise Coffee Shop Ventures",
+      "source": "Ubaya Repository (University of Surabaya)",
+      "link": "https://openalex.org/W7202061394",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Crop genotypic richness enhances biomass production and phosphorus acquisition in maize‐mycorrhiza symbiosis",
+      "source": "Lancaster EPrints (Lancaster University)",
+      "link": "https://openalex.org/W7131735870",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Coordinated control of heterogeneous grid-connected energy storage systems",
+      "source": "University of Birmingham Research Portal (University of Birmingham)",
+      "link": "https://doi.org/10.1016/j.segan.2026.102476",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Comparing the GP-CORE and WEMWBS Scores as Predictors of Future Mental Health Service Utilisation and Help-Seeking Behaviour Among UK Students in Higher Education",
+      "source": "White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",
+      "link": "https://openalex.org/W7162227374",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "mental health"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Cognitive-Affective and Somatic Depressive Symptom Domains Related to Psychological Mechanisms and Sociodemographic Factors",
+      "source": "CUNY Academic Works (City University of New York)",
+      "link": "https://openalex.org/W7172083399",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Brokerage, power and individual innovation:When do brokers act on their structural advantage?",
+      "source": "EUR Research Repository (Erasmus University Rotterdam)",
+      "link": "https://doi.org/10.1016/j.technovation.2026.103662",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Art Style, Art & Culture International Magazine, no. 18",
+      "source": "Art Style",
+      "link": "https://doi.org/10.5281/zenodo.22164908",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Art Style, Art & Culture International Magazine, no. 18",
+      "source": "Art Style",
+      "link": "https://doi.org/10.5281/zenodo.22164907",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Application Usability, Engagement, and Postpartum Weight Retention: Secondary Analysis of the INTER-ACT Randomized Controlled Trial.",
+      "source": "PubMed",
+      "link": "https://doi.org/10.1016/j.mcpdig.2026.100381",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Allyship and Affect: Qualitative Investigations into Social Transformation",
+      "source": "CUNY Academic Works (City University of New York)",
+      "link": "https://openalex.org/W7172077467",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social",
+        "affect"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "AISyst: AI‐Powered Interactive Visual System to Assist With Fidelity Assessment of Synthetic Tabular Data",
+      "source": "White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",
+      "link": "https://openalex.org/W7203855159",
+      "matched_ai_terms": [
+        "AI",
+        "AI-powered"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Utilitarianism and Weak Sustainability : A Corpus Analysis of the Representation of the Sea by the UK Government (2010-2023)",
+      "source": "Lancaster EPrints (Lancaster University)",
+      "link": "https://openalex.org/W7149876925",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The future of AI-assisted science is both fast and slow",
+      "source": "Nature Human Behaviour",
+      "link": "https://www.nature.com/articles/s41562-026-02574-6",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Anatomical white matter tracts span the cortical hierarchy to support cognitive diversity",
+      "source": "Nature Human Behaviour",
+      "link": "https://www.nature.com/articles/s41562-026-02559-5",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Ünlü Desteği Literatürünün Bibliyometrik Açıdan Değerlendirilmesi",
+      "source": "Süleyman Demirel Üniversitesi Vizyoner Dergisi",
+      "link": "https://doi.org/10.21076/vizyoner.1814942",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Watch that seam! Designing hybrid presentations with data visualisation in augmented reality",
+      "source": "Strathprints: The University of Strathclyde institutional repository (University of Strathclyde)",
+      "link": "https://doi.org/10.57698/v15i2.01",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Performance Comparison of Machine Learning-Based Regression Models in Predicting Türkiye’s Exports",
+      "source": "Süleyman Demirel Üniversitesi Vizyoner Dergisi",
+      "link": "https://doi.org/10.21076/vizyoner.1814982",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Optimization strategies for variational quantum algorithms in noisy landscapes",
+      "source": "Evolutionary Intelligence",
+      "link": "https://doi.org/10.1007/s12065-026-01248-6",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Investigating the Confounding Role of Artificial Intelligence on the Relationship between Patient Safety and Infection Control Practices in Enhancing Patient Satisfaction in Healthcare",
+      "source": "Open Access Public Health and Health Administration Review",
+      "link": "https://doi.org/10.59644/oaphhar.5(1).299",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": [
+        "relationship"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "FROM DIGITIZATION TO PERFORMANCE: TECHNOLOGY ADOPTION IN THE PUBLIC SERVICE AND THE ROLE OF KENYA'S ECITIZEN PLATFORM AS AN ENABLER",
+      "source": "World Journal of Advanced Research and Reviews",
+      "link": "https://doi.org/10.30574/wjarr.2026.31.2.2239",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Designing group music improvisation systems: A decade of design research in education",
+      "source": "TU/e Research Portal",
+      "link": "https://doi.org/10.57698/v15i2.05",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Design and Implementation of a Hostel Allocation System",
+      "source": "Global Journal of Engineering and Technology Advances",
+      "link": "https://doi.org/10.30574/gjeta.2026.28.2.0171",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "CLASSROOM MORALE AND LEARNING ENVIRONMENT AMONG GOVERNMENT AND PRIVATE HIGH SCHOOL STUDENTS IN TELANGANA: A COMPARATIVE STUDY",
+      "source": "EPRA International Journal of Research & Development (IJRD)",
+      "link": "https://doi.org/10.36713/epra28938",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Smart Governance and the Direction of Innovation: AI, Foresight, and Behavioral Design as Enablers of Governance Efficacy",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003210?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Digital Interaction Rituals and the Transformation of Loneliness",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70263?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "loneliness"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Beyond the Default: How Customizable Artificial Intelligence Agents Can Attenuate Stereotypical Preferences",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70260?af=R",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "Artificial Intelligence and Job Design: Insights from Job Demands–Resources Theory",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003222?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Social technology use and life satisfaction in a five-wave panel study of US adults",
+      "source": "Nature Human Behaviour",
+      "link": "https://www.nature.com/articles/s41562-026-02564-8",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Effort vs. Efficiency: How Ideal‐Self Pursuit Shapes Consumer Preference for Substitutional AI‐Powered Products",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70234?af=R",
+      "matched_ai_terms": [
+        "AI",
+        "AI-powered"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "other",
+      "title": "Conceptual Framework of Social Trust in AI-Enabled Circular Economy: An Integrative and Bibliometric Review",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003271?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "At the point of risk: Can AI-assisted decision support reduce digital fraud vulnerability across age groups and scam types?",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002530?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "other",
+      "title": "Who Accepts AI Labor Displacement? Trust, Social Benefit, and Cross-National Contexts in the Age of Generative AI",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003155?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "In Favor of Digital Detox: Developing the Attitude Toward Digital Detox Scale",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70256?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "How Personal Pronouns Shape Persuasion",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70258?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "How Loneliness, Trust, and Age Shape Evaluations of Human Versus AI‐Based Advisory Services",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70259?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "loneliness"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Hello, [Your Name]: Why Name‐Based Personalization Enhances Chatbot Effectiveness",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70251?af=R",
+      "matched_ai_terms": [
+        "chatbot"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Substitutive and Augmentative Delegation in GenAI‐Assisted Shopping: Perceived Benefits, Constraints, and Consumer Tensions",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70238?af=R",
+      "matched_ai_terms": [
+        "GenAI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Public perceptions of polygenic testing and embryo selection for non-medical traits",
+      "source": "Nature Human Behaviour",
+      "link": "https://www.nature.com/articles/s41562-026-02562-w",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "organization_work",
+      "title": "Ongoing thoughts at rest reflect functional brain organization and behaviour",
+      "source": "Nature Human Behaviour",
+      "link": "https://www.nature.com/articles/s41562-026-02563-9",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Mentalizing and heuristics as distinct cognitive strategies in human teaching",
+      "source": "Nature Human Behaviour",
+      "link": "https://www.nature.com/articles/s41562-026-02540-2",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "How Temporal Framing of Expiration Information Influences Consumer Preferences for Near‐Expiry Food?",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70237?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Feeling Right Matters: The Impact of Character Design–Appeal Match on Social Media Engagement",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70235?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Educational interventions are effective in improving students’ ethical and moral outcomes: a systematic review and meta-analysis",
+      "source": "Nature Human Behaviour",
+      "link": "https://www.nature.com/articles/s41562-026-02456-x",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Corrigendum to ‘Psychological need experiences inside and outside gaming as predictors of adolescent problematic gaming and well-being: A longitudinal test of the Need Density Hypothesis’ [Computers in Human Behavior 186 (2026) 109140]",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002566?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "well-being"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Academic Digital Information Hoarding among Generation Z Students: The Mediating Role of Perceived Academic Competition within an Attachment-Based Framework",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003192?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "attachment"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The Role of Attention and Norm Perception in Online Comments’ Impact on Attitudes toward Sunscreen: An Eye-Tracking Approach",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002591?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Refining the role of behavioural and social sciences in pandemic response post-COVID-19",
+      "source": "Nature Human Behaviour",
+      "link": "https://www.nature.com/articles/s41562-026-02506-4",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "In This Issue",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/iti3426123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Toward a Multilevel Understanding of Knowledge Hiding in Digital Workplaces: Insights and Opportunities",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003131?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The Benefits of Bundling Material Goods with Moderate Usage Complementarity",
+      "source": "Journal of Consumer Research",
+      "link": "https://academic.oup.com/jcr/advance-article/doi/10.1093/jcr/ucag029/8769514?rss=1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "More Complex Is Better? The Impact of Product Image Visual Complexity on Consumer Responses in E‐Commerce Pages",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70232?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "consumer_marketing",
+      "title": "AI Chatbots Versus Human Agents for Customer Service: A Social Belonging Perspective",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70231?af=R",
+      "matched_ai_terms": [
+        "AI",
+        "chatbots"
+      ],
+      "matched_social_terms": [
+        "social",
+        "belonging"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "No Matter the Price, I Will Buy: Exploring Motivational Factors Influencing Affection‐Driven Premium Consumption in Luxury Event Tourism",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70233?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Urban tree canopy fragmentation and child mortality in low- and middle-income countries",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2606669123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Tox regulates hair cell stereocilia development and Cdh23 expression in mice and zebrafish",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2607359123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Macrophages diverge into profibrotic SAMs and proresolving ReM2 cells to regulate liver fibrosis",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2611441123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Loss of Sox10 prevents tumor initiation in vivo and induces luminal-to-basal reprogramming in Neu+ tumor cells",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2520063123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "ALKBH3 inhibition normalizes neovessels by reprogramming endothelial fate in diabetic microvasculopathy",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2602779123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "Whom You Pay Matters: How the Payment Path of Shared Expenses Affects Purchase Satisfaction",
+      "source": "Journal of Consumer Research",
+      "link": "https://academic.oup.com/jcr/advance-article/doi/10.1093/jcr/ucag030/8767543?rss=1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "What controls the superconducting dome of electron-doped FeSe?",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2608091123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Tmem117, an oligodendrocyte-enriched regulator of NCX activity, links myelin homeostasis to counterregulation and metabolic health",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2530122123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The TaLYK5–TaDSK2a module serves as a molecular switch between plant growth and immunity during fungal attack",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2612340123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Structural basis of ligand recognition and gating in a heteromeric Deg-3/Des-2 nicotinic acetylcholine receptor",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2608998123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Stochastic theory for pattern formation and front propagation in transitional pipe turbulence",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2537018123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Regulatory divergence of homoeologs underlies network optimization for fiber improvement in domesticated cotton",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2523784123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Primary amine–functionalized radially amphiphilic polypeptides target bacterial phospholipids in polyanionic matrices for biofilm therapy",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2616934123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Little Voices, Big Impact: How Child‐Like Robot Voices Improve Service Quality",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70218?af=R",
+      "matched_ai_terms": [
+        "robot"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "An insoluble de novo protein enables survival of Escherichia coli by sequestering a gene repressor",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2601204123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "A hypersensitive neuromorphic airflow sensor inspired by vision-compensatory scorpion mechanoreceptors for respiratory pattern analysis",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2617376123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "USP14 competitively binds to FBXW7 to stabilize MTDH and promotes metastasis and drug resistance of head and neck squamous cell carcinoma",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2504068123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The dual-function enzyme PpLipO protects polar marine bacteria from phospholipid peroxidation",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2527470123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Soft matter, hard rules: Emulsions follow the laws of granular suspension rheology",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2611013123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Repression of ferroptotic cell death mediated antitumor immunity by mitochondrial calcium signaling",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2606216123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Regulatory logic of neuronal differentiation in the Drosophila visual system",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2614314123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "QnAs with Richard Ostfeld",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2626100123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Probabilistically defining environmentally relevant concentrations in ecotoxicology",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2617990123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Peter H. Raven: Botanist, evolutionary biologist, and biodiversity champion",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2624553123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Perceptual and neural constraints on photometric measures of heterochromatic brightness",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2610398123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Numerical investigation of the equilibrium Kauzmann transition in a two-dimensional atomistic glass",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2612355123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Neutrophil-intrinsic Vgll4 constrains tumorigenesis by preventing a STAT3/STAT5-driven immunosuppressive switch",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2606983123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Neuronal overexpression of Kcnn1 in A53T α-synuclein mice suppresses phospho-serine 129 α-synuclein formation and doubles survival time",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2622262123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Identification of potent inhibitors of JUN N-terminal kinases for treatment of endometriosis and associated pain",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2607561123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Hydrogen-ready infrastructure risks new carbon lock-in",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2601685123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "High-resolution mapping of osteoblast metabolism and bone matrix turnover in vivo",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2533109123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Heme-binding protein CYB5D1 couples intraflagellar redox to calcium signaling for coordinated flagellar beating",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2535939123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Dynamic multiphase flow triggers chaotic mixing in porous media",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2612884123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Correction for Dervishi et al., Sterol divergence across eukaryotic kingdoms determines membrane susceptibility to saponins, a class of plant defense compounds",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2627895123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Atomistic twinning process with ultra-high shear in hexagonal close-packed crystals",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2607072123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "A spinoreticular pathway mediates nocifensive responses to noxious mechanical stimuli",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2604642123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "A human pluripotent stem cell triculture platform to elucidate microglial regulation of retinal ganglion cells in neuroinflammation",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2522958123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "A cloaked glutamate decarboxylase sustains the GABA shunt in Mycobacterium tuberculosis",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2619778123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "When Luxury Brands Meet Artificial Intelligence: How Brand Longevity Shapes Consumer Responses to AI‐Designed Products",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70253?af=R",
+      "matched_ai_terms": [
+        "artificial intelligence",
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Urbanization weakens the global latitudinal diversity gradient in birds",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2527860123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Understanding the Dark Side of AI in Shaping Dopamine‐Driven Consumption and Coping Behaviors Among Millennials",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70229?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The immunophenotype and proviral landscape of HIV-infected CD4 T cells during antiretroviral therapy",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2600891123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The genetic architecture of tomato flavor variation through crop domestication and improvement",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2610136123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The KAT2/HDACⅡa–PGK–ALDO axis constitutes a dual degradation inhibition cascade links energy stress to glycolytic amplification",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2533429123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "TaIAA25 negatively regulates wheat alkaline tolerance by inhibiting plasma membrane H+-ATPase activity",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2607117123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Structural rearrangements underlying the activation of STIM1 by ER calcium depletion",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2602410123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Select intratumoral riboflavin-auxotrophic Enterococcus species enhance cell surface MR1 expression and MAIT TCR activation in lung cancer",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2617943123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Retraction for Knyazeva et al., A chemical inhibitor of IST1-CHMP1B interaction impairs endosomal recycling and induces noncanonical LC3 lipidation",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2627721123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Proliferation as a natural strategy to suppress neoplasia",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2605763123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "NatA complex is a leaf-intrinsic brake on systemic responses induced by root endophytic fungi",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2536998123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Myoglianin coordinates hormonal and nutrient signaling to control metamorphosis and tissue growth in the fall armyworm",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2612072123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Morphogenesis of bacterial colonies in liquid crystalline environments",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2536343123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Marine heatwaves and undernutrition in low- and middle-income countries",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2528506123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Initiation of rotational collective migration in Drosophila through tissue geometry and mechanochemical feedback",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2528342123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Human Hsp70 paralogs display selective J-domain interactions tuning proteostasis under stress",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2534903123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Group size effects and collective misalignment in LLM multi-agent systems",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2531697123?af=R",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "FEMA phase-out? Catastrophic extremes challenge decentralization of US flood insurance",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2537388123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Expulsion of nuclear DNA to the cytoplasm after viral entry: A mechanism for activation of the cGAS pathway",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2614472123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Characterizing the impact of incorporating spatially aggregated human mobility data into infectious disease models",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2533465123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "An upstream open reading frame represses translation of the neuronal potassium channel KCNQ2",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2610782123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "An ER retention motif controls the heteromeric stoichiometry of hERG1a/1b channels",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2605305123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "A nose-to-brain circuit underlies anxiety regulation by nasal afferent frequency in mice",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2603853123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "A Confidant in Your Pocket: How Smartphone Portability Facilitates Emotional Disclosure to AI Chatbots",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70252?af=R",
+      "matched_ai_terms": [
+        "AI",
+        "chatbots"
+      ],
+      "matched_social_terms": [
+        "disclosure",
+        "emotional"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "“Can talking like you make it work?”: The role of linguistic convergence and maintenance in human–robot interaction",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002487?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "robot",
+        "human-robot",
+        "human–robot",
+        "human—robot"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Value misalignment in X’s feed algorithm is a reflection of value tensions in engagement",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2610388123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "VIA1 is a conserved regulator of thylakoid membrane integrity that acts through VIPP1",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2605816123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Unitary currents through K+ selective channelrhodopsins reveal multiple conductance states within an activated state complex",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2604725123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The transgenerational toll of maternal spaceflight",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2621879123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The role of small Heat Shock Proteins in Trypanosoma cruzi infection and intestinal homeostasis in a Chagas disease vector",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2600647123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "mind_acceptance",
+      "title": "The free-rider detection problem: How groups balance fairness and cooperation",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2622914123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The ecology of Lyme disease: Long-term data, surprises, and a synthesis",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2610907123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The 1820 Mallorca plague was not a classic bubonic outbreak",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2536892123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Structural rearrangements of PDGFRβ in the membrane upon activation by the viral oncoprotein E5",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2603552123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Serum IgA proteomics reveals clonal composition and neutralization of dimeric and monomeric IgA repertoires against human norovirus",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2603905123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "Reply to Regon and Charuvi: Evidence supporting a nuclear chromatin-associated role of BpELIP1 in BpFLC regulation",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2617958123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Random repeats open a route into folded protein space",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2620768123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Neonatal diethylstilbestrol exposure disrupts uterine epithelial apical–basal polarity and partial EMT state",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2603458123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Manipulation of localized excitons in CrPS4 by temperature and magnetic field",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2616584123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Ingested plastics reduce recruitment and survival of an Australian seabird",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2613782123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Host DNA repair factors empower a mechanism of antiviral nucleoside analog resistance",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2618057123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Exploiting the CXCR3/CXCL10 axis overrides tumor immune suppression by enhancing immune trafficking and effector cell priming in HNSCC",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2522360123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Electromechanical activation and recovery wave imaging for pediatric mitral valve disease characterization",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2503559123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Does a chloroplast membrane protein bind DNA in the nucleus?",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2612932123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Direct dating of 3.5 Ga biogenic carbon in a microbial mat remnant, Singhbhum Craton, India",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2617912123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Correction for Zhou et al., Warming substantially amplifies Antarctic coastal polynyas as key carbon sinks",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2627297123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Correction for Yang et al., Superenhancer drives a tumor-specific splicing variant of MARCO to promote triple-negative breast cancer progression",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2626420123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Correction for Wang et al., A ligandable PNT domain establishes ERG as a directly targetable oncogenic driver in prostate cancer",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2626818123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Correction for Herpe et al., When alternative becomes essential: The role of mitochondrial glycerol-3-phosphate dehydrogenase",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2626815123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Correction for Chioino et al., Mitofusin-2 in ventral striatal D1 neurons regulates effort-based motivation through sex-specific mitochondrial–synaptic reprogramming",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2627119123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Correction for Brown et al., Deuterated water and the formation of the satellites of Uranus",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2625637123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Coreless exoplanets induced by metal–silicate miscibility",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2615884123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Chronic psychosocial stress: A primary driver of sleep apnea onset in rats and humans",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2527702123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "CXCR4-targeted dual softener for inducing senescence therapy in hepatic fibrosis",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2600215123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Brassinosteroid-regulated transcription factors confer epigenetic changes that repress plant immunity",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2532739123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Autoantibodies neutralizing type I interferons underlie a third of cases of Chikungunya virus encephalitis or myelitis",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2616897123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Architecture and mechanism of the human p24 cargo receptor",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2610235123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "A peripheral carboxysome component regulates cyanobacterial glycogen deposition",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2607702123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "A flat-band perspective on the boson peak in amorphous solids",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2534361123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "4000-year-old painted plaque from Southeast Indonesia reveals Austronesian Painting Tradition preceded Neolithic pottery",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2611580123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "Influencer Popularity and Its Impact on Consumer Connectivity and Electronic Word‐of‐Mouth",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70204?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "The Physical, Emotional, and Autonomous Anthropomorphism of Service Chatbots",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70255?af=R",
+      "matched_ai_terms": [
+        "chatbots",
+        "autonomous"
+      ],
+      "matched_social_terms": [
+        "emotional"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "All Quiet on the Luxury Front: How and When Sustainability Labels Influence Purchase Behavior",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70230?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "gender_equality",
+      "title": "Not All Praise Is Equal: How AI Shopping Assistants' Praise Target Shapes Consumer Behavior",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70228?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "equal"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "The Influence of Incongruent Line Extensions on Choice of a Brand's Pre‐Existing Products: The Mediating Role of Curiosity",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70227?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "Environmental Identity and Cognitive Dissonance in Sustainable Luxury: A Mixed‐Methods Analysis of Symbolic Conflict in Consumer Behavior",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70224?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "Tasting Without Tasting: The Moderating Role of Sensory Imagery in Multisensory Advertising",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70205?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Potential Risks of Virtual Influencer Diversity in Charitable Endorsements: A Cognitive Dissonance Perspective",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70223?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Healer or Human? How Online Physician Reviews Guide Patient Choice",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70248?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "From Stranger to Someone: How Naming Creates Closeness and Buffers Chatbot Service Failure",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70250?af=R",
+      "matched_ai_terms": [
+        "chatbot"
+      ],
+      "matched_social_terms": [
+        "closeness"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Breaking the Silence: How Chatbots and Human Agents Persuade Noncomplaining Consumers Following Service Failures",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70219?af=R",
+      "matched_ai_terms": [
+        "chatbots"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "White-matter functional connectivity uniquely predicts brain age, cognition, and psychopathology beyond gray-matter connectivity",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2604191123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "Sharing the Blame: How Political Ideology Affects Reactions to Service Failures in the Sharing Economy",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70227?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "Research-Driven Apps: The Last Mile of Marketing Scholarship",
+      "source": "Journal of Marketing",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/00222429261461214?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Reinforcing or eroding norms? The team consequences of negative gossip network.",
+      "source": "Journal of Applied Psychology",
+      "link": "https://psycnet.apa.org/record/2028-10548-001",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Genomic signatures of dairy adaptation in Saccharomyces cerevisiae from traditional Yaghnob goat-cheese fermentation",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2537942123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Daily temporal profiles at work: State-level dynamics in past, present, and future focus.",
+      "source": "Journal of Applied Psychology",
+      "link": "https://psycnet.apa.org/record/2028-10710-001",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Alone With Distress: How Social Loneliness Shapes Healthcare Alienation and Mental Healthcare Help‐Seeking",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70254?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social",
+        "loneliness"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "A transient global warming event during Earth’s penultimate icehouse",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2601643123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "How Servicescapes Come to Feel Like Home: Reciprocal Social Exchange and the Development of Third Place Perceptions",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70247?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "Conscience in Commerce: Neurophysiological Signatures of Individual Differences in Ethical Consumer Decision‐Making",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70249?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Conducting Luxury Research: Methodological Foundations and Standards",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70245?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "Are Human Employees Still Needed? The Interaction Effect Between Service Failure Severity and Apology Agents on Customer Forgiveness in Unmanned Smart Hotels",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70226?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "organization_work",
+      "title": "Social Media Influencers in Firm‐Based Marketing Campaign Phases—A Content Analysis and Future Research Agenda",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70196?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "When and How Does Generative AI Outperform Human Agents in Service Recovery?",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70159?af=R",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "When Social Media Ideals Backfire: How Idealized Digital Standards Undermine Self‐Efficacy and Goal Attainability",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70172?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "Visual Implied Motion in Marketing: A Dual‐Route Framework of Perceptual Persuasion",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70164?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Too Caring to Be Real? Autonomy‐Supportive AI, Intimacy Gains, and Authenticity Loss",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70187?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "intimacy"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The Singular Effect of Expert Short Recommendation Lists",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70173?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "The Silent Guardian: Symmetry's Subtle Influence on Safety Cues and Consumer Behavior",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70168?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "The Role of Intrinsic Quality in Reducing Consumer Xenocentrism: Evidence From a New World Wine Market",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70181?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "The Embodiment of Vulnerability: How Consumers Judge Empathy Gaps in Artificial Intelligence‐Driven Healthcare",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70167?af=R",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": [
+        "empathy"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Servant, Partner, or Competitor? How Embodied AI Role Positioning Influences Consumer's Purchase Intention Through Threat Perception and Feelings of Dominance",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70184?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Scarcity, Status, and Social Distance: How Macro Influencers Gain Persuasive Advantage at the Bottom of the Pyramid",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70246?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Perceived Loss of Autonomy and Personal Control in the Age of Autonomous Technologies: Scale Development and Validation",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70169?af=R",
+      "matched_ai_terms": [
+        "autonomous"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Not the Real Me! Effects of Secrecy on Consumers' Regret About Their Consumption Decisions",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70178?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "New Money, Old Biases: Understanding Mental Accounting in the Cryptocurrency Era",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70183?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Mental Capacity and Decision Making: Where to From Here?",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70182?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Liking Without Endorsing: Consumer Dilemmas in Responses to AI‐Generated Music",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70170?af=R",
+      "matched_ai_terms": [
+        "AI",
+        "AI-generated"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Issue Information",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70239?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Inside the Quiet Luxury Mindset: How Do Self‐Related Orientations Influence Inconspicuous Luxury Consumption?",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70163?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Human in the Loop, or Perceived Oversight? The Psychological Inference That Drives AI Credibility",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70174?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "How Artificial Intelligence Influences Consumer Reflection in Decision‐Making: The Role of AI Anthropomorphism and Reinforcement",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70177?af=R",
+      "matched_ai_terms": [
+        "artificial intelligence",
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "From Real to Artificial: How Profile Image Realism Shapes Warmth, Competence, and Trade Outcomes in Swapping Platforms",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70180?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "Every Dog has Its Day: How Top‐Dog Versus Underdog Brand Positioning Affects Unethical Consumer Behavior",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70176?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Emotional Showdown: Can Virtual Endorsers Out‐Express Human Endorsers in Digital Advertising?",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70161?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "emotional"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Embodied Auditory Experience: The Influence of Music Genre and Tempo on Pleasure and Value Under Postural Modulation",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70201?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Companionship as Service: The Psychological Efficacy of Commercialized Interactions in Reducing Loneliness",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70162?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "companionship",
+        "loneliness"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "Brand Consumption Denial: Conceptualization, Scale Development, and Validation",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70160?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Beyond Black Boxes: AI Certification Labels Increase Adoption through Trust",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70185?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Beauty Isn't Always Better: How Salesperson Attractiveness Affects Consumers' Approach Behaviors",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70179?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "consumer_marketing",
+      "title": "AI‐Driven Personalization in Social Media Advertising: How Tracking Awareness and eWOM Homophily Shape Trust and Consumer Responses",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70166?af=R",
+      "matched_ai_terms": [
+        "AI",
+        "AI-driven"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Understanding Algorithm Discounting in Artificial Intelligence Recommendations: Matching Anthropomorphic Agents to Consumer Goals",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70242?af=R",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Feeling Younger, Choosing Complexity: How Subjective Age Influences Older Consumers' Preference for Visual Complexity",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70225?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Correction to “How to Conduct a Multi‐Domain Systematic (Literature) Review? Guidelines Using The Lotus Protocol”",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70238?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Beyond Reality Avoidance: Unraveling the Paradox of Escapism Through Self‐Monitoring and Autonomy Mechanisms for Consumers' Life Satisfaction",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70244?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Re-centering the user in recommender system research: Preface to the special issue",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001795?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "How the boss’s “right hand” becomes the group’s “go-to”: Leader–member exchange as a heuristic cue for everyday asks.",
+      "source": "Journal of Applied Psychology",
+      "link": "https://psycnet.apa.org/record/2028-07618-001",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "Ethics of care leadership expressions during a high-strength event: A gendered analysis of combative versus constructive policy suggestions during the Israel–Hamas war.",
+      "source": "Journal of Applied Psychology",
+      "link": "https://psycnet.apa.org/record/2028-07619-001",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "“I've let screens take over”: Maternal guilt about media and relations to children's problematic media use",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002359?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "organization_work",
+      "title": "“Bond. Green bond.” Yet when does green bond issuance truly benefit expected firm performance?",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003197?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "When p = 0 : Governance failure and pure social diffusion in rivalrous technology adoption",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S004016252600329X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "What drives blockchain technology adoption? A meta-analysis across TAM, TPB, and UTAUT frameworks",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002988?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Welcoming behaviors in user experience: a design framework for human-computer interaction",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001801?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "human-computer",
+        "human–computer",
+        "human—computer"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Wearable digitally augmented mask to support greeting games for autistic children: A preliminary study",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001904?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "gender_equality",
+      "title": "Walking in her shoes: Virtual embodiment of a famous female scientist reduces implicit gender–science associations",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002438?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "gender"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Voices that connect: Exploring human-like attributes and eWOM in AI assistants",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002897?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "AI assistants"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Virtual collective consciousness in metaverse communities: Sociological insights from collective effervescence and networked sociality",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002940?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Unveiling the core factors of internet addiction in adolescents: A machine learning and network analysis approach",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002542?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "technical_hci",
+      "title": "Understanding the temporal dynamics of user experience in VR gaming: Evidence from large-scale game reviews",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002554?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Understanding generative AI effects on sustainable consumption outcomes: A complementary analytical approach",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002873?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Towards socially acceptable XR agents: A modular approach for user interaction",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001825?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "socially"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The unintended consequences of AI adoption: How moral displacement and ethical numbing suppress pro-environmental behavior at work",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003015?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "The social dynamics of AI companionship: How activated attachment states and organizational signals shape human–AI relationships",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600299X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": [
+        "social",
+        "relationships",
+        "companionship",
+        "attachment"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The role of group composition in collaborative foresight",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003136?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The power of benevolence: A multilevel examination of how and when socially responsible human resource management shapes team responsible innovation",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003331?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "socially"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "The impact of artificial intelligence (AI) and customer relationship management (CRM) on integrated marketing communications (IMC)",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003276?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence",
+        "AI"
+      ],
+      "matched_social_terms": [
+        "relationship"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "The impact of AI adoption in the workplace on knowledge workers' career commitment: A job insecurity perspective",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600312X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The evolution of immersive technology research in business and management: A bibliometric review",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003124?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "The evolution of artificial intelligence talent demand in China: Evidence from large-scale online job posting data",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002769?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The effect of conversational style on children’s self-reporting: Evidence from a field study with an LLM-powered voice diary",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001813?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The effect of augmented reality on pedestrians’ gaze patterns and crossing probability while interacting with automated vehicles",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001953?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "automated"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The effect of artificial intelligence and robotics on SME exports: Evidence from the EU countries",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003143?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The brick-to-jade effect of AI hallucination: Evidence from chatbots in online communities",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002414?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "chatbots"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Technology transfer challenges in circular supply chain: Insights from expanded absorptive capacity- dynamic capability view",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003027?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Tail-driven asymmetries in sustainable finance: SMEs, ESG, and energy innovation under market stress",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S004016252600332X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Specification cost: Relocating the binding constraint in delegation to AI agents with externally supplied objectives",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002927?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "AI agents"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "technical_hci",
+      "title": "Spatial alignment of audio–haptic directional feedback shapes non-visual hand guidance",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001965?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Social media use and self-reported happiness and loneliness among adolescents: An exploratory machine learning approach",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003179?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social",
+        "loneliness"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Simulation-based training for child helpline counsellors: Impact of simulation, feedback, and reflection in a randomised controlled trial",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001989?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Shaping the commitment to digital innovation projects: The interaction of threat-opportunity frames and construal levels",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003148?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "See what you see, hear what you hear: Theorizing AI Device Embodiment (ADE) and its effects on well-being, perceived social support, and adoption",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S074756322600258X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "social",
+        "social support",
+        "well-being"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "technical_hci",
+      "title": "Role-play training based on conversational artificial intelligence and immersive virtual reality: Platform, proof-of-concept, and user study",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001928?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "Retraction notice to “Digital transformation and social equity: Bridging the gap in post-pandemic societies” [Technology in Society 87 (2026) 103403]",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002617?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Regulatory orchestration in immersive retail innovation systems: A capability-based framework for AI and XR governance",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003215?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Regulators as innovation enablers: Social capital and the central bank of Ireland's innovation sandbox",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003227?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "technical_hci",
+      "title": "Reducing sectarian prejudice through virtual reality in the post-conflict context of Northern Ireland",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002529?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "Public procurement for social innovation: Building a collaboration logic through interactive spaces",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003306?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Pretty privilege? Effects of perpetrators’ attractiveness and hate type on user responses against misogynist digital hate",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002098?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Perceived authenticity and evaluative asymmetry in judgments of AI-generated product designs: An eye-tracking and behavioral study",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002505?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "AI-generated"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Optimising the usability of AI-assisted augmented reality displays of critical structures during surgery – An international study of surgeon-computer interaction",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001771?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Motivation, cognition, and emotion: Unpacking the pathways from fitness app gratifications to workout intention",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002463?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "emotion"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "More externalization, but less inference? Exploring changes in young learners’ critical thinking during conversational AI bot-supported multimodal writing practice",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002384?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "conversational AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "Leveraging change-oriented organisational citizenship behaviour for public sector adaptability: The U-shaped role of hindrance techno-stressors",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003180?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Leveraging AI technology innovation for disaster risk reduction and resilience: Examining the mechanisms of financial development, globalization, and institutional quality",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003318?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Latent until directed: How regulatory science activates innovation capacity to shape corporate green tilt",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003240?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Large language model counterarguments in older adults: Cognitive offloading or susceptibility to moral persuasion?",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002396?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "large language model"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Language mutations and the persistence of COVID-19 conspiracy theories on social media",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002347?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Knowledge democratization or cognition homogenization? The double-edged role of generative AI in breakthrough product innovation",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600271X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "Intelligent remote sensing and governmental environmental governance: A supply-side information capability perspective",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003239?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Information and communication technology as an enabler for circular manufacturing systems: A simulation-based case study in the automotive aftermarket sector",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002721?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "How users interpret AI-assisted reviews: Disclosure design and authenticity perceptions",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002451?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "disclosure"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "How do senior qualitative researchers perceive the risks and opportunities of using large language models in qualitative analysis? An exploratory study",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S107158192600193X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "large language models"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "How conversation content and style shape service evaluations: Evidence from a dual-pathway mediation model and neural processing",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002578?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "organization_work",
+      "title": "How complementarities between automation and organisational innovation shape the wages of a firm's employees: The role of social skills",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003161?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "automation"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "How changes in autonomy-supportive managerial practices affect job satisfaction in teleworking",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003252?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "affect"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "High-technology manufacturing and environment nexus: Insights from Spanish manufacturing titans",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002915?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "Governing digital innovation ecosystems under risk and uncertainty: IP circulation, platform dependency, and policy orchestration in Korean content industries",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002848?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "From “cost of asking” to “fit of asking”: How seeking help with AI shapes employees’ indebtedness and autonomy in different workplace helping contexts",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002475?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Forever Young? On the technological impact of green startups",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003173?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Feeling seen or being offended? Exploring citizens’ cognitive responses to AI emotional expression in online government services",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002708?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "emotional"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "gender_equality",
+      "title": "Feeling like I can make the real me: How trans and gender diverse adults use gaming avatars to explore gender in digital gaming",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002824?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "gender"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Fatalistic and disengaged: How perceived cross-platform data flow and privacy boundary turbulence are associated with emotional distress",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002426?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "emotional"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Exploring technology acceptance of ChatGPT consumers: A combined TAM-SOR framework on perceived fee and consumer innovativeness",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002976?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "ChatGPT"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Engaged but careless? The roles of online civic engagement, well-being, and information literacy in careless information sharing",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S074756322600244X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "well-being"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Enabling reuse of construction and demolition waste with data spaces: Potentials and limitations in the transition to circularity",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600285X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "EmoLoop: An adaptive VR biofeedback system for stress regulation",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001916?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "transport_automation",
+      "title": "Effects of environmental perception and planned maneuver visualization on takeover performance in silent failure scenarios",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001941?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Editorial Board",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001862?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Editorial Board",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003380?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Editorial Board",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003064?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "gender_equality",
+      "title": "Early and late adoption and appropriation of LLMs differs by gender, age, and technology education",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001977?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "LLMs"
+      ],
+      "matched_social_terms": [
+        "gender"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "ESG and corporate performance: An empirical study of technological innovation in China",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003118?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Dual illusion of informational self-sufficiency and its implications for verification and truth recognition: The interplay of news-finds-me and third-person perceptions",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002499?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "transport_automation",
+      "title": "Driverless, not thoughtless? Automated vehicle regulation, the dilemma of control, and the prospect of dual corrigibility",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003434?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "automated"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Do government R&D subsidies promote or constrain disruptive innovation in early-stage ventures? The moderating role of appropriation mechanisms",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002903?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "Digitalisation and public life: Professional interpretations of technology-mediated socio-spatial transformation",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003167?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Developing a conceptual framework for digital health engagement: Insights from a hybrid review and qualitative validation",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003264?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Designing and validating an AI-enabled digital platform to foster circular business models",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002782?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Depicting Metaverse and AI transition for inclusive and collaborative socio-economic development paths: The role of knowledge management",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002654?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "Decentralized autonomous organization for circular economy: A proof of concept in the e-waste recycling process",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003185?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "autonomous"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Corrigendum to “Strategic foresight and business model innovation: The sequential mediating role of sensemaking and learning” [Technol. Forecast. Soc. Change volume 200 (2024), 1–18/123095]",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002568?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Corrigendum to “Strategic foresight and business model innovation: The sequential mediating role of sensemaking and learning” [Technol. Forecast. Soc. Change 200 (2024) 123095]",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526002489?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Communicating servitisation offers for mitigating weather-related risk for the construction industry through a simulation based serious game",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002885?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Cognitive friction in AI use and emotional exhaustion: The mediating role of cognitive exploitation and the moderating role of fear of missing out",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002517?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "emotional"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Clarifying the association between digital media engagement and risk taking",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002800?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "health_mental_health",
+      "title": "ChatGPT as an ecosystem shock: Longitudinal quasi-experimental evidence from commercial mental health chatbots",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003246?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "ChatGPT",
+        "chatbots"
+      ],
+      "matched_social_terms": [
+        "mental health"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Between degrees and dreams: Overeducation, digital literacy, and migration in China",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002939?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Before imperfections escalate: How inoculation warnings by service robots shape customer responses to minor service imperfections",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002757?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "robots"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Backcasting: An innovative approach to conflict management for transformative innovation projects",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003288?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Approval mechanisms fueling digital hate: Online incivility and intolerance perpetration in four countries",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002402?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Algorithmic governance and the uneven digital transformation of urban night-time economies: Evidence from Hanoi, Vietnam",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002952?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "algorithmic"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Affordance entrenchment analysis: A diagnostic tool for technology foresight",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003003?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "AI technology threat perception and occupational anxiety: The dual buffering role of skill adaptability and industry support",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002964?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "AI innovation policy and corporate digital transformation: Evidence from China",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003209?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "AI governance at work: Threat appraisal, work experience, and satisfaction with job, health, and financial situation",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002812?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "A literature review of artificial intelligence applications in real estate: state-of-the-art and future research directions",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002836?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    }
+  ],
+  "candidates": [
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "The impact of artificial intelligence on human safety and data protection in smart logistics: opportunities, risks and governance challenges",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "link": "https://doi.org/10.5281/zenodo.21909827",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "The impact of artificial intelligence on human safety and data protection in smart logistics: opportunities, risks and governance challenges",
+      "source": "Zenodo (CERN European Organization for Nuclear Research)",
+      "link": "https://doi.org/10.5281/zenodo.21909828",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The Sociolinguistics of Machine Identity: LLM Personality and Ideology Propagation",
+      "source": "Open MIND",
+      "link": "https://doi.org/10.17613/fdwhn-ejz93",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "The Role of Generative Artificial Intelligence in Korean Language Learning: Applications, Challenges, and Instructional Strategies",
+      "source": "Open MIND",
+      "link": "https://doi.org/10.17613/g7mbr-1s626",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Research on Attention Guidance and User Autonomy in AI-Powered Immersive Environments",
+      "source": "PhilPapers (PhilPapers Foundation)",
+      "link": "https://doi.org/10.17613/vpe2q-5qg42",
+      "matched_ai_terms": [
+        "AI",
+        "AI-powered"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Algorithmic Justice and Responsible AI Journalism: A Comparative Communication Policy Perspective in East Asia",
+      "source": "PhilPapers (PhilPapers Foundation)",
+      "link": "https://doi.org/10.17613/d0ee4-h2e12",
+      "matched_ai_terms": [
+        "AI",
+        "algorithmic"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Kinetic modelling meets AI: application to hydrodenitrogenation",
+      "source": "HAL (Le Centre pour la Communication Scientifique Directe)",
+      "link": "https://openalex.org/W7169640367",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "AISyst: AI‐Powered Interactive Visual System to Assist With Fidelity Assessment of Synthetic Tabular Data",
+      "source": "White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",
+      "link": "https://openalex.org/W7203855159",
+      "matched_ai_terms": [
+        "AI",
+        "AI-powered"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The future of AI-assisted science is both fast and slow",
+      "source": "Nature Human Behaviour",
+      "link": "https://www.nature.com/articles/s41562-026-02574-6",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Investigating the Confounding Role of Artificial Intelligence on the Relationship between Patient Safety and Infection Control Practices in Enhancing Patient Satisfaction in Healthcare",
+      "source": "Open Access Public Health and Health Administration Review",
+      "link": "https://doi.org/10.59644/oaphhar.5(1).299",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": [
+        "relationship"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Smart Governance and the Direction of Innovation: AI, Foresight, and Behavioral Design as Enablers of Governance Efficacy",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003210?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Beyond the Default: How Customizable Artificial Intelligence Agents Can Attenuate Stereotypical Preferences",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70260?af=R",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "Artificial Intelligence and Job Design: Insights from Job Demands–Resources Theory",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003222?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Effort vs. Efficiency: How Ideal‐Self Pursuit Shapes Consumer Preference for Substitutional AI‐Powered Products",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70234?af=R",
+      "matched_ai_terms": [
+        "AI",
+        "AI-powered"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "other",
+      "title": "Conceptual Framework of Social Trust in AI-Enabled Circular Economy: An Integrative and Bibliometric Review",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003271?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "At the point of risk: Can AI-assisted decision support reduce digital fraud vulnerability across age groups and scam types?",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002530?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "other",
+      "title": "Who Accepts AI Labor Displacement? Trust, Social Benefit, and Cross-National Contexts in the Age of Generative AI",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003155?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "How Loneliness, Trust, and Age Shape Evaluations of Human Versus AI‐Based Advisory Services",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70259?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "loneliness"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Hello, [Your Name]: Why Name‐Based Personalization Enhances Chatbot Effectiveness",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70251?af=R",
+      "matched_ai_terms": [
+        "chatbot"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Substitutive and Augmentative Delegation in GenAI‐Assisted Shopping: Perceived Benefits, Constraints, and Consumer Tensions",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70238?af=R",
+      "matched_ai_terms": [
+        "GenAI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "consumer_marketing",
+      "title": "AI Chatbots Versus Human Agents for Customer Service: A Social Belonging Perspective",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70231?af=R",
+      "matched_ai_terms": [
+        "AI",
+        "chatbots"
+      ],
+      "matched_social_terms": [
+        "social",
+        "belonging"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Little Voices, Big Impact: How Child‐Like Robot Voices Improve Service Quality",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70218?af=R",
+      "matched_ai_terms": [
+        "robot"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "When Luxury Brands Meet Artificial Intelligence: How Brand Longevity Shapes Consumer Responses to AI‐Designed Products",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70253?af=R",
+      "matched_ai_terms": [
+        "artificial intelligence",
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Understanding the Dark Side of AI in Shaping Dopamine‐Driven Consumption and Coping Behaviors Among Millennials",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70229?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Group size effects and collective misalignment in LLM multi-agent systems",
+      "source": "PNAS",
+      "link": "https://www.pnas.org/doi/abs/10.1073/pnas.2531697123?af=R",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "A Confidant in Your Pocket: How Smartphone Portability Facilitates Emotional Disclosure to AI Chatbots",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70252?af=R",
+      "matched_ai_terms": [
+        "AI",
+        "chatbots"
+      ],
+      "matched_social_terms": [
+        "disclosure",
+        "emotional"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "“Can talking like you make it work?”: The role of linguistic convergence and maintenance in human–robot interaction",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002487?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "robot",
+        "human-robot",
+        "human–robot",
+        "human—robot"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "The Physical, Emotional, and Autonomous Anthropomorphism of Service Chatbots",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70255?af=R",
+      "matched_ai_terms": [
+        "chatbots",
+        "autonomous"
+      ],
+      "matched_social_terms": [
+        "emotional"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "gender_equality",
+      "title": "Not All Praise Is Equal: How AI Shopping Assistants' Praise Target Shapes Consumer Behavior",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70228?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "equal"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "From Stranger to Someone: How Naming Creates Closeness and Buffers Chatbot Service Failure",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70250?af=R",
+      "matched_ai_terms": [
+        "chatbot"
+      ],
+      "matched_social_terms": [
+        "closeness"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Breaking the Silence: How Chatbots and Human Agents Persuade Noncomplaining Consumers Following Service Failures",
+      "source": "Journal of Consumer Behaviour",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/cb.70219?af=R",
+      "matched_ai_terms": [
+        "chatbots"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "When and How Does Generative AI Outperform Human Agents in Service Recovery?",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70159?af=R",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Too Caring to Be Real? Autonomy‐Supportive AI, Intimacy Gains, and Authenticity Loss",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70187?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "intimacy"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "The Embodiment of Vulnerability: How Consumers Judge Empathy Gaps in Artificial Intelligence‐Driven Healthcare",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70167?af=R",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": [
+        "empathy"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Servant, Partner, or Competitor? How Embodied AI Role Positioning Influences Consumer's Purchase Intention Through Threat Perception and Feelings of Dominance",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70184?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Perceived Loss of Autonomy and Personal Control in the Age of Autonomous Technologies: Scale Development and Validation",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70169?af=R",
+      "matched_ai_terms": [
+        "autonomous"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Liking Without Endorsing: Consumer Dilemmas in Responses to AI‐Generated Music",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70170?af=R",
+      "matched_ai_terms": [
+        "AI",
+        "AI-generated"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Human in the Loop, or Perceived Oversight? The Psychological Inference That Drives AI Credibility",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70174?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "How Artificial Intelligence Influences Consumer Reflection in Decision‐Making: The Role of AI Anthropomorphism and Reinforcement",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70177?af=R",
+      "matched_ai_terms": [
+        "artificial intelligence",
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Beyond Black Boxes: AI Certification Labels Increase Adoption through Trust",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70185?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "consumer_marketing",
+      "title": "AI‐Driven Personalization in Social Media Advertising: How Tracking Awareness and eWOM Homophily Shape Trust and Consumer Responses",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70166?af=R",
+      "matched_ai_terms": [
+        "AI",
+        "AI-driven"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Understanding Algorithm Discounting in Artificial Intelligence Recommendations: Matching Anthropomorphic Agents to Consumer Goals",
+      "source": "Psychology & Marketing",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/mar.70242?af=R",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Welcoming behaviors in user experience: a design framework for human-computer interaction",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001801?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "human-computer",
+        "human–computer",
+        "human—computer"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Voices that connect: Exploring human-like attributes and eWOM in AI assistants",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002897?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "AI assistants"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Understanding generative AI effects on sustainable consumption outcomes: A complementary analytical approach",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002873?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The unintended consequences of AI adoption: How moral displacement and ethical numbing suppress pro-environmental behavior at work",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003015?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "The social dynamics of AI companionship: How activated attachment states and organizational signals shape human–AI relationships",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600299X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": [
+        "social",
+        "relationships",
+        "companionship",
+        "attachment"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "The impact of artificial intelligence (AI) and customer relationship management (CRM) on integrated marketing communications (IMC)",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003276?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence",
+        "AI"
+      ],
+      "matched_social_terms": [
+        "relationship"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "The impact of AI adoption in the workplace on knowledge workers' career commitment: A job insecurity perspective",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600312X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "The evolution of artificial intelligence talent demand in China: Evidence from large-scale online job posting data",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002769?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The effect of conversational style on children’s self-reporting: Evidence from a field study with an LLM-powered voice diary",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001813?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The effect of augmented reality on pedestrians’ gaze patterns and crossing probability while interacting with automated vehicles",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001953?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "automated"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The effect of artificial intelligence and robotics on SME exports: Evidence from the EU countries",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003143?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The brick-to-jade effect of AI hallucination: Evidence from chatbots in online communities",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002414?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "chatbots"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Specification cost: Relocating the binding constraint in delegation to AI agents with externally supplied objectives",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002927?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "AI agents"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "See what you see, hear what you hear: Theorizing AI Device Embodiment (ADE) and its effects on well-being, perceived social support, and adoption",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S074756322600258X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "social",
+        "social support",
+        "well-being"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "technical_hci",
+      "title": "Role-play training based on conversational artificial intelligence and immersive virtual reality: Platform, proof-of-concept, and user study",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001928?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Regulatory orchestration in immersive retail innovation systems: A capability-based framework for AI and XR governance",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003215?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Perceived authenticity and evaluative asymmetry in judgments of AI-generated product designs: An eye-tracking and behavioral study",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002505?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "AI-generated"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Optimising the usability of AI-assisted augmented reality displays of critical structures during surgery – An international study of surgeon-computer interaction",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001771?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "More externalization, but less inference? Exploring changes in young learners’ critical thinking during conversational AI bot-supported multimodal writing practice",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002384?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "conversational AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Leveraging AI technology innovation for disaster risk reduction and resilience: Examining the mechanisms of financial development, globalization, and institutional quality",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003318?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Large language model counterarguments in older adults: Cognitive offloading or susceptibility to moral persuasion?",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002396?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "large language model"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Knowledge democratization or cognition homogenization? The double-edged role of generative AI in breakthrough product innovation",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X2600271X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "How users interpret AI-assisted reviews: Disclosure design and authenticity perceptions",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002451?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "disclosure"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "How do senior qualitative researchers perceive the risks and opportunities of using large language models in qualitative analysis? An exploratory study",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S107158192600193X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "large language models"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "organization_work",
+      "title": "How complementarities between automation and organisational innovation shape the wages of a firm's employees: The role of social skills",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003161?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "automation"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "From “cost of asking” to “fit of asking”: How seeking help with AI shapes employees’ indebtedness and autonomy in different workplace helping contexts",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002475?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Feeling seen or being offended? Exploring citizens’ cognitive responses to AI emotional expression in online government services",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002708?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "emotional"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Exploring technology acceptance of ChatGPT consumers: A combined TAM-SOR framework on perceived fee and consumer innovativeness",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002976?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "ChatGPT"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "gender_equality",
+      "title": "Early and late adoption and appropriation of LLMs differs by gender, age, and technology education",
+      "source": "International Journal of Human-Computer Studies",
+      "link": "https://www.sciencedirect.com/science/article/pii/S1071581926001977?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "LLMs"
+      ],
+      "matched_social_terms": [
+        "gender"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "transport_automation",
+      "title": "Driverless, not thoughtless? Automated vehicle regulation, the dilemma of control, and the prospect of dual corrigibility",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003434?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "automated"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Designing and validating an AI-enabled digital platform to foster circular business models",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002782?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Depicting Metaverse and AI transition for inclusive and collaborative socio-economic development paths: The role of knowledge management",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002654?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "Decentralized autonomous organization for circular economy: A proof of concept in the e-waste recycling process",
+      "source": "Technological Forecasting and Social Change",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0040162526003185?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "autonomous"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Cognitive friction in AI use and emotional exhaustion: The mediating role of cognitive exploitation and the moderating role of fear of missing out",
+      "source": "Computers in Human Behavior",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0747563226002517?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "emotional"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "health_mental_health",
+      "title": "ChatGPT as an ecosystem shock: Longitudinal quasi-experimental evidence from commercial mental health chatbots",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003246?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "ChatGPT",
+        "chatbots"
+      ],
+      "matched_social_terms": [
+        "mental health"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "Before imperfections escalate: How inoculation warnings by service robots shape customer responses to minor service imperfections",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002757?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "robots"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Algorithmic governance and the uneven digital transformation of urban night-time economies: Evidence from Hanoi, Vietnam",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002952?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "algorithmic"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "AI technology threat perception and occupational anxiety: The dual buffering role of skill adaptability and industry support",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002964?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "AI innovation policy and corporate digital transformation: Evidence from China",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26003209?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "AI governance at work: Threat appraisal, work experience, and satisfaction with job, health, and financial situation",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002812?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "A literature review of artificial intelligence applications in real estate: state-of-the-art and future research directions",
+      "source": "Technology in Society",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0160791X26002836?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    }
+  ],
+  "failed_sources": [
+    {
+      "source": "International Journal of Human-Computer Interaction",
+      "source_type": "journal",
+      "reason": "HTTP Error 403: Forbidden",
+      "fallback_used": ""
+    },
+    {
+      "source": "International Journal of Human-Computer Interaction",
+      "source_type": "journal",
+      "reason": "RSS/primary source failed",
+      "fallback_used": "openalex"
+    },
+    {
+      "source": "Management Science",
+      "source_type": "journal",
+      "reason": "HTTP Error 403: Forbidden",
+      "fallback_used": ""
+    },
+    {
+      "source": "Management Science",
+      "source_type": "journal",
+      "reason": "RSS/primary source failed",
+      "fallback_used": "openalex"
+    },
+    {
+      "source": "Nature Communications",
+      "source_type": "journal",
+      "reason": "not well-formed (invalid token): line 14, column 4",
+      "fallback_used": ""
+    },
+    {
+      "source": "Nature Communications",
+      "source_type": "journal",
+      "reason": "RSS/primary source failed",
+      "fallback_used": "openalex"
+    }
+  ]
+}
