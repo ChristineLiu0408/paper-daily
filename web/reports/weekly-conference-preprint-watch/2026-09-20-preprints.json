@@ -1,0 +1,56 @@
+{
+  "watch_id": "weekly-conference-preprint-watch",
+  "part_name": "Weekly Conference & Preprint Watch",
+  "frequency": "weekly",
+  "generated_at": "2026-09-20T23:38:36.100075+00:00",
+  "since_days": 7,
+  "source_count": 3,
+  "successful_source_count": 0,
+  "failed_source_count": 2,
+  "skipped_source_count": 1,
+  "raw_entry_count": 0,
+  "candidate_count": 0,
+  "source_results": [
+    {
+      "source": "CSCW",
+      "source_type": "rolling_journal",
+      "raw_count": 0,
+      "failed": false,
+      "skipped": true,
+      "skip_reason": "Requires a verified PACM HCI metadata endpoint; CSCW Rolling is not an annual proceedings TOC.",
+      "failure_count": 0
+    },
+    {
+      "source": "arXiv cs.HC",
+      "source_type": "preprint",
+      "raw_count": 0,
+      "failed": true,
+      "skipped": false,
+      "failure_count": 1
+    },
+    {
+      "source": "arXiv cs.CY",
+      "source_type": "preprint",
+      "raw_count": 0,
+      "failed": true,
+      "skipped": false,
+      "failure_count": 1
+    }
+  ],
+  "raw_records": [],
+  "candidates": [],
+  "failed_sources": [
+    {
+      "source": "arXiv cs.HC",
+      "source_type": "preprint",
+      "reason": "HTTP Error 406: Not Acceptable",
+      "fallback_used": ""
+    },
+    {
+      "source": "arXiv cs.CY",
+      "source_type": "preprint",
+      "reason": "HTTP Error 406: Not Acceptable",
+      "fallback_used": ""
+    }
+  ]
+}
