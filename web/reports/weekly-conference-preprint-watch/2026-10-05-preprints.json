@@ -1,0 +1,1360 @@
+{
+  "watch_id": "weekly-conference-preprint-watch",
+  "part_name": "Weekly Conference & Preprint Watch",
+  "frequency": "weekly",
+  "generated_at": "2026-10-05T00:16:12.132234+00:00",
+  "since_days": 7,
+  "source_count": 3,
+  "successful_source_count": 1,
+  "failed_source_count": 1,
+  "skipped_source_count": 1,
+  "raw_entry_count": 89,
+  "candidate_count": 35,
+  "source_results": [
+    {
+      "source": "CSCW",
+      "source_type": "rolling_journal",
+      "raw_count": 0,
+      "failed": false,
+      "skipped": true,
+      "skip_reason": "Requires a verified PACM HCI metadata endpoint; CSCW Rolling is not an annual proceedings TOC.",
+      "failure_count": 0
+    },
+    {
+      "source": "arXiv cs.HC",
+      "source_type": "preprint",
+      "raw_count": 89,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "arXiv cs.CY",
+      "source_type": "preprint",
+      "raw_count": 0,
+      "failed": true,
+      "skipped": false,
+      "failure_count": 1
+    }
+  ],
+  "raw_records": [
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "ibUMAP: Coherent and Scalable Field Evaluation for UMAP Optimization",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.01445v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "XAI Evaluation Cards: A Practical Method for Designing Human-Centred XAI Evaluations",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.02011v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Who Thinks First? Designing Productive Friction with Engage-to-Unlock GenAI",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.01518v1",
+      "matched_ai_terms": [
+        "GenAI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Where LLMs Fail with Visualization DSLs",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.01873v1",
+      "matched_ai_terms": [
+        "LLMs"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "WIP: DBWorkout: A Gamified SQL Practice Platform to Support Formative Learning in Database Courses",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.01174v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "Understanding Student Use of Large Language Models Across Computer Science Subfields",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.01158v1",
+      "matched_ai_terms": [
+        "large language models"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Scaling Peer Assessments: An Integrity Report from a Large Engineering Internship",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.01020v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "SPHERE: Adaptive VR Indoor Scene Generation via LLM-Enhanced Spatial Preference Learning and Human-in-the-Loop RL",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.02023v1",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "PROMO: Preference-conditioned Multi-Objective Reinforcement Learning for Quadrupedal Robots",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.01260v1",
+      "matched_ai_terms": [
+        "robots"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.02207v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Interactive Power Flow in the Browser",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.01922v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Designing for Interpretation Uncertainty: Architecture and Principles for Topological Learning Analytics Dashboards",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.01749v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Cybernetic and Epistemic: A Missing Vocabulary for Trustworthy Agentic Delegation",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.00961v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Catscan: Visualizing Pipelines of CPU Performance Simulation",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.02121v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "ABDA-NL: A Natural-Language Scenario Explorer for Argument-Based Reasoning",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.00947v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "Whose Voice Survives the Summary? A Voice-Retention Audit of LLM Employee Listening",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38818v1",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Who Asked for This? Inline Annotations as Authoring Transactions for Provenance in Agentic Authoring",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.40126v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Where the Evidence Lives: Auditing AI Companions' Self-Descriptions",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38753v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "companions"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "When a Kindergartener Solves Calculus: Measuring Capability Leakage in Role-Prompted Reasoning Models",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39846v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "When Data Becomes Judgment: Misaligned Interpretations and Accountability in Food Delivery Platforms",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39311v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "When Attention Guardrails Become Barriers to Learning: Towards the Tipping Point",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39023v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38967v1",
+      "matched_ai_terms": [
+        "automation"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Understanding Parents' Complex Views of AI for Children's Pretend Play",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39906v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Toward Humanoid Robots in Construction: A Teleoperation Feasibility Study",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.00718v1",
+      "matched_ai_terms": [
+        "robots"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "technical_hci",
+      "title": "Sensing Instability, Adapting the Scene: A Real-Time Movement-Smoothing Design Framework for Stable VR Locomotion",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.00643v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Richard: Voice-First Mobile Interaction for Persistent Tasks",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39976v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "other",
+      "title": "Rethinking Legibility in Social Robot Hallway Navigation: Impact of Intent Representation and Human Distraction",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.40158v1",
+      "matched_ai_terms": [
+        "social robot",
+        "robot"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Referential Uncertainty in Human--AI Collaboration",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39518v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Present After Presence: Subtraction, Givenness, and the Structure of Being-There",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39289v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "technical_hci",
+      "title": "Preliminary Evaluation of Transition-Aware Controller Locomotion Adaptations for Supporting Postural Stability in VR",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.00628v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Positive Ratings, Hidden Concerns: Employee Voice Disclosure in AI-Mediated Organizational Listening",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38788v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "disclosure"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Persona and Persuasive Framing in AI Voice Agents: A $2\\times2$ Field Experiment with Children",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38782v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Perceptual Color Difference Modeling Using Machine Learning and Human Similarity Judgments",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39130v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "NarrativeSteward: Coordinating Delegation, Guidance, and Verification in Agent-Assisted Interactive Narrative Authoring",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39333v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Measuring Student Self-Assessment against Viva-Demonstrated Mastery in a Large First-Year Programming Course",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38951v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Making Sense of Animal-to-Human Drug Development Evidence: Stakeholder Practices, Challenges, and Requirements for AI Tools",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39808v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "LeanSide: A Formally Verified Co-Reasoning System for Natural-language Proofs",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.00760v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "JuryFlow: Disagreement-Guided Human-in-the-Loop Multi-Agent Evaluation",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.40103v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Insights on Student Learning from Live Classroom Polls: More Than Right or Wrong",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38969v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "IDEAL: A Multimodal Domain Adaptation Framework for EEG-Eye Emotion Recognition",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39421v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "emotion"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "From Scroll to Sale: Exploring the Impact of Interaction Type and Device Price on TikTok Advertisements",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.00684v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "From Images to Tasks: Characterizing Multimodal LLM Interactions in the Wild",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.00701v1",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Faithful Chart Generation for Multimodal Deep Research: Frame-Evidence Co-Adaptation",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.00374v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Engagement-Led Segmentation of Gamified Participation Data in a Large-Scale Remote Internship: A Mixed-Methods Study",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39750v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "EPIC: Epipolar-Consistent 360° Immersive Stereo Video Generation",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38689v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "EFormer: Temporally Aligned Local Correction for Continuous sEMG-Based Hand Pose Tracking",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38932v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "DuplexAct-Bench: Broadening Full-Duplex Speech Evaluation toward Proactive Interaction across Diverse Behavioral Requirements",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39446v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Diptych: Scoped, AI-Interpreted Comparison for Reference Listening in Music Production",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39963v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "DiFF: Doppler-informed Flow Matching for Human Motion Flow",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39098v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Conversational Capture: A Trajectory-Level Framework for Evaluating Generative Engine Optimization in Multi-turn Human-Agent Interaction",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.40069v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Characterizing Questioning Patterns and Student Engagement Through Contextual Analysis of Real-Time Classroom Interactions",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38907v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Breaking News Out of the Filter Bubble: Generative AI Search Diversifies Collective Attention and Raises Shared Information Consumption",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38946v1",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "gender_equality",
+      "title": "An Audit of Measurement Quality and Answer Bias in a Large Classroom-Poll Corpus",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38959v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Aligning the Incomplete: Joint Distribution Calibration for Multimodal EEG-Eye Emotion Recognition",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39413v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "emotion"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Afterglow: A Place-Based Memorial Ecology for AI-Mediated Pet Bereavement",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38729v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "AIfred: Augmented Learning through Functional Robotic Embodiment at the Desk",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38737v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "A barrier or a booster? Familiarity effects on Mandarin emotion prosody recognition using AI-powered voice cloning",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38794v1",
+      "matched_ai_terms": [
+        "AI",
+        "AI-powered"
+      ],
+      "matched_social_terms": [
+        "emotion"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "Waypoint-1.5: A Real-Time Video World Model for Consumer Hardware",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.37107v2",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "technical_hci",
+      "title": "Towards the Threshold: A Fall-Risk Anchored Pareto Framework for Virtual Reality Gait Feedback Selection for Individuals with Multiple Sclerosis",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.37952v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Towards Model as a Library: Offline, Community-Sourced AI for Low-Resource African Languages",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38574v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "education_learning",
+      "title": "Towards Breaking the Learning System Wall Using Multimodal Tutoring Transcriptions",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.36502v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.00338v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Shaping Opinion: Quantifying the Psychological Impact of Autonomous Multi-Agent LLM Interactions",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.37369v1",
+      "matched_ai_terms": [
+        "LLM",
+        "autonomous"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "RobotEQ 3.0: Towards Personalized Social Proactive Intelligence in Embodied Agents",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.36618v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Rhythm Is a Dancer: Designing Interactive Rhythm Feedback for Beginner Dancers",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.37641v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "organization_work",
+      "title": "Recursive Organization Improvement: A Modeling Specification for Human--Agent Organizations",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38643v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "technical_hci",
+      "title": "Rational Clarification by Assistive Agents via Value-of-Information Reasoning",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.37588v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Navigating the Changing Landscape of Online Knowledge Consumption and Production in the Age of Generative AI: Evidence from Stack Overflow",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38563v1",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Multimodal Detection of Higher-Order Behavioral Constructs: Self-Compassion in Structured Reflective Interaction",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.37148v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Human-AI Collaboration: From Paradoxes to Patterns",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.36481v1",
+      "matched_ai_terms": [
+        "AI",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "How People Use ChatGPT: Conversation-Level Evidence from India, Nigeria, Brazil, and Pakistan",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38279v1",
+      "matched_ai_terms": [
+        "ChatGPT"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "technical_hci",
+      "title": "GestAdapt: Workspace-Conditioned Co-Speech Gesture Generation for Humanoid Robots",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38400v1",
+      "matched_ai_terms": [
+        "robots"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "gender_equality",
+      "title": "Gender bias across LLMs is common and highly heterogeneous",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38036v2",
+      "matched_ai_terms": [
+        "LLMs"
+      ],
+      "matched_social_terms": [
+        "gender"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "technical_hci",
+      "title": "Game-Based versus Training-Based Virtual Reality for Cognitive Rehabilitation in Mild Cognitive Impairment and Dementia: A Systematization of Design Paradigms, Outcomes, and Evaluation Rigor",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38514v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "From Neurons to Conversation: Speech Brain-Computer Interfaces",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.36736v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "Fluency Without Evidence: Constraint-First Design and the Limits of Self-Report in AI-Assisted Learning",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.37880v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "mind_acceptance",
+      "title": "Fairness Theatre: Evaluating Post-Hoc Fairness Interventions in Vendor-Controlled Early Warning Systems",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38552v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "EntityWeaver: Visual Exploration and Curation of Named-Entity Relationships in Document Collections",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.37329v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "relationships"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Embodiment-aware control by inference over the operator: a simulation study",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38437v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "Early Prediction of AI-Assisted Cheating Risk in Online Exams Through Learning Analytics",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.37280v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Designing a Boundary Negotiating Artifact for Collaborative Socio-Technical Sense-Making in AI Regulatory Sandboxes",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.37109v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Critical Thinking with Generative AI: A Constraint-First Design Pilot of a Thinking-Partner Intervention",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38029v1",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "CommSketch: How Speaking while Sketching Steers Human--AI Design Ideation",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.37813v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "technical_hci",
+      "title": "C-LISTEN: Cognitive Load Impacts of Sensory-Triggered Environmental Navigation in Virtual Reality",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38589v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Beyond the Headset: A Systematization of Knowledge on Extended Reality Privacy and Security in Healthcare",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38281v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Beyond Productivity: Measuring Developers' Cognitive Load During GenAI-Supported Software Development",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.37645v1",
+      "matched_ai_terms": [
+        "GenAI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "technical_hci",
+      "title": "Beyond Monoscopic Viewing: A Study on 3D Gaussian Splatting Quality in VR",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38525v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "mind_acceptance",
+      "title": "Anthropomorphism in the age of Large Language Models: An overview of potential risks and mitigations",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38486v1",
+      "matched_ai_terms": [
+        "large language models"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "A Task-Driven Framework for Multiscale Ocean Flow Dynamics through Integrated Simulation and Visualization",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.37964v1",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    }
+  ],
+  "candidates": [
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Who Thinks First? Designing Productive Friction with Engage-to-Unlock GenAI",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.01518v1",
+      "matched_ai_terms": [
+        "GenAI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Where LLMs Fail with Visualization DSLs",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.01873v1",
+      "matched_ai_terms": [
+        "LLMs"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "Understanding Student Use of Large Language Models Across Computer Science Subfields",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.01158v1",
+      "matched_ai_terms": [
+        "large language models"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "SPHERE: Adaptive VR Indoor Scene Generation via LLM-Enhanced Spatial Preference Learning and Human-in-the-Loop RL",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.02023v1",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "PROMO: Preference-conditioned Multi-Objective Reinforcement Learning for Quadrupedal Robots",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.01260v1",
+      "matched_ai_terms": [
+        "robots"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "Whose Voice Survives the Summary? A Voice-Retention Audit of LLM Employee Listening",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38818v1",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Where the Evidence Lives: Auditing AI Companions' Self-Descriptions",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38753v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "companions"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38967v1",
+      "matched_ai_terms": [
+        "automation"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Understanding Parents' Complex Views of AI for Children's Pretend Play",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39906v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Toward Humanoid Robots in Construction: A Teleoperation Feasibility Study",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.00718v1",
+      "matched_ai_terms": [
+        "robots"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "other",
+      "title": "Rethinking Legibility in Social Robot Hallway Navigation: Impact of Intent Representation and Human Distraction",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.40158v1",
+      "matched_ai_terms": [
+        "social robot",
+        "robot"
+      ],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Referential Uncertainty in Human--AI Collaboration",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39518v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Positive Ratings, Hidden Concerns: Employee Voice Disclosure in AI-Mediated Organizational Listening",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38788v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "disclosure"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Persona and Persuasive Framing in AI Voice Agents: A $2\\times2$ Field Experiment with Children",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38782v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Making Sense of Animal-to-Human Drug Development Evidence: Stakeholder Practices, Challenges, and Requirements for AI Tools",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39808v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "From Images to Tasks: Characterizing Multimodal LLM Interactions in the Wild",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.00701v1",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Diptych: Scoped, AI-Interpreted Comparison for Reference Listening in Music Production",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.39963v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Breaking News Out of the Filter Bubble: Generative AI Search Diversifies Collective Attention and Raises Shared Information Consumption",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38946v1",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Afterglow: A Place-Based Memorial Ecology for AI-Mediated Pet Bereavement",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38729v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "A barrier or a booster? Familiarity effects on Mandarin emotion prosody recognition using AI-powered voice cloning",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38794v1",
+      "matched_ai_terms": [
+        "AI",
+        "AI-powered"
+      ],
+      "matched_social_terms": [
+        "emotion"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Towards Model as a Library: Offline, Community-Sourced AI for Low-Resource African Languages",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38574v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "Three Pathways of Student-AI Interaction: Constraint-First Design for Higher-Order Thinking",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.00338v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Shaping Opinion: Quantifying the Psychological Impact of Autonomous Multi-Agent LLM Interactions",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.37369v1",
+      "matched_ai_terms": [
+        "LLM",
+        "autonomous"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Navigating the Changing Landscape of Online Knowledge Consumption and Production in the Age of Generative AI: Evidence from Stack Overflow",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38563v1",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Human-AI Collaboration: From Paradoxes to Patterns",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.36481v1",
+      "matched_ai_terms": [
+        "AI",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "How People Use ChatGPT: Conversation-Level Evidence from India, Nigeria, Brazil, and Pakistan",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38279v1",
+      "matched_ai_terms": [
+        "ChatGPT"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "technical_hci",
+      "title": "GestAdapt: Workspace-Conditioned Co-Speech Gesture Generation for Humanoid Robots",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38400v1",
+      "matched_ai_terms": [
+        "robots"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "gender_equality",
+      "title": "Gender bias across LLMs is common and highly heterogeneous",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38036v2",
+      "matched_ai_terms": [
+        "LLMs"
+      ],
+      "matched_social_terms": [
+        "gender"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "Fluency Without Evidence: Constraint-First Design and the Limits of Self-Report in AI-Assisted Learning",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.37880v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "Early Prediction of AI-Assisted Cheating Risk in Online Exams Through Learning Analytics",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.37280v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Designing a Boundary Negotiating Artifact for Collaborative Socio-Technical Sense-Making in AI Regulatory Sandboxes",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.37109v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Critical Thinking with Generative AI: A Constraint-First Design Pilot of a Thinking-Partner Intervention",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38029v1",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "CommSketch: How Speaking while Sketching Steers Human--AI Design Ideation",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.37813v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Beyond Productivity: Measuring Developers' Cognitive Load During GenAI-Supported Software Development",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.37645v1",
+      "matched_ai_terms": [
+        "GenAI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "mind_acceptance",
+      "title": "Anthropomorphism in the age of Large Language Models: An overview of potential risks and mitigations",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2609.38486v1",
+      "matched_ai_terms": [
+        "large language models"
+      ],
+      "matched_social_terms": []
+    }
+  ],
+  "failed_sources": [
+    {
+      "source": "arXiv cs.CY",
+      "source_type": "preprint",
+      "reason": "HTTP Error 429: Too Many Requests",
+      "fallback_used": ""
+    }
+  ]
+}
