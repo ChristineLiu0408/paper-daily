@@ -3,6 +3,1317 @@
   "papers": [
     {
       "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Would an LLM Match into a Residency? Uncertainty, Reasoning and Image Use of Open Language Models on the Spanish MIR Examination",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.31586v1",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Who Is Sycophantic to Whom? Confident LLMs, Human Deference, and the Collapse of Trust Calibration",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.31579v1",
+      "matched_ai_terms": [
+        "LLMs"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Where Do LLMs Learn to Recommend AI?",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.29785v1",
+      "matched_ai_terms": [
+        "AI",
+        "LLMs"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "other",
+      "title": "When LLMs Manipulate: Measuring Behavioral, Social, and Temporal Effects",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.27573v1",
+      "matched_ai_terms": [
+        "LLMs"
+      ],
+      "matched_social_terms": [
+        "social"
+      ],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "When Better Opportunities Backfire: Service Worker Responses to Parallel AI Deployment in Customer Acquisition",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.25603v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "What the submission does not show: Complexifying cognitive offloading in students' mathematical work with LLMs",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.31335v1",
+      "matched_ai_terms": [
+        "LLMs"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "What should AI forget? A design and taxonomy for negative space governance in AI memory",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.27607v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "What Lies Beyond Perception: A Partition Theory of the Limits of AI Evaluation and Oversight",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.30803v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "What Does AI Success Look Like? A Mixed-Methods Analysis of Supranational AI Governance Instruments",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.31030v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "ValiAssist: Scaling LLM-generated Programming Feedback Validation by Demonstration",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.27248v1",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "VISH-ASR: Viterbi-Guided Selection of Hotwords for Speech-LLM Contextual ASR",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.27867v1",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "VERA: A Responsible AI Dashboard for Assessing LLM Deployments in Light of the EU AI Act",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.31588v1",
+      "matched_ai_terms": [
+        "AI",
+        "LLM"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "TutorCaseBench: A Case-Grounded Benchmark for Evaluating LLM Tutors in Supporting Students with Challenging Behaviors",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.30828v1",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "mind_acceptance",
+      "title": "Towards More Granular Reasoning: Mapping the DSA Transparency Database Taxonomy to Platform Terms and Conditions Using Large Language Models",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.26226v1",
+      "matched_ai_terms": [
+        "large language models"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The Labor of Storytelling: How People with Chronic Illnesses Leverage AI and Communities for Narrative Translation",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.28438v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The GenAI Who Knew Too Little: Revisiting Transactive Memory Systems in Human GenAI Collaboration",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.28343v1",
+      "matched_ai_terms": [
+        "GenAI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "mind_acceptance",
+      "title": "The Differential Effects of AI Abstention on Advice Acceptance",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.27258v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The Delegation Divide: An Open Index of AI-Agent Delegability across Occupations and Countries",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.30752v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "consumer_marketing",
+      "title": "The Customer Is the Builder: How AI Coding Agents Are Rewriting the Economics of Software",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.30307v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "Supporting or Replacing Students' Reasoning? Cognitive Offloading in AI-Assisted Proof Learning",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.31481v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Stronger artificial intelligence breakthroughs hasten their own exhaustion",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.27296v1",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Small Average Error, Wide Individual Error: General-Purpose LLMs Estimating Energy Intake from Meal Photos in a Feeding Trial",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.26538v2",
+      "matched_ai_terms": [
+        "LLMs"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "mind_acceptance",
+      "title": "Situating Vulnerability: An Ethical Governance Framework for Anthropomorphic AI Interaction",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.29304v2",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Scriptorium: System Design and Implementation of a Multi-Human, Multi-AI Collaborative Digital Library Search Platform",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.28929v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Scaling Therapy Supervision: Assessing Psychotherapy Fidelity Using Large Language Models",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.28772v1",
+      "matched_ai_terms": [
+        "large language models"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Relational Complexity: Making Sense of Social Companion AI Use",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.27419v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "social",
+        "relational",
+        "companion"
+      ],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Promptile: Recovering and Reusing Prompting Strategies from LLM Interaction Histories",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.26485v1",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Probing and Steering for Safety-Relevant Behaviours in Large Language Models",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.30363v1",
+      "matched_ai_terms": [
+        "large language models"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Prefigured forgetting. Memory, the right to be forgotten and artificial intelligence",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.30402v1",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Network topology shapes consensus and vulnerability in LLM populations",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.31165v1",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Navigating human-robot interaction challenges in private and residential aged care homes",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.31149v1",
+      "matched_ai_terms": [
+        "robot",
+        "human-robot",
+        "human–robot",
+        "human—robot"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Metacognitive Scaffolds Create Productive Friction for AI-Assisted Knowledge Work",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.30945v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Measuring undergraduate students' reliance on generative AI during problem-solving: Scale development and validation",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.30195v1",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Making Generative AI Workable at Work: Accountability, Localization, and Representation in Kenyan and Nigerian Small Businesses",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.31344v1",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Inspectable LLM-Simulated Participants for Qualitative Interview Rehearsal",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.27333v1",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "mind_acceptance",
+      "title": "In-Browser Human-AI Co-Writing for Counterspeech: An Exploratory User Study of Agency, Perceived Response Quality, and Time",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.31357v1",
+      "matched_ai_terms": [
+        "AI",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "Impacts of generative AI skill development on academic adaptation and learning outcomes among university students",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.30599v1",
+      "matched_ai_terms": [
+        "AI",
+        "generative AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "HumanCentric-Scenes-AI: A Human-Curated Multimodal Dataset of AI-Generated Human-Centric Scenes Across Surveillance, Occupational Portraits, AI-Edited Images, and Short-Form Video",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.29045v1",
+      "matched_ai_terms": [
+        "AI",
+        "AI-generated"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "From TCP/IP to MCP: Security and Governance Lessons from Internet Protocols for Agentic AI",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.26624v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "health_mental_health",
+      "title": "From Clinical Judgment to Checkable Rules: Clinician-Led Guardrails for Mental-Health Chatbots",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.30690v1",
+      "matched_ai_terms": [
+        "chatbots"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "From Canon to Nikon: Camera Domain Shift and Potential Equity Implications in Retinal AI",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.29104v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "From AI-Free Gates to AI-First Work: How Engineering Students in India Navigate University Education and Campus Placements Without AI Guidelines",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.29140v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Exploring Visual Access and Proactive AI Tutoring for Handwritten Mathematics",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.26411v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Evaluating LLM-Generated Feedback on Handwritten Mathematics: Feedback Quality and Subsequent Exam Performance",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.27881v1",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Detecting AI Training in Datacentre Power",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.30182v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Data-Void Exploits in Web-Searching LLMs",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.30365v1",
+      "matched_ai_terms": [
+        "LLMs"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "Contestable Agents for Data Governance: Recording Human Stewardship of AI-Generated Metadata Across Structured and Unstructured Systems",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.31553v1",
+      "matched_ai_terms": [
+        "AI",
+        "AI-generated"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Commit or Abstain? System One Decision Models, LLMs, and Missing Legal Authority",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.29961v1",
+      "matched_ai_terms": [
+        "LLMs"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "CoWriter: Guiding Methodological and Synergetic Human-LLM Co-Authoring",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.31277v1",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Cling: Supporting Cross-Page Coordination with Human-Directed, In-Situ, and Small-Step Automation",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.25879v1",
+      "matched_ai_terms": [
+        "automation"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Claims of emergence in AI should be grounded in information decomposition",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.28479v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Can Loan Processors and Underwriters Spot AI-Edited Statements? An Empirical Study",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.30758v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "gender_equality",
+      "title": "Bias and Reliability in Learning-Style Inference from Student--AI Dialogues: An Evaluation of GPT-4o and Gemini 2.0 Flash",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.27448v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Beyond Small Talk: Modeling Disclosure Trajectories in Human-AI Conversation",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.29413v1",
+      "matched_ai_terms": [
+        "AI",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": [
+        "disclosure"
+      ],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Beyond Better Ideas: How Human-AI Collaboration Shapes Scientific Ideas and Human Perceptions",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.30568v1",
+      "matched_ai_terms": [
+        "AI",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Beyond Behavioral Accuracy: Evaluating Individual-Level Fidelity in LLM Investor Simulation",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.26524v1",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Behind Aggregate Scores: What Systematically Varying Arena-Hard's LLM Judge Reveals",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.30512v1",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "high",
+      "topic_label": "emotional_social",
+      "title": "Association between Player Perception and AI Disclosure on Steam: An Exploratory Study",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.30178v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [
+        "disclosure"
+      ],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "Artificial Intelligence and Job Design: A Dynamic Framework",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.28830v1",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Act on Your Behalf, Beyond Your Authorization: Benchmarking LLM Agent Authorization Alignment",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.27548v2",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Abstract Priorities, Concrete Rewards: How Stated Preferences Relate to What People Reward in AI Responses",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.30763v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "AI-Native Academia Should Build a Community Verification Layer",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.30549v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "AI and The Enclosure of the Scientific Commons",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.27251v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "education_learning",
+      "title": "AI Security Literacy: Ecosystem-based Competency Framework and K-12 Learning Platform",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.28859v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "AI Risk Ontologies for the EU AI Act Compliance: AIRO, VAIR, and their Integration with DPV",
+      "source": "arXiv cs.CY",
+      "link": "http://arxiv.org/abs/2610.31380v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "AI Misconception and Adoption Among Indonesian K-12 Teachers",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.26758v1",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "A Stratified Multi-Rater Evaluation of LLM-Based Virtual Standardized Patients with a Deployed Data-Generation Platform",
+      "source": "arXiv cs.HC",
+      "link": "http://arxiv.org/abs/2610.29312v1",
+      "matched_ai_terms": [
+        "LLM"
+      ],
+      "matched_social_terms": [],
+      "first_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "last_captured_at": "2026-10-25T23:38:47.951500+00:00",
+      "watch_ids": [
+        "weekly-conference-preprint-watch"
+      ],
+      "watch_names": [
+        "Weekly Conference & Preprint Watch"
+      ]
+    },
+    {
+      "relevance_label": "AI",
       "topic_label": "health_mental_health",
       "title": "What do AI chatbots do after users decline therapeutic redirection for suicide thoughts?",
       "source": "arXiv cs.HC",
