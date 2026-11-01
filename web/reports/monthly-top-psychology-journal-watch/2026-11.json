@@ -1,0 +1,1570 @@
+{
+  "watch_id": "monthly-top-psychology-journal-watch",
+  "part_name": "Monthly Top Psychology Journal Watch",
+  "frequency": "monthly",
+  "generated_at": "2026-11-01T03:01:53.289690+00:00",
+  "since_days": 31,
+  "source_count": 18,
+  "successful_source_count": 18,
+  "failed_source_count": 0,
+  "skipped_source_count": 0,
+  "raw_entry_count": 128,
+  "candidate_count": 12,
+  "source_results": [
+    {
+      "source": "Journal of Personality and Social Psychology",
+      "source_type": "journal",
+      "raw_count": 3,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Personality and Social Psychology Bulletin",
+      "source_type": "journal",
+      "raw_count": 4,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Journal of Experimental Social Psychology",
+      "source_type": "journal",
+      "raw_count": 13,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Journal of Experimental Psychology: General",
+      "source_type": "journal",
+      "raw_count": 2,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Journal of Experimental Psychology: Applied",
+      "source_type": "journal",
+      "raw_count": 2,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Psychological Science",
+      "source_type": "journal",
+      "raw_count": 5,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Psychological Review",
+      "source_type": "journal",
+      "raw_count": 1,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Psychological Bulletin",
+      "source_type": "journal",
+      "raw_count": 1,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "American Psychologist",
+      "source_type": "journal",
+      "raw_count": 2,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Perspectives on Psychological Science",
+      "source_type": "journal",
+      "raw_count": 8,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Current Directions in Psychological Science",
+      "source_type": "journal",
+      "raw_count": 2,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Current Opinion in Psychology",
+      "source_type": "journal",
+      "raw_count": 36,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Social Psychological and Personality Science",
+      "source_type": "journal",
+      "raw_count": 4,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "European Journal of Social Psychology",
+      "source_type": "journal",
+      "raw_count": 23,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "British Journal of Social Psychology",
+      "source_type": "journal",
+      "raw_count": 2,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Journal of Social and Personal Relationships",
+      "source_type": "journal",
+      "raw_count": 3,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "The Journal of Positive Psychology",
+      "source_type": "journal",
+      "raw_count": 5,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    },
+    {
+      "source": "Journal of Happiness Studies",
+      "source_type": "journal",
+      "raw_count": 12,
+      "failed": false,
+      "skipped": false,
+      "failure_count": 0
+    }
+  ],
+  "raw_records": [
+    {
+      "relevance_label": "reject",
+      "topic_label": "gender_equality",
+      "title": "The social origins of identity and bias: Language models, accumulated meaning and positioning",
+      "source": "British Journal of Social Psychology",
+      "link": "https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.70146?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The BOSS Framework: Understanding Everyday Negotiations Through B ackground , O pportunities , S tructural Concerns, and S ensemaking",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002290?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "People underestimate how much dissimilar others want to connect.",
+      "source": "Journal of Personality and Social Psychology",
+      "link": "https://psycnet.apa.org/record/2028-47725-001",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Issue Information",
+      "source": "British Journal of Social Psychology",
+      "link": "https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/bjso.70142?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "consumer_marketing",
+      "title": "Virtual Reality Along the Customer Journey: Thinking, Feeling, Doing, and Experiencing",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002307?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "The Relationship Between Partner Phubbing and Relationship Satisfaction: A Systematic Review and Meta-Analysis",
+      "source": "Journal of Happiness Studies",
+      "link": "https://link.springer.com/article/10.1007/s10902-026-01118-z",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "relationship"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Searching for the Core of Conspiracy Belief Systems: The Relationship Between Specific Beliefs and Generic Mentality",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70122?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "relationship"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Synthetic Data and Digital Twins: The Hype, The Facts, the Promise",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002277?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Stronger mnemonic prediction errors can disproportionately impair memory updating in older adults.",
+      "source": "Journal of Experimental Psychology: General",
+      "link": "https://psycnet.apa.org/record/2028-47194-001",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Lewis R. Goldberg (1932–2026).",
+      "source": "American Psychologist",
+      "link": "https://psycnet.apa.org/record/2028-46413-001",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "How learning and emotional goals shape strategic regulation of learning.",
+      "source": "Journal of Experimental Psychology: Applied",
+      "link": "https://psycnet.apa.org/record/2028-45329-001",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "emotional"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Anchored in truth but driven by grandiosity: A process account of narcissistic self-enhancement.",
+      "source": "Journal of Personality and Social Psychology",
+      "link": "https://psycnet.apa.org/record/2028-45658-001",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "mind_acceptance",
+      "title": "Agentic AI: Philosophical, Technical, Psychological, and Marketplace Perspectives on Delegated Agency",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002265?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "How Do the Frequency of Sexual Intercourse and the Division of Housework Relate to Happiness?",
+      "source": "Journal of Happiness Studies",
+      "link": "https://link.springer.com/article/10.1007/s10902-026-01111-6",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "gender_equality",
+      "title": "Perceived Income Inequality and Life Satisfaction: Robust Evidence from Rural Vietnam Using an Instrumental Variable Approach",
+      "source": "Journal of Happiness Studies",
+      "link": "https://link.springer.com/article/10.1007/s10902-026-01128-x",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "inequality"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Shades of traits across languages: Comparisons of Dutch, Polish, Czech, and Serbian structures of behavioral items.",
+      "source": "Journal of Personality and Social Psychology",
+      "link": "https://psycnet.apa.org/record/2028-44438-001",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Less Is More: Why and When Having Less Signals Competence",
+      "source": "Personality and Social Psychology Bulletin",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/01461672261494236?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Implicit Prejudice Differentially Predicts Placement Into Valuable and Scarce Opportunities",
+      "source": "Personality and Social Psychology Bulletin",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/01461672261494655?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Beliefs About Social Mobility Across Childhood",
+      "source": "Current Directions in Psychological Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/09637214261478590?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Unwanted Celibacy: The Role of Attachment and Masculine Discrepancy Stress",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70126?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "attachment"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Two Practices That Understate the Mental Health Risks Associated With Adolescent Social-Media Use",
+      "source": "Perspectives on Psychological Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/17456916261482033?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social",
+        "mental health"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "gender_equality",
+      "title": "The Nature of Racial Bias in the Weapon Identification Task: Discrimination Bias, Response Bias, or Both?",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70119?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The Effect of Contact With Dual Identifier Friends on Interethnic Attitudes",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70120?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The Crowd: Zooming in on Social Behaviour",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70125?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Social support processes link gratitude and well-being across cultures and over time",
+      "source": "Journal of Happiness Studies",
+      "link": "https://link.springer.com/article/10.1007/s10902-026-01126-z",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social",
+        "social support",
+        "well-being"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Searching for the Pattern: Understanding, Assessing, and Transforming Social Settings",
+      "source": "Perspectives on Psychological Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/17456916261473152?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Depth or Breadth? Domain-Specific Expertise and Cross-Domain Engagement in the Development of Scholarly Excellence",
+      "source": "Perspectives on Psychological Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/17456916261490574?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "‘Working Through’ Interpersonal Transgressions: The Role of Narration (and Re‐Narration) in the Self‐Forgiveness Processes of Wrongdoers",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70100?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "interpersonal"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "What Would Grandma Think? Social Projection Onto Dead People",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70104?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Toward a Psychology of Science: A Dynamic Cognitive Model of the Evolution of Scientific Theories",
+      "source": "Perspectives on Psychological Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/17456916261479287?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The Power to Care for Oneself: Power Increases Self‐Compassion",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70090?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Testing Competing Models of Social Evaluation in Western European, Latin America and the United States",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70089?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Stabilising Repair in Psychological Science",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70102?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Short Replies as Partial Ostracism: How Receiving Bare‐Minimum Engagement Threatens Basic Needs",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70105?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "gender_equality",
+      "title": "Reducing Intergroup Bias Towards Stigmatised Groups: How Intersectionality Models Advance Beyond Traditional Models of Social Categorisation",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70091?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Populism and the Pandemic: How the Covid‐Sceptic Movement Mobilised Opposition to Covid Measures",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70097?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "gender_equality",
+      "title": "On bias in detecting bias: A signal detection analysis of attributions to gender discrimination.",
+      "source": "Journal of Experimental Psychology: General",
+      "link": "https://psycnet.apa.org/record/2028-43438-001",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "gender"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "National Football Teams’ Performance Predicts Spectators’ Identities, Affect and Sociopolitical Attitudes: An Investigation During the 2024 EURO Tournament",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70103?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "affect"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Issue Information",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70123?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Honour the Light in Every Soul: Awe Reduces Objectification via Self‐Transcendence",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70095?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Honesty in Difficult Conversations: Insights From Healthcare Professionals",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70096?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Euromaidan and Ukrainian Subjective Well‐Being",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70099?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "well-being"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Conspiracy Beliefs as a Metacognitive Dimension of Intergroup Attitudes: A Novel Framework for Interventions",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70098?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Community as Medicine: A Qualitative Exploration of Meaningful Social Support and Health for Trans‐ and Gender‐Diverse People in England",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70093?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social",
+        "social support",
+        "gender"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "A Meta‐Analysis of Self–Other Differences in Prejudice",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70094?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Associations Between Adult Attachment and Social Anxiety in Romantic Partner Situations: Does Perceived Dyadic Coping Play a Mediational Role?",
+      "source": "Journal of Social and Personal Relationships",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/02654075261496954?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social",
+        "attachment"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Not Flourishing",
+      "source": "Journal of Happiness Studies",
+      "link": "https://link.springer.com/article/10.1007/s10902-026-01121-4",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Constructing the Enemy: Noun and Generic Party Labels Predict Partisan Prejudice in Social Media Comments",
+      "source": "Social Psychological and Personality Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/19485506261495615?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Visual attention in supervisory control: Examining the effects of mental models, information bandwidth, and contextual cues.",
+      "source": "Journal of Experimental Psychology: Applied",
+      "link": "https://psycnet.apa.org/record/2028-42684-001",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Religiosity and Well-Being in Different Cultural Contexts: Multilevel Analyses Based on Over 500,000 Individuals",
+      "source": "Journal of Happiness Studies",
+      "link": "https://link.springer.com/article/10.1007/s10902-026-01123-2",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "well-being"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Corrigendum to “Understanding, Predicting, and Preventing Suicide: Recent Advances Using Digital and Computational Methods”",
+      "source": "Current Directions in Psychological Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/09637214261495919?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "gender_equality",
+      "title": "Religious Belief‐Based Workplace Discrimination in the UK: The Importance of Intergroup Threat",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70116?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Profiles, Transitions, and Associated Factors of Dual-Factor Mental Health in Older Adults",
+      "source": "Journal of Happiness Studies",
+      "link": "https://link.springer.com/article/10.1007/s10902-026-01124-1",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "mental health"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Impressions of Deviant Disgust Expressions Are Functionally Specific",
+      "source": "Personality and Social Psychology Bulletin",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/01461672261489310?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Does Global Slowing Explain Age Effects in Inhibitory Control?",
+      "source": "Psychological Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/09567976261479660?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Extending Truth-Default Theory to Misinformation: Connecting Misinformation Scholarship and Deception Research",
+      "source": "Perspectives on Psychological Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/17456916261475589?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Artists Can Design Memory, and AI Can Predict It",
+      "source": "Psychological Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/09567976261483544?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Idea generation during emotion regulation: A proposed framework.",
+      "source": "Psychological Review",
+      "link": "https://psycnet.apa.org/record/2028-39201-001",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "emotion"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Self-Esteem as a Shared Resource Beyond Romantic Relationships: An Extension Into Friendships and Parental Relationships",
+      "source": "Journal of Social and Personal Relationships",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/02654075261498961?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "relationships"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "From self-regulation to character: digital well-being intervention effects on character strengths and subsequent distress",
+      "source": "The Journal of Positive Psychology",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/17439760.2026.2737933?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "well-being"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Organizational virtue is associated with individual virtue in the context of conflict",
+      "source": "The Journal of Positive Psychology",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/17439760.2026.2744149?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Lonely in Love, Driven to Buy: How Perceived Partner Materialism Influences Loneliness and Consumption in Romantic Relationships",
+      "source": "Journal of Social and Personal Relationships",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/02654075261496338?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "relationships",
+        "loneliness",
+        "lonely"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Just-in-time adaptive interventions to improve positive emotions in daily life: a randomized controlled experience sampling study",
+      "source": "The Journal of Positive Psychology",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/17439760.2026.2737926?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The Economics of Happiness and Economic Orthodoxy: A Comparison of Research Traditions",
+      "source": "Journal of Happiness Studies",
+      "link": "https://link.springer.com/article/10.1007/s10902-026-01120-5",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Should I Stay or Should I Go? Preference for Consistency Predicts Choice Perseveration in the Monty Hall Problem",
+      "source": "Personality and Social Psychology Bulletin",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/01461672261488891?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Reciprocal Longitudinal Associations Between Psychological Entitlement and Women’s Benevolent Sexism and Men’s Hostile Sexism: Evidence From a 13-Year RI-CLPM",
+      "source": "Social Psychological and Personality Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/19485506261490145?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Objectified and Opting Out: How Experiencing Objectification Steers Students Away From Challenging Careers",
+      "source": "Social Psychological and Personality Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/19485506261491193?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "governance_society",
+      "title": "Inflated Titles, Inflated Egos: Narcissism Predicts the Desire for Public Rewards",
+      "source": "Social Psychological and Personality Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/19485506261486505?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "George Stephen Howard (1948–2025).",
+      "source": "American Psychologist",
+      "link": "https://psycnet.apa.org/record/2028-38686-001",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "A meta-analytic review of the associations between patterning and academic achievement.",
+      "source": "Psychological Bulletin",
+      "link": "https://psycnet.apa.org/record/2028-38688-001",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "organization_work",
+      "title": "Virtues Possession and Use at Work: Testing Congruence Effects on Job Engagement, Fatigue, and Boredom",
+      "source": "Journal of Happiness Studies",
+      "link": "https://link.springer.com/article/10.1007/s10902-026-01122-3",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Moving on From Simple Operationalism: Anchoring Theoretical Constructs in Rich Relational Models",
+      "source": "Perspectives on Psychological Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/17456916261471413?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "relational"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Intellectual humility and eudaimonic well-being among emerging religious/spiritual leaders",
+      "source": "The Journal of Positive Psychology",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/17439760.2026.2744150?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "well-being"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "How Sexually Objectifying Others Undermines Connection and Collaboration",
+      "source": "Perspectives on Psychological Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/17456916261479948?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Holding meaning flexibly: a configurational perspective on adaptation and well-being",
+      "source": "The Journal of Positive Psychology",
+      "link": "https://www.tandfonline.com/doi/full/10.1080/17439760.2026.2744140?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "well-being"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Face-Matching Lineups: A Method to Control Mistaken Identifications in Video Evidence",
+      "source": "Psychological Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/09567976261487962?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Do Children Who Develop Faster Go on to Age Faster in Midlife?",
+      "source": "Psychological Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/09567976261483545?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "health_mental_health",
+      "title": "Comparing a positive psychology intervention and cognitive behavioral therapy: a randomized trial for postpartum depression",
+      "source": "Journal of Happiness Studies",
+      "link": "https://link.springer.com/article/10.1007/s10902-026-01114-3",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Commentary on Alister et al. (2025): Individual Differences or Unsystematic Noise?",
+      "source": "Psychological Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/09567976261485960?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "gender_equality",
+      "title": "Bias at Scale: Global Disparities in the Representativeness and Contextualization of Childhood Research",
+      "source": "Perspectives on Psychological Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/17456916261459902?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Valence Asymmetries of Traits in Dating Contexts",
+      "source": "European Journal of Social Psychology",
+      "link": "https://onlinelibrary.wiley.com/doi/10.1002/ejsp.70121?af=R",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "In the Worst of Times, the Best of us: External Threat and Individual Altruism at the Inter-Korean Border in 2016",
+      "source": "Journal of Happiness Studies",
+      "link": "https://link.springer.com/article/10.1007/s10902-026-01105-4",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The Search Orientation Framework: How Consumers Start, Switch, and Stop in AI-Mediated Search",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002113?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Trajectories of Marital Satisfaction in China: Risk, Protection, and Cultural Buffers",
+      "source": "Journal of Happiness Studies",
+      "link": "https://link.springer.com/article/10.1007/s10902-026-01119-y",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Your gain, my loss? Zero-sum thinking in negotiation",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002241?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "When less is more: Unifinal framing promotes intention to use social media for social connection",
+      "source": "Journal of Experimental Social Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126001435?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "gender_equality",
+      "title": "When and why women ask (or do not): Taking stock of research on gender differences in negotiation propensity, behavior, and outcomes",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002046?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "gender"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "When AI meets DEI: Employee AI-beliefs and their implications for workplace diversity, equity, and inclusion",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002034?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Two automatic motivations, two control systems: A neuroscience framework for negotiation",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002083?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Toward a greater understanding of profound and complex experiences during engagement with art",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002125?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Three tensions in unlocking creativity with GenAI",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002204?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "GenAI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The machine between us: How AI shapes the way we speak",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002216?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The increasing sensory richness of digitally-mediated experience",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26001971?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The evolving science of negotiation alternatives: New contexts, new perspectives",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002101?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "The complex relation between fiction, morality, truth, and ideology",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002289?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Technology and the psychology of experience: A temporal framework",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26001764?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Suppressed inquiry: The hidden toll of working with satisfaction-optimized AI",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26001910?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Strategic decision-making in negotiation: Lessons from behavioral game theory",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002058?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Smiling your way to happiness or misery? Experimental tests of competing perspectives [Registered Report - stage II]",
+      "source": "Journal of Experimental Social Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126001411?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Reevaluating the empirical support for a lens-based account: dissecting comparative fit and reconstructive category guessing",
+      "source": "Journal of Experimental Social Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126001423?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Recovering from inauthenticity: Counterfactual thinking and the consequences of feeling inauthentic",
+      "source": "Journal of Experimental Social Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S002210312600137X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Priming relationship pedestal beliefs in single people",
+      "source": "Journal of Experimental Social Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126001496?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "relationship"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Personality engineering with AI agents: A new methodology for negotiation research",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X2600196X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "AI agents"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Operative displacement and the psychology of smart product use",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002186?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Operationalising the arts exposome",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26001983?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Open science in negotiation research",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X2600223X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Negotiators from high negotiation frequency cultures are more likely to initiate, enjoy, persist, and succeed in negotiations",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002162?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Negotiation and relationships: Insights from adjacent, psychologically-grounded literature",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X2600206X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "relationships"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Living beyond duty: People see meaning and happiness in supererogation",
+      "source": "Journal of Experimental Social Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126001381?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Is honesty the best policy? Why people prefer false empathy over truthful unempathy",
+      "source": "Journal of Experimental Social Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S002210312600140X?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "empathy"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Introduction to the special issue: Politics, social justice, and contemporary debates in cognitive behavior therapy",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002010?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "In Memoriam Andrea Evers (1967–2025)",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002150?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Glass half empty: How pessimism is seen as a moral failing",
+      "source": "Journal of Experimental Social Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126001502?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Evidence for ideological confirmation, or how to politicize color intensity perceptions",
+      "source": "Journal of Experimental Social Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126001460?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Everyday conceptualizations of patience",
+      "source": "Journal of Experimental Social Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126001447?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Editorial overview: Adverse experiences related to psychological interventions",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002022?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Cross-cultural and Indigenous perspectives on music and social bonding",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002137?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "social"
+      ]
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Conflict expression: A decade of group conflict research",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002071?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Bridging the Human-AI preference gap: A persuasion-oriented tripartite framework",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26001958?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "emotional_social",
+      "title": "Bimodal emotion decoding: When faces and voices diverge",
+      "source": "Journal of Experimental Social Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126001459?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": [
+        "emotion"
+      ]
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Artificial intelligence in negotiation research: From computational negotiators to psychological evidence",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002095?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "Aesthetic taste in humans and machines",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26001995?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "A two-layer model of technology lay beliefs and their societal and political consequences: The case of AI",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002198?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "A signal detection analysis of source effects on misinformation susceptibility",
+      "source": "Journal of Experimental Social Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126001356?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "gender_equality",
+      "title": "A preference for sameness and associated positive emotions in interindividual discrimination, even when based on chance",
+      "source": "Journal of Experimental Social Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S0022103126001472?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "A multilevel framework for distinguishing psychopathy from related disorders",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002149?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "A modular review of the evidence for harmful manipulation by large language models",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002174?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "large language models"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "reject",
+      "topic_label": "other",
+      "title": "A critique of the over-politicization of CBT: A voice from the Global South",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002228?dgcid=rss_sd_all",
+      "matched_ai_terms": [],
+      "matched_social_terms": []
+    }
+  ],
+  "candidates": [
+    {
+      "relevance_label": "AI",
+      "topic_label": "mind_acceptance",
+      "title": "Agentic AI: Philosophical, Technical, Psychological, and Marketplace Perspectives on Delegated Agency",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002265?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Artists Can Design Memory, and AI Can Predict It",
+      "source": "Psychological Science",
+      "link": "https://journals.sagepub.com/doi/abs/10.1177/09567976261483544?af=R",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The Search Orientation Framework: How Consumers Start, Switch, and Stop in AI-Mediated Search",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002113?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "organization_work",
+      "title": "When AI meets DEI: Employee AI-beliefs and their implications for workplace diversity, equity, and inclusion",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002034?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Three tensions in unlocking creativity with GenAI",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002204?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "GenAI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "The machine between us: How AI shapes the way we speak",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002216?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Suppressed inquiry: The hidden toll of working with satisfaction-optimized AI",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26001910?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Personality engineering with AI agents: A new methodology for negotiation research",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X2600196X?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "AI agents"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Bridging the Human-AI preference gap: A persuasion-oriented tripartite framework",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26001958?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI",
+        "human-AI",
+        "Human-AI",
+        "human–AI",
+        "Human–AI",
+        "human—AI",
+        "Human—AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "Artificial intelligence in negotiation research: From computational negotiators to psychological evidence",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002095?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "artificial intelligence"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "governance_society",
+      "title": "A two-layer model of technology lay beliefs and their societal and political consequences: The case of AI",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002198?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "AI"
+      ],
+      "matched_social_terms": []
+    },
+    {
+      "relevance_label": "AI",
+      "topic_label": "other",
+      "title": "A modular review of the evidence for harmful manipulation by large language models",
+      "source": "Current Opinion in Psychology",
+      "link": "https://www.sciencedirect.com/science/article/pii/S2352250X26002174?dgcid=rss_sd_all",
+      "matched_ai_terms": [
+        "large language models"
+      ],
+      "matched_social_terms": []
+    }
+  ],
+  "failed_sources": []
+}
